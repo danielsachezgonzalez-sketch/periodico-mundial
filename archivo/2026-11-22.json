@@ -66,7 +66,8 @@
     "Cisjordania: 467 ataques de colonos en octubre, el máximo mensual registrado por la ONU desde 2006.",
     "Venezuela y Colombia: Hegseth firma un pacto militar en Caracas y entrega un C-130 en Bogotá.",
     "Colombia: la Ley de Rescate tiene audiencias esta semana y primer debate previsto hacia el 1 o 2 de diciembre.",
-    "Pakistán–Afganistán: choques fronterizos desde el 29 de octubre y 10 policías pakistaníes muertos en una emboscada del TTP."
+    "Pakistán–Afganistán: choques fronterizos desde el 29 de octubre y 10 policías pakistaníes muertos en una emboscada del TTP.",
+    "Religión: 14 cristianos asesinados en Plateau (Nigeria) y 26 personas en un ataque del ADF en el Congo; en Occidente crecen los ataques y las protestas contra mezquitas."
   ],
   "cifras": [
     {
@@ -96,6 +97,14 @@
     {
       "valor": "26",
       "texto": "presuntos integrantes del Clan del Golfo capturados, entre ellos 5 cabecillas, según la Armada."
+    },
+    {
+      "valor": "388 mill.",
+      "texto": "cristianos perseguidos en el mundo según la Lista Mundial de la Persecución 2026 de Open Doors."
+    },
+    {
+      "valor": "+183 %",
+      "texto": "aumento de ataques contra mezquitas en EE. UU. a mediados de 2026 frente al año anterior, según CAIR."
     }
   ],
   "termometro": [
@@ -178,6 +187,16 @@
       "lugar": "India – Pakistán",
       "nivel": 2,
       "nota": "Alto el fuego se mantiene"
+    },
+    {
+      "lugar": "Violencia religiosa (Nigeria, Sahel, Siria)",
+      "nivel": 4,
+      "nota": "Ataques contra cristianos y minorías"
+    },
+    {
+      "lugar": "Islamofobia en Occidente",
+      "nivel": 3,
+      "nota": "Incendios de mezquitas y protestas"
     }
   ],
   "secciones": [
@@ -647,11 +666,262 @@
       ]
     },
     {
-      "id": "musulmanes",
-      "nombre": "El mundo musulmán",
-      "corto": "Musulmanes",
-      "subtitulo": "Comunidades musulmanas perseguidas, desplazadas o en guerra",
+      "id": "religion",
+      "nombre": "Religión y conflicto",
+      "corto": "Religión",
+      "subtitulo": "Víctimas y victimarios: cristianos perseguidos, terrorismo islamista, islamofobia y minorías",
       "articulos": [
+        {
+          "antetitulo": "Cristianos perseguidos · África",
+          "titulo": "Yihadistas y milicias siguen matando cristianos en Nigeria y el Congo: 14 muertos en Plateau y 26 en un ataque del ADF",
+          "bajada": "Open Doors cuenta 388 millones de cristianos perseguidos en el mundo; el 93 % de los asesinados por su fe murió en el África subsahariana.",
+          "lugar": "Plateau (Nigeria) / Kivu del Norte (RD Congo)",
+          "imagen": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Boko_Haram_hostages_released_VOA.jpg",
+            "pie": "Mujeres y niños liberados tras estar cautivos de Boko Haram en el noreste de Nigeria. Foto de archivo.",
+            "credito": "VOA / Wikimedia Commons",
+            "licencia": "Dominio público",
+            "fecha_foto": "2014",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:Boko_Haram_hostages_released_VOA.jpg"
+          },
+          "cuerpo": [
+            "Al menos 14 cristianos murieron en nuevos ataques en cuatro áreas de gobierno local del estado de Plateau, en el centro de Nigeria, según un informe del 17 de noviembre de International Christian Concern (ICC). En la RD Congo, las Fuerzas Democráticas Aliadas (ADF), grupo afiliado al Estado Islámico, mataron a 26 personas y secuestraron a varias más en un ataque el 10 de noviembre, según la misma organización.",
+            "La ONG nigeriana Intersociety estima que unos 7.500 cristianos fueron asesinados en África entre enero y el 10 de octubre de 2026, unos 4.300 de ellos en Nigeria y unos 2.000 en la RD Congo. Es una estimación de un grupo de defensa, no un conteo verificado de forma independiente. Ayuda a la Iglesia Necesitada reporta más de 3,5 millones de desplazados en Nigeria y la expansión del grupo JNIM en Burkina Faso, donde los cristianos sufren asesinatos y restricciones para practicar su fe.",
+            "La Lista Mundial de la Persecución 2026 de Open Doors contabilizó 388 millones de cristianos perseguidos (cifra récord), 4.849 asesinados por su fe en el periodo analizado (93 % en el África subsahariana, con Nigeria a la cabeza) y 15 países en nivel «extremo». Siria pasó del puesto 18 al 6.",
+            "El Gobierno nigeriano rechaza que exista un «genocidio cristiano»: atribuye la violencia al terrorismo, el bandidaje, los secuestros y los conflictos por la tierra, que según Abuja afectan a ciudadanos de todas las religiones. El presidente Bola Tinubu afirma que el país garantiza la libertad religiosa. EE. UU., que designó a Nigeria «país de especial preocupación» en octubre de 2025, sostiene un año después que Abuja no ha hecho lo suficiente, aunque reconoce un despliegue de seguridad en marcha."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "International Christian Concern",
+              "url": "https://persecution.org/region/africa/"
+            },
+            {
+              "nombre": "Vanguard (Intersociety)",
+              "url": "https://www.vanguardngr.com/2026/10/intersociety-claims-7500-christians-killed-in-africa/"
+            },
+            {
+              "nombre": "Sahara Reporters (ACN)",
+              "url": "https://saharareporters.com/2026/10/29/over-35million-displaced-christian-persecution-worsens-nigeria-global-report-warns"
+            },
+            {
+              "nombre": "Vatican News (Open Doors 2026)",
+              "url": "https://www.vaticannews.va/en/church/news/2026-01/open-doors-world-watch-list-2026-report-christians-persecuted.html"
+            },
+            {
+              "nombre": "TRT Afrika (posición de Nigeria)",
+              "url": "https://www.trtafrika.com/english/article/26da64d01343/amp"
+            },
+            {
+              "nombre": "The Eagle Online (posición de EE. UU.)",
+              "url": "https://theeagleonline.com.ng/nigeria-not-doing-enough-to-stop-attacks-on-christians-us/"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Islamofobia · EE. UU., España, Argentina, Reino Unido e Israel",
+          "titulo": "Mezquitas incendiadas, protestas y discursos contra el islam se extienden en Occidente",
+          "bajada": "En EE. UU. se incendió una mezquita en Alabama; en España, Vox protestó frente a una mezquita de Toledo y 14 neonazis fueron detenidos por planear ataques; en Argentina, un diputado pidió frenar el «avance» del islam.",
+          "lugar": "Varios países",
+          "tamano": "ancho",
+          "cuerpo": [
+            "Estados Unidos: la Sociedad Islámica de Gadsden (Alabama) sufrió un ataque incendiario y la policía detuvo a un sospechoso. La organización musulmana CAIR documentó 17 incidentes de este tipo en tres meses de mediados de 2026, un 183 % más que el año anterior. En Urbandale (Iowa), vecinos se opusieron a una nueva mezquita ya aprobada por la ciudad, citando entre otras cosas el ruido del llamado a la oración; CAIR calificó la oposición de prejuiciosa. En Minnesota, el FBI registró 12 delitos de odio antiislámicos, dos de ellos en mezquitas.",
+            "España: el 17 de noviembre, un acto informativo de Vox convocado a las puertas de una mezquita de Fuensalida (Toledo) terminó en un encontronazo con vecinos magrebíes; Vox lo calificó de «boicot». En Gijón, un sumario judicial revela que la filial juvenil del grupo ultra Núcleo Nacional planeaba encerrar a fieles durante el Ramadán y atacar mezquitas; hubo 14 detenidos en siete provincias. En Sevilla, opositores a un centro islámico aprobado en el Polígono Sur dejaron restos de cerdo en el solar. En julio, cientos de personas protestaron en Madrid contra la inmigración frente a la embajada de Marruecos, acusando al Gobierno de «vender España a los musulmanes».",
+            "Argentina: el 21 de noviembre, el diputado Ramiro Marra pidió que el islam «no avance» en el país, mientras la diputada Sabrina Ajmechet organizó un encuentro en defensa de la comunidad musulmana. El Centro Islámico (CIRA) denunció penalmente al militante libertario Daniel Parisini («Gordo Dan») por vincular al islam con la violencia; el caso terminó en conciliación ante un juez federal. Chequeado documentó narrativas de «invasión musulmana» en redes y aclaró que no hay datos que muestren un crecimiento masivo del islam en el país. En abril, allanamientos a familias chiíes en Buenos Aires fueron denunciados como «islamofóbicos» por entidades religiosas.",
+            "Reino Unido: la investigación por el incendio de la mezquita de Peacehaven (octubre de 2025, con dos personas dentro) sumó tres detenidos más en 2026, con participación de la policía antiterrorista. Israel: el 19 de noviembre fue incendiada una mezquita en la localidad árabe de al-Dahi; políticos de la oposición culparon a la «incitación» de Netanyahu. India: un oratorio musulmán en Bombay fue demolido tras protestas de nacionalistas hindúes."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "WVTM 13 (Gadsden)",
+              "url": "https://www.wvtm13.com/article/alabama-mosque-attack-anti-muslim-incidents/74457041"
+            },
+            {
+              "nombre": "CAIR (Iowa)",
+              "url": "https://www.cair.com/press_releases/cair-welcomes-approval-of-new-iowa-mosque-despite-bigoted-opposition/"
+            },
+            {
+              "nombre": "Bridge Initiative, Georgetown",
+              "url": "https://bridge.georgetown.edu/today_islamophobia/november-3-2026/"
+            },
+            {
+              "nombre": "Press Digital (Fuensalida)",
+              "url": "https://www.pressdigital.es/articulo/politica/2026-11-17/6095699-acto-vox-convocado-puertas-mezquita-fuensalida-acaba-encontronazo-vecinos-magrebies"
+            },
+            {
+              "nombre": "Moncloa.com (Núcleo Nacional)",
+              "url": "https://www.moncloa.com/2026/11/12/nucleo-nacional-asturias-mezquitas-3466459/"
+            },
+            {
+              "nombre": "La Nación (Sevilla)",
+              "url": "https://www.lanacion.com.ar/el-mundo/el-metodo-extremo-de-protesta-para-evitar-que-se-construya-una-mezquita-en-sevilla-nid06082026/"
+            },
+            {
+              "nombre": "El Universo (Madrid)",
+              "url": "https://www.eluniverso.com/noticias/internacional/cientos-protestan-en-madrid-contra-migracion-tras-ola-de-personas-que-llegaron-a-ceuta-nota/"
+            },
+            {
+              "nombre": "El Intransigente (Marra)",
+              "url": "https://elintransigente.com/2026/11/21/ramiro-marra-pidio-islam-no-avance-argentina-cuestiono-martin-menem/"
+            },
+            {
+              "nombre": "Chequeado",
+              "url": "https://chequeado.com/ultimas-noticias/invasion-musulmana-que-narrativas-sobre-el-islam-circulan-en-redes-sociales-en-argentina-y-quienes-las-impulsan/"
+            },
+            {
+              "nombre": "La Nación (interna libertaria)",
+              "url": "https://www.lanacion.com.ar/politica/escala-la-interna-libertaria-por-el-islam-el-gordo-dan-ataco-a-benegas-lynch-el-procer-de-milei-y-a-nid21102026/"
+            },
+            {
+              "nombre": "Brighton & Hove News (Peacehaven)",
+              "url": "https://www.brightonandhovenews.org/2026/03/25/three-more-arrested-in-peacehaven-mosque-arson-investigation/"
+            },
+            {
+              "nombre": "Al Jazeera (al-Dahi)",
+              "url": "https://www.aljazeera.com/news/2026/11/19/mosque-set-on-fire-in-israel-politicians-blame-netanyahus-incitement"
+            },
+            {
+              "nombre": "Muslim Network TV (India)",
+              "url": "https://www.muslimnetwork.tv/muslim-prayer-room-demolished-after-hindutva-protests-in-india/"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Terrorismo islamista · Oriente Medio",
+          "titulo": "Jordania condena a muerte a tres yihadistas por la masacre de nueve cristianos en un funeral",
+          "lugar": "Hmoud, Karak (Jordania)",
+          "cuerpo": [
+            "El 23 de octubre, hombres armados abrieron fuego durante un funeral en la iglesia ortodoxa griega de San Jorge, en Hmoud, unos 80 km al sur de Amán: murieron nueve cristianos y hubo entre 25 y 34 heridos, según distintas fuentes. Uno de los atacantes había sido condenado en 2021 por un complot terrorista del Estado Islámico y había salido de prisión recientemente.",
+            "El 15 de noviembre, un tribunal jordano condenó a los tres autores a muerte en la horca; dos hombres que les vendieron las armas recibieron seis años de prisión. Las Fuerzas Armadas jordanas dijeron haber matado al menos a 20 miembros del Estado Islámico en ataques en Siria como respuesta. El Gobierno y líderes musulmanes jordanos condenaron el atentado y defendieron la convivencia religiosa del país."
+          ],
+          "tono": "negativa",
+          "verificacion": "confirmado",
+          "fuentes": [
+            {
+              "nombre": "The National (15 nov.)",
+              "url": "https://www.thenationalnews.com/news/mena/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack/"
+            },
+            {
+              "nombre": "America Magazine",
+              "url": "https://www.americamagazine.org/politics-society/weekly-dispatch/2026/11/05/islamist-terror-attack-karak-jordan-christian-community/"
+            },
+            {
+              "nombre": "The Christian Post",
+              "url": "https://www.christianpost.com/news/3-islamic-extremists-sentenced-to-death-for-church-massacre.html"
+            },
+            {
+              "nombre": "Wikipedia: ataque de Karak 2026",
+              "url": "https://en.wikipedia.org/wiki/2026_Karak_church_shooting"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Terrorismo islamista · Europa",
+          "titulo": "Europa suma ataques inspirados por el Estado Islámico en 2026: atropello y apuñalamientos en Berlín, Winterthur y París",
+          "lugar": "Berlín / Winterthur / París",
+          "imagen": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/CSD_attack_memorial_tree_Gro%C3%9Fer_Tiergarten_Berlin_2026-08-06_02.jpg/960px-CSD_attack_memorial_tree_Gro%C3%9Fer_Tiergarten_Berlin_2026-08-06_02.jpg",
+            "pie": "Árbol en memoria de las víctimas del ataque de julio en Berlín, en el parque Tiergarten.",
+            "credito": "Leonhard Lenz / Wikimedia Commons",
+            "licencia": "CC0",
+            "fecha_foto": "6 ago. 2026",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:CSD_attack_memorial_tree_Gro%C3%9Fer_Tiergarten_Berlin_2026-08-06_02.jpg"
+          },
+          "cuerpo": [
+            "A finales de julio, en Berlín, un ciudadano alemán de origen libanés embistió con una furgoneta alquilada a una multitud y luego apuñaló a varias personas: murió una mujer y al menos 29 resultaron heridas. En su teléfono había un video jurando lealtad al Estado Islámico, según el Soufan Center.",
+            "El 28 de mayo, un apuñalamiento en la estación de Winterthur (Suiza) dejó tres heridos; la Fiscalía lo investiga como posible terrorismo y el sospechoso habría expresado apoyo al Estado Islámico. El 27 de julio, tres mujeres fueron apuñaladas en el centro de París por un hombre que, según la policía, dijo haber sido «enviado por Alá»; el ministro del Interior pidió prudencia por sus «declaraciones incoherentes» y el móvil sigue en discusión.",
+            "El Soufan Center describe un repunte de detenciones, complots frustrados y ataques en Europa. El ICCT atribuye además a un grupo presuntamente vinculado a Irán (HAYI) 18 ataques desde marzo, 12 de ellos contra instituciones judías. Las organizaciones musulmanas europeas condenan estos atentados y advierten que los grupos extremistas también usan los ataques para alimentar el odio contra toda la comunidad."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "The Soufan Center",
+              "url": "https://thesoufancenter.org/intelbrief-2026-july-29/"
+            },
+            {
+              "nombre": "Wikipedia: ataque de Winterthur 2026",
+              "url": "https://en.wikipedia.org/wiki/2026_Winterthur_stabbing_attack"
+            },
+            {
+              "nombre": "ICCT",
+              "url": "https://icct.nl/publication/antisemitism-and-violent-extremism-europe-analysis-trends-and-incidents"
+            },
+            {
+              "nombre": "Wikipedia: atentados de 2026",
+              "url": "https://en.wikipedia.org/wiki/List_of_terrorist_incidents_in_2026"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Minorías religiosas · Siria",
+          "titulo": "Alauíes, drusos y cristianos siguen bajo ataque en la Siria de Al Sharaa",
+          "lugar": "Homs / Sweida / Damasco",
+          "imagen": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Maaloula_01.jpg/960px-Maaloula_01.jpg",
+            "pie": "Maalula, uno de los pueblos cristianos más antiguos de Siria. Foto de archivo.",
+            "credito": "Bernard Gagnon / Wikimedia Commons",
+            "licencia": "CC BY-SA 3.0",
+            "fecha_foto": "2010",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:Maaloula_01.jpg"
+          },
+          "cuerpo": [
+            "La Comisión de la ONU sobre Siria considera que la violencia sectaria ha bajado desde julio de 2025 pero «no ha cesado». La Comisión de EE. UU. sobre Libertad Religiosa (USCIRF) afirma que la situación ha empeorado desde 2024, con ataques contra alauíes, drusos y cristianos y amenazas del Estado Islámico.",
+            "Christian Solidarity International documentó en el tercer trimestre de 2026 el asesinato de un joven alauí en la aldea mixta alauí-cristiana de Rableh (Homs), un artefacto explosivo que mató a tres personas en el distrito druso de Jaramana y el secuestro de un cristiano en Sweida. En marzo, los patriarcas católico, ortodoxo y ortodoxo oriental limitaron la Semana Santa a rezos dentro de los templos por la violencia de milicianos islamistas.",
+            "El Gobierno de Ahmed al Sharaa promete proteger a todas las comunidades y ha abierto procesos judiciales; analistas de Just Security critican que esos tribunales son poco transparentes y tratan los crímenes como venganzas personales y no como violencia sectaria."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "Christian Solidarity International",
+              "url": "https://www.csi-int.org/news/syria-quarterly-report-attacks-on-religious-minorities-july-sept-2026"
+            },
+            {
+              "nombre": "Biblioteca de la Cámara de los Comunes (Reino Unido)",
+              "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10429/"
+            },
+            {
+              "nombre": "USCIRF: Siria 2026",
+              "url": "https://www.uscirf.gov/sites/default/files/2026-05/2026%20Syria%20Country%20Update.pdf"
+            },
+            {
+              "nombre": "Providence",
+              "url": "https://providencemag.com/2026/08/syria-is-not-yet-safe-for-christians-under-al-sharaa/"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Blasfemia · Pakistán",
+          "titulo": "Una turba quema la casa y la farmacia de un cristiano acusado de blasfemia en Punyab",
+          "lugar": "Narang Mandi, Sheikhupura (Pakistán)",
+          "cuerpo": [
+            "El 8 de octubre, tras una acusación de blasfemia, una multitud incendió la vivienda y la farmacia de un hombre cristiano en Narang Mandi. La policía lo detuvo y lo trasladó a un lugar seguro; su familia y otros cristianos abandonaron el pueblo por miedo a más ataques.",
+            "La Comisión de Derechos Humanos de Pakistán reporta que los casos de blasfemia registrados cayeron cerca de dos tercios en 2026 (13 en lo que va del año), pero USCIRF advierte que las víctimas siguen amenazadas incluso tras ser absueltas. Los ahmadíes, declarados «no musulmanes» por la Constitución desde 1974, y los chiíes también sufren violencia. Pakistán defiende sus leyes como protección de la religión y ha detenido a decenas de atacantes en casos anteriores."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "International Christian Concern (13 oct.)",
+              "url": "https://persecution.org/2026/10/13/mob-burns-christian-mans-home-pharmacy-over-blasphemy-allegation/"
+            },
+            {
+              "nombre": "ICC: casos en descenso",
+              "url": "https://persecution.org/2026/08/20/pakistani-christians-remain-on-edge-even-as-blasphemy-cases-decline/"
+            },
+            {
+              "nombre": "USCIRF: Pakistán 2026",
+              "url": "https://www.uscirf.gov/sites/default/files/2026-10/2026%20Pakistan%20Country%20Brief.pdf"
+            },
+            {
+              "nombre": "Devpolicy",
+              "url": "https://devpolicy.org/faith-under-siege-ahmadis-christians-and-shias-face-violence-in-pakistan-20260130/"
+            }
+          ]
+        },
         {
           "antetitulo": "Justicia internacional",
           "titulo": "La Corte Internacional de Justicia declara que Myanmar cometió genocidio contra los rohinyá",
@@ -697,20 +967,32 @@
         },
         {
           "antetitulo": "Panorama",
-          "titulo": "Dónde sufren hoy las poblaciones musulmanas: un mapa de la crisis",
+          "titulo": "Víctimas y victimarios: el mapa de la violencia religiosa hoy",
           "lugar": "Varios países",
           "tamano": "ancho",
           "cuerpo": [
+            "Cuando los musulmanes son víctimas: Gaza y Cisjordania, Sudán (país de mayoría musulmana en guerra civil), los rohinyá en Myanmar e India, los uigures en China (sin novedades verificadas hoy; la ONU habló en 2022 de posibles crímenes de lesa humanidad, Pekín lo niega) y los ataques contra mezquitas y comunidades en EE. UU., Europa, Argentina, Israel e India.",
+            "Cuando grupos que actúan en nombre del islam son victimarios: Boko Haram, el Estado Islámico en África Occidental, las ADF en el Congo, JNIM en el Sahel y el Estado Islámico en Mozambique atacan aldeas e iglesias cristianas; en Pakistán, turbas atacan a cristianos y ahmadíes acusados de blasfemia; en Siria, milicias islamistas atacan a alauíes, drusos y cristianos; en Europa y Jordania hubo atentados yihadistas en 2026.",
+            "Un mismo grupo puede ser víctima y victimario según el lugar: en el Sahel y Nigeria, la mayoría de las víctimas de los yihadistas también son musulmanas. Y en el centro de Nigeria la violencia mezcla religión, etnia y disputas por la tierra entre agricultores (mayoritariamente cristianos) y pastores (mayoritariamente musulmanes), lo que explica por qué Gobiernos, iglesias y analistas no se ponen de acuerdo en cómo llamarla.",
             "Palestina: Gaza, de mayoría musulmana, vive inundaciones en campamentos y 1.622 muertos desde el alto el fuego (Ministerio de Salud de Gaza); en Cisjordania, la ONU registró 467 ataques de colonos en octubre, el máximo mensual desde 2006.",
             "Sudán: país de mayoría musulmana, con una de las peores crisis humanitarias del planeta; drones de ambos bandos han matado civiles en Kordofán y Jartum, según Amnistía y la ONU.",
-            "Irán y Baréin: civiles en el Golfo viven bajo ataques cruzados; un residente pakistaní quedó en estado crítico en Sitra, según Baréin.",
-            "Sahel: aunque los grupos yihadistas se proclaman islámicos, la mayoría de sus víctimas son civiles musulmanes de Malí, Burkina Faso y Níger.",
-            "Uigures (China): hoy no hay novedades verificadas. Como contexto, la ONU concluyó en 2022 que las detenciones masivas en Xinjiang podrían constituir crímenes de lesa humanidad; Pekín lo rechaza y habla de lucha antiterrorista y formación profesional.",
-            "India: organizaciones de derechos humanos denuncian detenciones y amenazas de deportación de refugiados rohinyá; el Gobierno indio sostiene que son inmigrantes irregulares."
+            "Irán y Baréin: civiles en el Golfo viven bajo ataques cruzados; un residente pakistaní quedó en estado crítico en Sitra, según Baréin."
           ],
           "tono": "neutral",
           "verificacion": "parcial",
           "fuentes": [
+            {
+              "nombre": "Open Doors: tendencias",
+              "url": "https://www.opendoorsus.org/persecution/trends"
+            },
+            {
+              "nombre": "ACLED",
+              "url": "https://acleddata.com/report/jihadist-groups-pose-growing-and-expanding-threat-africa"
+            },
+            {
+              "nombre": "Uyghur Human Rights Project",
+              "url": "https://uhrp.org/report/nets-cast-from-the-earth-to-the-sky-chinas-hunt-for-pakistans-uyghurs/"
+            },
             {
               "nombre": "Uyghur Human Rights Project",
               "url": "https://uhrp.org/report/nets-cast-from-the-earth-to-the-sky-chinas-hunt-for-pakistans-uyghurs/"
@@ -800,6 +1082,58 @@
         {
           "nombre": "PBS / AP",
           "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough"
+        }
+      ]
+    },
+    {
+      "tema": "Nigeria: ¿persecución de cristianos o violencia por tierra y bandidaje?",
+      "lado_a": {
+        "quien": "Organizaciones cristianas y Gobierno de EE. UU.",
+        "parrafos": [
+          "Open Doors, Intersociety e International Christian Concern sostienen que los cristianos son atacados por su fe: hablan de miles de muertos al año, iglesias quemadas y pastores secuestrados. Washington designó a Nigeria «país de especial preocupación» y dice que Abuja no ha hecho lo suficiente."
+        ]
+      },
+      "lado_b": {
+        "quien": "Gobierno de Nigeria",
+        "parrafos": [
+          "Abuja rechaza la palabra «genocidio»: dice que el terrorismo, el bandidaje y los conflictos por la tierra afectan a ciudadanos de todas las religiones, también a musulmanes, y que el país garantiza la libertad religiosa. Acusa a algunos legisladores estadounidenses de usar datos inexactos."
+        ]
+      },
+      "verificable": "Hay ataques documentados contra comunidades e iglesias cristianas, y también abundantes víctimas musulmanas del yihadismo y del bandidaje en el norte. Las cifras totales de cristianos asesinados provienen de organizaciones de defensa y varían mucho entre sí.",
+      "fuentes": [
+        {
+          "nombre": "Al Jazeera (análisis)",
+          "url": "https://www.aljazeera.com/news/2026/2/19/from-us-threats-to-holding-hands-did-nigeria-disarm-trump-on-security"
+        },
+        {
+          "nombre": "TRT Afrika",
+          "url": "https://www.trtafrika.com/english/article/26da64d01343/amp"
+        }
+      ]
+    },
+    {
+      "tema": "Islam en Occidente: ¿amenaza a la seguridad o blanco del odio?",
+      "lado_a": {
+        "quien": "Partidos y voces que piden frenar el islam (Vox, Ramiro Marra y otros)",
+        "parrafos": [
+          "Señalan los atentados yihadistas de Berlín, Winterthur o París y el aumento de detenciones por terrorismo como prueba de que la inmigración desde países musulmanes y la expansión de mezquitas ponen en riesgo la seguridad y la identidad cultural."
+        ]
+      },
+      "lado_b": {
+        "quien": "Comunidades musulmanas y organizaciones antidiscriminación (CAIR, CIRA)",
+        "parrafos": [
+          "Responden que la inmensa mayoría de los musulmanes condena el terrorismo, que culpar a toda una religión alimenta ataques como los de Gadsden, Peacehaven o los complots neonazis en España, y que los datos no muestran una «invasión» (Chequeado, en Argentina)."
+        ]
+      },
+      "verificable": "En 2026 hay tanto atentados yihadistas documentados en Europa como ataques contra mezquitas y un aumento de incidentes antimusulmanes registrados por CAIR en EE. UU. Las dos realidades coexisten.",
+      "fuentes": [
+        {
+          "nombre": "The Soufan Center",
+          "url": "https://thesoufancenter.org/intelbrief-2026-july-29/"
+        },
+        {
+          "nombre": "WVTM 13",
+          "url": "https://www.wvtm13.com/article/alabama-mosque-attack-anti-muslim-incidents/74457041"
         }
       ]
     }
@@ -1052,6 +1386,10 @@
     {
       "cuando": "En curso",
       "que": "Intento iraní de cruzar el bloqueo; diálogo mediado por Qatar."
+    },
+    {
+      "cuando": "Enero de 2027",
+      "que": "Open Doors publica su Lista Mundial de la Persecución 2027 (se publica cada año a mediados de enero)."
     }
   ]
 }
