@@ -1,0 +1,391 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>El Centinela Global</title>
+<meta name="description" content="Diario de los conflictos del mundo: guerras, tensiones, mundo musulmán y gobierno de Colombia. Se actualiza todos los días a las 8:00 a. m. (hora de Colombia).">
+<meta name="theme-color" content="#efe6cf">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&family=Oswald:wght@500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --papel:#efe6cf; --papel-2:#e6dabb; --tinta:#1b1712; --tinta-2:#4a4237; --tinta-3:#7a6f5f;
+  --regla:#2a241c; --rojo:#8c1c13; --verde:#2f5d2a; --ambar:#8a5a00;
+  --serif-t:"Playfair Display", Georgia, serif; --serif:"Libre Caslon Text", Georgia, "Times New Roman", serif;
+  --gotica:"UnifrakturMaguntia", "Old English Text MT", serif; --cond:"Oswald", "Arial Narrow", sans-serif;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--papel); color:var(--tinta); font-family:var(--serif); font-size:16px; line-height:1.55;
+  background-image:
+    radial-gradient(ellipse at 20% 10%, rgba(255,255,255,.35), transparent 60%),
+    radial-gradient(ellipse at 80% 90%, rgba(120,90,40,.10), transparent 60%);
+}
+a{color:inherit}
+.hoja{max-width:1240px; margin:0 auto; padding:18px 16px 40px}
+/* ---------- CABECERA ---------- */
+.franja{display:flex; justify-content:space-between; flex-wrap:wrap; gap:6px 18px; font-family:var(--cond); text-transform:uppercase; letter-spacing:.08em; font-size:12px; border-bottom:1px solid var(--regla); padding-bottom:6px; color:var(--tinta-2)}
+.cabecera{text-align:center; padding:10px 0 6px; border-bottom:4px double var(--regla)}
+.cabecera h1{font-family:var(--gotica); font-weight:400; font-size:clamp(44px, 9vw, 104px); line-height:1; margin:6px 0 4px; letter-spacing:.01em}
+.lema{font-style:italic; font-size:15px; color:var(--tinta-2); margin:0}
+.datosEd{display:flex; justify-content:space-between; flex-wrap:wrap; gap:4px 16px; border-bottom:1px solid var(--regla); padding:6px 0; font-family:var(--cond); font-size:13px; letter-spacing:.06em; text-transform:uppercase}
+.indice{display:flex; flex-wrap:wrap; justify-content:center; gap:4px 0; border-bottom:3px solid var(--regla); padding:7px 0; font-family:var(--cond); font-size:13px; text-transform:uppercase; letter-spacing:.05em}
+.indice a{text-decoration:none; padding:0 10px; border-right:1px solid var(--tinta-3)}
+.indice a:last-child{border-right:0}
+.indice a:hover{color:var(--rojo)}
+/* ---------- PORTADA ---------- */
+.portada{display:grid; grid-template-columns: minmax(0,2.3fr) minmax(0,1fr); gap:0; border-bottom:3px solid var(--regla); margin-top:14px}
+.principal{padding-right:20px; border-right:1px solid var(--regla); padding-bottom:16px}
+.lateral{padding-left:20px; padding-bottom:16px}
+.antetitulo{font-family:var(--cond); text-transform:uppercase; letter-spacing:.1em; font-size:12px; color:var(--rojo); margin:0 0 4px}
+.titularGrande{font-family:var(--serif-t); font-weight:900; font-size:clamp(30px, 5vw, 58px); line-height:1.03; margin:0 0 10px; letter-spacing:-.01em}
+.bajada{font-family:var(--serif-t); font-style:italic; font-weight:700; font-size:clamp(17px,2vw,21px); line-height:1.3; margin:0 0 12px; color:var(--tinta-2)}
+.firma{font-family:var(--cond); font-size:11.5px; text-transform:uppercase; letter-spacing:.08em; color:var(--tinta-3); border-top:1px solid var(--tinta-3); border-bottom:1px solid var(--tinta-3); padding:3px 0; margin:0 0 10px; display:flex; flex-wrap:wrap; gap:4px 12px}
+.cols{column-gap:22px; column-rule:1px solid rgba(42,36,28,.35); text-align:justify; hyphens:auto; -webkit-hyphens:auto}
+.cols p{margin:0 0 .7em; text-indent:1.2em}
+.cols p:first-child{text-indent:0}
+.c3{columns:3 220px}.c2{columns:2 240px}
+.capitular > p:first-child::first-letter{font-family:var(--serif-t); font-weight:900; float:left; font-size:4.1em; line-height:.82; padding:6px 8px 0 0; color:var(--tinta)}
+figure{margin:0 0 12px}
+figure img{width:100%; display:block; filter:grayscale(1) sepia(.28) contrast(1.08) brightness(.97); border:1px solid var(--regla); background:var(--papel-2); aspect-ratio:16/10; object-fit:cover}
+figure img.mapa{object-fit:contain; background:#f7f1e1}
+figure.color img{filter:sepia(.15) contrast(1.02)}
+figcaption{font-size:12.5px; line-height:1.35; color:var(--tinta-2); padding-top:4px; border-bottom:1px solid var(--tinta-3); padding-bottom:5px}
+figcaption .cred{display:block; font-family:var(--cond); font-size:10.5px; letter-spacing:.05em; text-transform:uppercase; color:var(--tinta-3); margin-top:2px}
+.verFoto{font-family:var(--cond); font-size:10.5px; text-transform:uppercase; letter-spacing:.06em; background:none; border:1px solid var(--tinta-3); color:var(--tinta-2); padding:1px 6px; cursor:pointer; margin-top:4px}
+/* Recuadros laterales */
+.recuadro{border:1px solid var(--regla); padding:10px 12px 12px; margin-bottom:14px; background:rgba(255,255,255,.18)}
+.recuadro h3{font-family:var(--cond); text-transform:uppercase; letter-spacing:.1em; font-size:14px; margin:0 0 8px; padding-bottom:5px; border-bottom:2px solid var(--regla); text-align:center}
+.esencial{margin:0; padding:0; list-style:none; counter-reset:e}
+.esencial li{counter-increment:e; padding:6px 0 6px 26px; border-bottom:1px dotted var(--tinta-3); position:relative; font-size:14.5px; line-height:1.4}
+.esencial li:last-child{border-bottom:0}
+.esencial li::before{content:counter(e); position:absolute; left:0; top:5px; font-family:var(--serif-t); font-weight:900; font-size:17px}
+.cifra{display:grid; grid-template-columns:auto 1fr; gap:2px 10px; align-items:baseline; padding:6px 0; border-bottom:1px dotted var(--tinta-3)}
+.cifra:last-child{border-bottom:0}
+.cifra b{font-family:var(--serif-t); font-weight:900; font-size:24px; line-height:1}
+.cifra span{font-size:13px; line-height:1.3}
+.termo{width:100%; border-collapse:collapse; font-size:13.5px}
+.termo td{padding:5px 0; border-bottom:1px dotted var(--tinta-3); vertical-align:top}
+.termo td:last-child{text-align:right; white-space:nowrap; font-family:var(--cond); letter-spacing:.04em}
+.nivel{display:inline-flex; gap:2px; vertical-align:middle}
+.nivel i{width:9px; height:9px; border:1px solid var(--tinta); display:inline-block}
+.nivel i.on{background:var(--tinta)}
+.nivel.n5 i.on{background:var(--rojo); border-color:var(--rojo)}
+.nivel.n4 i.on{background:#6b2a1a}
+.nota-term{font-size:11.5px; color:var(--tinta-3); margin:6px 0 0; font-style:italic}
+/* ---------- SECCIONES ---------- */
+.seccion{margin-top:26px; scroll-margin-top:10px}
+.cabSec{display:flex; align-items:center; gap:12px; border-top:4px solid var(--regla); border-bottom:1px solid var(--regla); padding:5px 0; margin-bottom:14px}
+.cabSec .letra{font-family:var(--cond); background:var(--tinta); color:var(--papel); padding:2px 9px; font-size:14px; letter-spacing:.08em}
+.cabSec h2{font-family:var(--serif-t); font-weight:900; font-size:clamp(22px,3.2vw,32px); margin:0; line-height:1.1; text-transform:uppercase; letter-spacing:.02em}
+.cabSec .sub{margin-left:auto; font-style:italic; color:var(--tinta-2); font-size:14px; text-align:right}
+.rejilla{display:grid; grid-template-columns:repeat(12, minmax(0,1fr)); gap:0}
+.art{grid-column:span 4; padding:0 14px 16px; border-left:1px solid rgba(42,36,28,.45); margin-bottom:12px}
+.art.ancho{grid-column:span 8}
+.art.completo{grid-column:1 / -1}
+.rejilla > .art:first-child{border-left:0; padding-left:0}
+.art h3{font-family:var(--serif-t); font-weight:900; font-size:clamp(20px,2.3vw,26px); line-height:1.1; margin:0 0 6px}
+.art.ancho h3{font-size:clamp(23px,3vw,34px)}
+.art .bajada{font-size:16px}
+.art .cols{font-size:15.5px}
+.etiquetas{display:flex; flex-wrap:wrap; gap:6px; margin:8px 0 0}
+.tag{font-family:var(--cond); font-size:10.5px; letter-spacing:.07em; text-transform:uppercase; padding:1px 6px; border:1px solid currentColor}
+.tag.neg{color:var(--rojo)} .tag.pos{color:var(--verde)} .tag.neu{color:var(--tinta-2)}
+.tag.conf{color:var(--tinta)} .tag.parc{color:var(--ambar)} .tag.nover{color:var(--rojo); border-style:dashed}
+.fuentesArt{font-size:12px; color:var(--tinta-2); margin-top:8px; line-height:1.45}
+.fuentesArt a{color:var(--tinta-2)}
+.fuentesArt b{font-family:var(--cond); font-weight:500; text-transform:uppercase; letter-spacing:.06em; font-size:11px}
+/* Dos caras */
+.moneda{border:2px solid var(--regla); margin-bottom:18px; background:rgba(255,255,255,.15)}
+.moneda > h3{margin:0; padding:8px 12px; font-family:var(--serif-t); font-weight:900; font-size:clamp(19px,2.4vw,25px); border-bottom:1px solid var(--regla); text-align:center}
+.lados{display:grid; grid-template-columns:1fr 1fr}
+.lado{padding:10px 14px 12px}
+.lado + .lado{border-left:1px solid var(--regla)}
+.lado h4{font-family:var(--cond); text-transform:uppercase; letter-spacing:.08em; font-size:13px; margin:0 0 6px; border-bottom:1px solid var(--tinta-3); padding-bottom:4px}
+.lado p{margin:0 0 .5em; font-size:15px; text-align:justify; hyphens:auto}
+.verificable{border-top:1px solid var(--regla); padding:9px 14px; font-size:14.5px; background:rgba(0,0,0,.035)}
+.verificable b{font-family:var(--cond); text-transform:uppercase; letter-spacing:.08em; font-size:12px; font-weight:600}
+/* Buenas noticias */
+.buenas{display:grid; grid-template-columns:repeat(auto-fit, minmax(250px,1fr)); gap:14px}
+.buena{border:1px solid var(--verde); padding:10px 12px; position:relative}
+.buena h4{font-family:var(--serif-t); font-weight:900; font-size:19px; line-height:1.15; margin:0 0 6px}
+.buena p{margin:0 0 6px; font-size:14.5px}
+.buena .fuentesArt{margin-top:4px}
+/* Agenda y Colombia */
+.agenda{list-style:none; margin:0; padding:0}
+.agenda li{display:grid; grid-template-columns:160px 1fr; gap:10px; padding:7px 0; border-bottom:1px dotted var(--tinta-3); font-size:15px}
+.agenda li b{font-family:var(--cond); font-weight:500; text-transform:uppercase; letter-spacing:.05em; font-size:13px}
+.suplemento{border:3px double var(--regla); padding:12px 16px 4px; margin-top:26px; background:rgba(255,255,255,.12)}
+.suplemento .cabSec{margin-top:0}
+.titSup{text-align:center; font-family:var(--gotica); font-size:clamp(30px,5vw,52px); margin:0; line-height:1.1}
+.subSup{text-align:center; font-style:italic; margin:2px 0 10px; color:var(--tinta-2)}
+/* Pie */
+.pie{margin-top:30px; border-top:4px double var(--regla); padding-top:12px; font-size:13.5px; color:var(--tinta-2)}
+.pie h4{font-family:var(--cond); text-transform:uppercase; letter-spacing:.08em; margin:10px 0 6px; color:var(--tinta)}
+.pie .cols p{text-indent:0}
+.archivo{display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin:8px 0}
+.archivo select{font-family:var(--serif); font-size:15px; background:var(--papel); color:var(--tinta); border:1px solid var(--regla); padding:4px 6px}
+.listaFuentes{columns:3 240px; column-gap:22px; font-size:12.5px; padding-left:18px}
+.listaFuentes li{break-inside:avoid; margin-bottom:3px}
+.aviso{border:1px dashed var(--rojo); padding:8px 12px; margin:12px 0; font-size:14px}
+.cargando{text-align:center; padding:80px 0; font-style:italic; font-size:18px}
+.vacio{font-style:italic; color:var(--tinta-3)}
+/* Visor de foto a color */
+dialog{max-width:min(96vw,1100px); border:2px solid var(--regla); background:var(--papel); padding:10px}
+dialog img{max-width:100%; max-height:80vh; display:block; margin:0 auto}
+dialog::backdrop{background:rgba(0,0,0,.75)}
+/* ---------- RESPONSIVE ---------- */
+@media (max-width: 900px){
+  .portada{grid-template-columns:1fr}
+  .principal{padding-right:0; border-right:0; border-bottom:1px solid var(--regla)}
+  .lateral{padding-left:0; padding-top:14px}
+  .art, .art.ancho{grid-column:1 / -1; border-left:0; padding:0 0 14px; border-bottom:1px solid rgba(42,36,28,.45)}
+  .cabSec .sub{display:none}
+}
+@media (max-width: 620px){
+  body{font-size:16.5px}
+  .lados{grid-template-columns:1fr}
+  .lado + .lado{border-left:0; border-top:1px solid var(--regla)}
+  .agenda li{grid-template-columns:1fr; gap:2px}
+  .indice a{padding:2px 7px}
+  .cols{text-align:left}
+}
+@media print{ .indice, .archivo, .verFoto{display:none} body{background:#fff} }
+</style>
+</head>
+<body>
+<div class="hoja" id="hoja">
+  <div class="cargando">Componiendo la edición del día…</div>
+</div>
+<dialog id="visor"><img id="visorImg" alt=""><p id="visorPie" style="font-size:13px;margin:6px 0 0"></p><form method="dialog" style="text-align:right"><button class="verFoto">Cerrar</button></form></dialog>
+<script>
+(function(){
+  "use strict";
+  const $ = (t, a, ...hijos) => {
+    const e = document.createElement(t);
+    if (a) for (const [k, v] of Object.entries(a)) {
+      if (v == null || v === false) continue;
+      if (k === "class") e.className = v; else if (k === "text") e.textContent = v; else e.setAttribute(k, v);
+    }
+    for (const h of hijos.flat()) if (h != null && h !== false) e.append(h.nodeType ? h : document.createTextNode(String(h)));
+    return e;
+  };
+  const urlSegura = u => (typeof u === "string" && /^https:\/\//i.test(u)) ? u : null;
+  const TONO = {negativa:["neg","▼ Negativa"], positiva:["pos","▲ Positiva"], neutral:["neu","● Contexto"], mixta:["neu","◆ Mixta"]};
+  const VERIF = {confirmado:["conf","✔ Confirmado por varias fuentes"], parcial:["parc","◐ Parcialmente verificado"], no_verificado:["nover","✖ Versión de una sola parte — sin verificar"]};
+
+  function etiquetas(a){
+    const c = $("div",{class:"etiquetas"});
+    if (TONO[a.tono]) c.append($("span",{class:"tag "+TONO[a.tono][0], text:TONO[a.tono][1]}));
+    if (VERIF[a.verificacion]) c.append($("span",{class:"tag "+VERIF[a.verificacion][0], text:VERIF[a.verificacion][1]}));
+    return c;
+  }
+  function fuentes(lista){
+    if (!Array.isArray(lista) || !lista.length) return null;
+    const d = $("div",{class:"fuentesArt"}, $("b",{text:"Fuentes: "}));
+    lista.forEach((f,i) => {
+      const u = urlSegura(f.url);
+      d.append(u ? $("a",{href:u, target:"_blank", rel:"noopener noreferrer", text:f.nombre||u}) : document.createTextNode(f.nombre||""));
+      if (i < lista.length-1) d.append(" · ");
+    });
+    return d;
+  }
+  function figura(img){
+    if (!img || !urlSegura(img.url)) return null;
+    const i = $("img",{src:img.url, alt:img.alt || img.pie || "", loading:"lazy", decoding:"async", referrerpolicy:"no-referrer", class: img.tipo === "mapa" ? "mapa" : null});
+    i.addEventListener("error", () => { const f = i.closest("figure"); if (f) f.remove(); });
+    const credito = [img.credito, img.licencia, img.fecha_foto ? "Foto: " + img.fecha_foto : null].filter(Boolean).join(" · ");
+    const pie = $("figcaption",null, img.pie || "", credito ? $("span",{class:"cred"}, credito, urlSegura(img.fuente_url) ? [" · ", $("a",{href:img.fuente_url,target:"_blank",rel:"noopener noreferrer",text:"Ficha"})] : null) : null);
+    const b = $("button",{class:"verFoto", type:"button", text:"Ver foto original a color"});
+    b.addEventListener("click", () => { const v = document.getElementById("visor"); document.getElementById("visorImg").src = img.url; document.getElementById("visorPie").textContent = (img.pie||"") + (credito ? " — " + credito : ""); v.showModal(); });
+    pie.append(b);
+    return $("figure",{class: img.tipo === "mapa" ? "color" : null}, i, pie);
+  }
+  function cuerpo(parrafos, clase){
+    const d = $("div",{class:"cols " + (clase||"")});
+    (parrafos||[]).forEach(p => d.append($("p",{text:p})));
+    return d;
+  }
+  function articulo(a, ancho){
+    const tam = a.tamano || (ancho ? "ancho" : "");
+    return $("article",{class:"art " + tam},
+      a.antetitulo ? $("p",{class:"antetitulo", text:a.antetitulo}) : null,
+      $("h3",{text:a.titulo}),
+      a.bajada ? $("p",{class:"bajada", text:a.bajada}) : null,
+      a.lugar ? $("div",{class:"firma"}, $("span",{text:a.lugar}), $("span",{text:"Redacción El Centinela"})) : null,
+      figura(a.imagen),
+      cuerpo(a.cuerpo, tam === "ancho" || tam === "completo" ? "c2" : ""),
+      etiquetas(a),
+      fuentes(a.fuentes)
+    );
+  }
+  function cabSec(letra, nombre, sub, id){
+    return $("div",{class:"cabSec"}, $("span",{class:"letra", text:letra}), $("h2",{text:nombre, id: id ? "h-"+id : null}), sub ? $("span",{class:"sub", text:sub}) : null);
+  }
+  function nivel(n){
+    n = Math.max(1, Math.min(5, Number(n)||1));
+    const s = $("span",{class:"nivel n"+n, title:"Nivel "+n+" de 5"});
+    for (let i=1;i<=5;i++) s.append($("i",{class: i<=n ? "on" : null}));
+    return s;
+  }
+
+  function render(ed, fechasArchivo, fechaPedida){
+    const hoja = document.getElementById("hoja");
+    hoja.textContent = "";
+    document.title = "El Centinela Global — " + (ed.fecha_larga || ed.fecha);
+
+    // Franja superior y cabecera
+    hoja.append(
+      $("div",{class:"franja"}, $("span",{text:"Año " + (ed.anio_romano || "I") + " · Nº " + (ed.edicion_numero || 1)}), $("span",{text:"Bogotá, Colombia"}), $("span",{text:"Precio: gratuito"}), $("span",{text:"Edición diaria · 8:00 a. m."})),
+      $("header",{class:"cabecera"}, $("h1",{text:"El Centinela Global"}), $("p",{class:"lema", text:"Diario de los conflictos del mundo · Los hechos, de ambos lados, sin adornos"})),
+      $("div",{class:"datosEd"}, $("span",{text: ed.fecha_larga || ed.fecha}), $("span",{text:"Cierre de edición: " + (ed.cierre || "")}), $("span",{text: fechaPedida ? "Edición de archivo" : "Edición vigente"}))
+    );
+
+    // Índice
+    const ind = $("nav",{class:"indice", "aria-label":"En esta edición"});
+    ind.append($("a",{href:"#portada", text:"Portada"}));
+    (ed.secciones||[]).forEach(s => ind.append($("a",{href:"#"+s.id, text:s.corto || s.nombre})));
+    if (ed.dos_caras?.length) ind.append($("a",{href:"#dos-caras", text:"Dos caras"}));
+    if (ed.buenas_noticias?.length) ind.append($("a",{href:"#buenas", text:"Buenas noticias"}));
+    if (ed.colombia) ind.append($("a",{href:"#colombia", text:"Colombia"}));
+    ind.append($("a",{href:"#agenda", text:"Agenda"}), $("a",{href:"#archivo", text:"Archivo"}));
+    hoja.append(ind);
+
+    if (ed.aviso) hoja.append($("div",{class:"aviso", text:ed.aviso}));
+
+    // Portada
+    const p = ed.portada || {};
+    const principal = $("div",{class:"principal"},
+      p.antetitulo ? $("p",{class:"antetitulo", text:p.antetitulo}) : null,
+      $("h2",{class:"titularGrande", text:p.titulo || ""}),
+      p.bajada ? $("p",{class:"bajada", text:p.bajada}) : null,
+      $("div",{class:"firma"}, $("span",{text:p.lugar || ""}), $("span",{text:"Redacción El Centinela"})),
+      figura(p.imagen),
+      cuerpo(p.cuerpo, "c3 capitular"),
+      etiquetas(p), fuentes(p.fuentes)
+    );
+    const lateral = $("aside",{class:"lateral"});
+    if (ed.lo_esencial?.length){
+      const ul = $("ol",{class:"esencial"}); ed.lo_esencial.forEach(t => ul.append($("li",{text:t})));
+      lateral.append($("div",{class:"recuadro"}, $("h3",{text:"Lo esencial de hoy"}), ul));
+    }
+    if (ed.cifras?.length){
+      const r = $("div",{class:"recuadro"}, $("h3",{text:"Las cifras del día"}));
+      ed.cifras.forEach(c => r.append($("div",{class:"cifra"}, $("b",{text:c.valor}), $("span",{text:c.texto}))));
+      lateral.append(r);
+    }
+    if (ed.termometro?.length){
+      const t = $("table",{class:"termo"});
+      ed.termometro.forEach(f => t.append($("tr",null, $("td",null, $("b",{text:f.lugar}), f.nota ? $("div",{style:"font-size:12px;color:var(--tinta-2)", text:f.nota}) : null), $("td",null, nivel(f.nivel)))));
+      lateral.append($("div",{class:"recuadro"}, $("h3",{text:"Termómetro de tensión"}), t, $("p",{class:"nota-term", text:"Escala editorial de 1 (latente) a 5 (guerra abierta / crisis humanitaria extrema), según los hechos reportados en las últimas 72 horas."})));
+    }
+    hoja.append($("section",{class:"portada", id:"portada"}, principal, lateral));
+
+    // Secciones
+    const letras = "BCDEFGHIJKLMNOPQRS";
+    let li = 0;
+    (ed.secciones||[]).forEach(s => {
+      const sec = $("section",{class:"seccion", id:s.id}, cabSec("Sección " + letras[li++], s.nombre, s.subtitulo));
+      const rej = $("div",{class:"rejilla"});
+      if (!s.articulos?.length) rej.append($("p",{class:"vacio art completo", text:"Sin novedades verificadas en las últimas 24 horas."}));
+      (s.articulos||[]).forEach((a,i) => rej.append(articulo(a, i===0 && s.articulos.length > 1 && !a.tamano)));
+      sec.append(rej);
+      hoja.append(sec);
+    });
+
+    // Dos caras de la moneda
+    if (ed.dos_caras?.length){
+      const sec = $("section",{class:"seccion", id:"dos-caras"}, cabSec("Sección " + letras[li++], "Las dos caras de la moneda", "Lo que dice cada parte — y lo que se puede comprobar"));
+      ed.dos_caras.forEach(m => {
+        sec.append($("div",{class:"moneda"},
+          $("h3",{text:m.tema}),
+          $("div",{class:"lados"},
+            $("div",{class:"lado"}, $("h4",{text:m.lado_a?.quien || "Lado A"}), ...(m.lado_a?.parrafos||[]).map(t => $("p",{text:t}))),
+            $("div",{class:"lado"}, $("h4",{text:m.lado_b?.quien || "Lado B"}), ...(m.lado_b?.parrafos||[]).map(t => $("p",{text:t})))
+          ),
+          m.verificable ? $("div",{class:"verificable"}, $("b",{text:"Lo verificable: "}), m.verificable) : null,
+          m.fuentes ? $("div",{style:"padding:0 14px 10px"}, fuentes(m.fuentes)) : null
+        ));
+      });
+      hoja.append(sec);
+    }
+
+    // Buenas noticias
+    if (ed.buenas_noticias?.length){
+      const sec = $("section",{class:"seccion", id:"buenas"}, cabSec("Sección " + letras[li++], "Señales de paz y buenas noticias", "Avances humanitarios, diplomáticos y judiciales"));
+      const g = $("div",{class:"buenas"});
+      ed.buenas_noticias.forEach(b => g.append($("div",{class:"buena"}, $("h4",{text:b.titulo}), ...(b.cuerpo||[]).map(t => $("p",{text:t})), fuentes(b.fuentes))));
+      sec.append(g); hoja.append(sec);
+    }
+
+    // Colombia
+    if (ed.colombia){
+      const c = ed.colombia;
+      const sup = $("section",{class:"suplemento seccion", id:"colombia"},
+        $("p",{class:"titSup", text:"Suplemento Colombia"}),
+        $("p",{class:"subSup", text:c.subtitulo || "Lo importante del Gobierno nacional, el Congreso y el orden público"}));
+      const rej = $("div",{class:"rejilla"});
+      (c.articulos||[]).forEach((a,i) => rej.append(articulo(a, i===0 && !a.tamano)));
+      sup.append(rej);
+      if (c.dos_caras){
+        const m = c.dos_caras;
+        sup.append($("div",{class:"moneda"}, $("h3",{text:m.tema}),
+          $("div",{class:"lados"},
+            $("div",{class:"lado"}, $("h4",{text:m.lado_a?.quien}), ...(m.lado_a?.parrafos||[]).map(t => $("p",{text:t}))),
+            $("div",{class:"lado"}, $("h4",{text:m.lado_b?.quien}), ...(m.lado_b?.parrafos||[]).map(t => $("p",{text:t})))),
+          m.verificable ? $("div",{class:"verificable"}, $("b",{text:"Lo verificable: "}), m.verificable) : null));
+      }
+      hoja.append(sup);
+    }
+
+    // Agenda
+    const ag = $("section",{class:"seccion", id:"agenda"}, cabSec("Sección " + letras[li++], "Agenda: lo que viene", "Fechas y procesos a seguir"));
+    const ul = $("ul",{class:"agenda"});
+    (ed.agenda||[]).forEach(x => ul.append($("li",null, $("b",{text:x.cuando}), $("span",{text:x.que}))));
+    ag.append(ul); hoja.append(ag);
+
+    // Pie, archivo y fuentes
+    const sel = $("select",{id:"selArchivo", "aria-label":"Elegir edición"});
+    sel.append($("option",{value:"", text:"Edición vigente"}));
+    (fechasArchivo||[]).slice().sort().reverse().forEach(f => sel.append($("option",{value:f, text:f, selected: f===fechaPedida ? "selected" : null})));
+    sel.addEventListener("change", () => { location.search = sel.value ? "?fecha=" + sel.value : ""; });
+    const todas = new Map();
+    const recoger = l => (l||[]).forEach(f => { if (urlSegura(f.url)) todas.set(f.url, f.nombre); });
+    recoger(p.fuentes); (ed.secciones||[]).forEach(s => (s.articulos||[]).forEach(a => recoger(a.fuentes)));
+    (ed.dos_caras||[]).forEach(m => recoger(m.fuentes)); (ed.buenas_noticias||[]).forEach(b => recoger(b.fuentes));
+    (ed.colombia?.articulos||[]).forEach(a => recoger(a.fuentes));
+    const lf = $("ol",{class:"listaFuentes"});
+    for (const [u,n] of todas) lf.append($("li",null, $("a",{href:u, target:"_blank", rel:"noopener noreferrer", text:n || u})));
+    hoja.append($("footer",{class:"pie", id:"archivo"},
+      $("h4",{text:"Archivo de ediciones"}),
+      $("div",{class:"archivo"}, $("label",{for:"selArchivo", text:"Consultar edición: "}), sel),
+      $("h4",{text:"Cómo se hace este diario"}),
+      cuerpo(ed.metodologia || [
+        "El Centinela Global es una edición automática que se redacta cada mañana a partir de agencias internacionales, medios de distintos países y bandos, organismos de la ONU, ONG de derechos humanos y centros de análisis. Cuando una cifra o un hecho proviene de una sola parte del conflicto, se indica expresamente.",
+        "Las fotografías provienen de Wikimedia Commons con licencias libres; muchas son de archivo y se señala su fecha original. Se muestran en tono sepia para conservar el estilo de diario impreso; puede verse cada original a color. Este diario no publica opinión: la sección «Las dos caras de la moneda» recoge las posturas declaradas de cada parte, no las de la redacción."
+      ], "c2"),
+      $("h4",{text:"Fuentes consultadas en esta edición (" + todas.size + ")"}), lf,
+      $("p",{style:"text-align:center;margin-top:18px;font-family:var(--cond);letter-spacing:.08em;text-transform:uppercase;font-size:12px", text:"El Centinela Global · Edición generada " + (ed.cierre || "") + " · Se actualiza todos los días a las 8:00 a. m. (hora de Colombia)"})
+    ));
+  }
+
+  const params = new URLSearchParams(location.search);
+  const fecha = /^\d{4}-\d{2}-\d{2}$/.test(params.get("fecha")||"") ? params.get("fecha") : null;
+  const v = "?v=" + Date.now();
+  const urlEd = fecha ? "archivo/" + fecha + ".json" + v : "edicion.json" + v;
+  Promise.all([
+    fetch(urlEd, {cache:"no-store"}).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }),
+    fetch("archivo/indice.json" + v, {cache:"no-store"}).then(r => r.ok ? r.json() : []).catch(() => [])
+  ]).then(([ed, idx]) => {
+    render(ed, Array.isArray(idx) ? idx : (idx.fechas || []), fecha);
+    if (location.hash) { const t = document.getElementById(location.hash.slice(1)); if (t) t.scrollIntoView(); }
+  }).catch(err => {
+    document.getElementById("hoja").innerHTML = '<div class="cargando">No se pudo cargar la edición (' + String(err.message).replace(/[<>&]/g,"") + '). <a href="./">Volver a la edición vigente</a>.</div>';
+  });
+})();
+</script>
+</body>
+</html>

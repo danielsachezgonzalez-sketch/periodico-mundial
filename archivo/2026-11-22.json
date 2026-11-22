@@ -1,0 +1,647 @@
+{
+  "fecha": "2026-11-22",
+  "fecha_larga": "Domingo, 22 de noviembre de 2026",
+  "edicion_numero": 1,
+  "anio_romano": "I",
+  "cierre": "22 nov. 2026, 5:00 p. m. (hora de Colombia)",
+  "aviso": "Edición inaugural. A partir de mañana este diario se renueva solo, todos los días a las 8:00 a. m. (hora de Colombia).",
+
+  "portada": {
+    "antetitulo": "Golfo Pérsico · Guerra EE. UU.–Irán",
+    "titulo": "Irán ataca bases en Baréin y alista 14 petroleros para romper el bloqueo naval de EE. UU.",
+    "bajada": "Washington responde con ataques «defensivos» sobre la isla de Qeshm. Dos buques cisterna fueron alcanzados cerca de Ormuz mientras los mediadores buscan canjear el fin de los ataques iraníes por el levantamiento del bloqueo.",
+    "lugar": "Manama / Teherán / Washington",
+    "imagen": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/US-Night_Strikes_on_Residential_Areas_of_Tehran_%281_April_2026%29_2_Avash.webp/960px-US-Night_Strikes_on_Residential_Areas_of_Tehran_%281_April_2026%29_2_Avash.webp",
+      "pie": "Daños en una zona residencial de Teherán tras bombardeos nocturnos estadounidenses, el 1 de abril de 2026, durante la primera fase de la guerra. Foto de archivo.",
+      "credito": "محمد برنو / Wikimedia Commons",
+      "licencia": "CC BY 4.0",
+      "fecha_foto": "1 abr. 2026",
+      "fuente_url": "https://commons.wikimedia.org/wiki/File:US-Night_Strikes_on_Residential_Areas_of_Tehran_(1_April_2026)_2_Avash.webp"
+    },
+    "cuerpo": [
+      "La guerra entre Estados Unidos e Irán, que comenzó el 28 de febrero de 2026 con bombardeos conjuntos de EE. UU. e Israel tras el fracaso de las negociaciones nucleares en Ginebra, volvió a escalar este fin de semana. La Guardia Revolucionaria iraní afirmó haber atacado radares de defensa aérea estadounidenses en Baréin; ni Baréin ni el Pentágono confirmaron ese daño, pero las autoridades bareiníes sí informaron de que un ataque iraní incendió una instalación industrial civil en Sitra y dejó dos heridos.",
+      "Según Gulf News y Euronews, Teherán prepara 14 petroleros para atravesar el bloqueo que la Armada estadounidense mantiene sobre los puertos iraníes, una maniobra que eleva el riesgo de un choque directo entre buques de guerra. El viceministro de Exteriores iraní calificó el bloqueo como «un acto de guerra». El Comando Central de EE. UU. (CENTCOM) advirtió esta semana que los barcos que reciban carga iraní mediante transbordos en alta mar podrán ser tratados como embarcaciones que «evaden el bloqueo» y enfrentar acción militar.",
+      "La agencia marítima británica UKMTO reportó que dos petroleros fueron alcanzados en el estrecho de Ormuz: uno por un proyectil no identificado y otro con daños en la sala de máquinas. La Armada iraní, por su parte, aseguró que un buque cisterna chocó con una mina naval al este del estrecho y se incendió. Ninguna de estas versiones ha sido verificada de forma independiente.",
+      "Estados Unidos lanzó ataques contra objetivos en la isla de Qeshm, en el estrecho. Un funcionario estadounidense citado por AP los describió como «defensivos» y limitados, no como un regreso a las hostilidades plenas. Medios iraníes aseguraron que no causaron daños graves. Washington sostiene que escolta el tráfico comercial por Ormuz; Teherán insiste en que los barcos deben negociar el paso con sus autoridades.",
+      "Contexto: el primer alto el fuego, mediado por Pakistán, se pactó el 7–8 de abril. Un memorando de entendimiento firmado en junio para cerrar el conflicto colapsó semanas después y expiró formalmente en agosto. El Servicio de Investigación del Congreso de EE. UU. contabilizó 3.636 iraníes muertos hasta el 7 de abril (1.701 de ellos civiles) y, hasta el 15 de septiembre, 18 militares estadounidenses muertos y 824 heridos. En la ofensiva inicial murió el líder supremo Alí Jamenei.",
+      "Los mediadores intentan un marco en el que Irán cese sus ataques en Ormuz a cambio de que EE. UU. levante el bloqueo de sus puertos. Irán exige además el fin de la guerra en todos los frentes, el descongelamiento de sus activos y el levantamiento de las sanciones petroleras."
+    ],
+    "tono": "negativa",
+    "verificacion": "parcial",
+    "fuentes": [
+      {"nombre": "Euronews (21 nov.)", "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"},
+      {"nombre": "Gulf News", "url": "https://gulfnews.com/world/mena/middle-east-conflict-bahrain-intercepts-iranian-attacks-as-tehran-prepares-14-oil-tankers-to-breach-us-naval-blockade-1.500756662"},
+      {"nombre": "PBS / AP", "url": "https://www.pbs.org/newshour/world/u-s-strikes-iranian-targets-in-strait-of-hormuz-u-s-official-tells-ap"},
+      {"nombre": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/"},
+      {"nombre": "Al Jazeera (20 nov.)", "url": "https://aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade"},
+      {"nombre": "Kayhan (medio estatal iraní)", "url": "https://kayhan.ir/en/news/156054/iranian-missiles-shake-u-s-positions-in-persian-gulf"},
+      {"nombre": "Congressional Research Service", "url": "https://www.congress.gov/crs-product/R48887"},
+      {"nombre": "Britannica: guerra de Irán 2026", "url": "https://www.britannica.com/event/2026-Iran-war"}
+    ]
+  },
+
+  "lo_esencial": [
+    "Golfo: Irán ataca Baréin y prepara 14 petroleros para romper el bloqueo de EE. UU.; Washington bombardea la isla de Qeshm.",
+    "Ucrania: el mayor ataque ruso del mes (más de 400 drones y 110 misiles) golpea Kiev; dos misiles y un dron caen en Polonia, país de la OTAN.",
+    "Gaza: pese al alto el fuego de octubre de 2025, más de 1.500 muertos desde entonces; disputa por la entrada de suministros de invierno.",
+    "Justicia: la Corte Internacional de Justicia declaró el 19 de noviembre que Myanmar cometió genocidio contra los rohinyá.",
+    "Sudán: el Ejército avanza en Kordofán Occidental y bombardea el cuartel de las RSF en Nyala.",
+    "Venezuela: el secretario de Defensa de EE. UU., Pete Hegseth, firma en Caracas un acuerdo militar con el gobierno interino.",
+    "Colombia: tras el paro nacional del 19N, el presidente De la Espriella dice que no permitirá un «golpe de Estado»; nuevo ataque contra una instalación militar en Cesar."
+  ],
+
+  "cifras": [
+    {"valor": "74.594", "texto": "palestinos muertos en Gaza desde octubre de 2023, según el Ministerio de Salud de Gaza (administrado por Hamás)."},
+    {"valor": "+1.500", "texto": "muertos en Gaza desde el alto el fuego de octubre de 2025 (Al Jazeera)."},
+    {"valor": "400+", "texto": "drones y más de 110 misiles lanzados por Rusia en la noche del 19 al 20 de noviembre (Zelenski)."},
+    {"valor": "1.000+", "texto": "prisioneros de guerra por bando en el canje Rusia–Ucrania pactado en Abu Dabi."},
+    {"valor": "323.000", "texto": "desplazados por la nueva ofensiva del M23 en Kivu del Sur, RD Congo (The New Humanitarian)."},
+    {"valor": "14", "texto": "petroleros que Irán alista para cruzar el bloqueo naval estadounidense."},
+    {"valor": "43", "texto": "uniformados muertos y 219 heridos en Colombia en los primeros 100 días del actual gobierno (Indepaz)."}
+  ],
+
+  "termometro": [
+    {"lugar": "Golfo Pérsico / Ormuz", "nivel": 5, "nota": "Bloqueo naval y ataques cruzados"},
+    {"lugar": "Sudán", "nivel": 5, "nota": "Guerra civil y hambruna"},
+    {"lugar": "Rusia – Ucrania", "nivel": 5, "nota": "Ataques masivos; diálogo sin avances"},
+    {"lugar": "Rusia – OTAN (Polonia)", "nivel": 4, "nota": "Misiles en territorio aliado"},
+    {"lugar": "Gaza", "nivel": 4, "nota": "Alto el fuego frágil y violado"},
+    {"lugar": "Cisjordania", "nivel": 4, "nota": "Récord de ataques de colonos"},
+    {"lugar": "RD Congo (Kivu)", "nivel": 4, "nota": "Nueva ofensiva rebelde"},
+    {"lugar": "Myanmar", "nivel": 4, "nota": "Ofensiva de la junta antes de elecciones"},
+    {"lugar": "Sahel (Malí, Burkina)", "nivel": 4, "nota": "Expansión yihadista"},
+    {"lugar": "Líbano – Israel", "nivel": 3, "nota": "Ocupación del sur y bombardeos"},
+    {"lugar": "Yemen (hutíes)", "nivel": 3, "nota": "Ataques a infraestructura saudí"},
+    {"lugar": "China – Taiwán", "nivel": 3, "nota": "Maniobras «silenciosas»"},
+    {"lugar": "Colombia (conflicto interno)", "nivel": 3, "nota": "Ataques del ELN y disidencias"},
+    {"lugar": "Venezuela", "nivel": 2, "nota": "Transición bajo tutela de EE. UU."},
+    {"lugar": "India – Pakistán", "nivel": 2, "nota": "Sin novedades verificadas hoy"}
+  ],
+
+  "secciones": [
+    {
+      "id": "europa",
+      "nombre": "Rusia y Ucrania",
+      "corto": "Rusia–Ucrania",
+      "subtitulo": "Frente oriental, OTAN y negociaciones",
+      "articulos": [
+        {
+          "antetitulo": "Ataque masivo",
+          "titulo": "Rusia lanza el mayor bombardeo del mes contra Kiev y dos misiles caen en Polonia",
+          "bajada": "Varsovia habla de «provocación intencional»; la OTAN, de «grave violación» de su espacio aéreo. Moscú no comentó de inmediato.",
+          "lugar": "Kiev / Varsovia",
+          "imagen": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/2026_05_24_Russian_attack_on_Kyiv_5.jpg",
+            "pie": "Edificio dañado en Kiev tras un ataque ruso el 24 de mayo de 2026. Foto de archivo.",
+            "credito": "Autor desconocido / Wikimedia Commons",
+            "licencia": "CC BY 4.0",
+            "fecha_foto": "24 may. 2026",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:2026_05_24_Russian_attack_on_Kyiv_5.jpg"
+          },
+          "cuerpo": [
+            "En la noche del 19 al 20 de noviembre, Rusia disparó contra Ucrania más de 400 drones y al menos 110 misiles, 27 de ellos balísticos y algunos con ojivas de racimo, según el presidente Volodímir Zelenski. El ataque apuntó a infraestructura y puentes de Kiev: tres puentes sobre el Dniéper fueron alcanzados. Al menos 8 personas murieron y 28 resultaron heridas.",
+            "Durante el ataque, dos misiles y un dron a reacción cayeron en territorio polaco, confirmó el ministro de Defensa de Polonia, Władysław Kosiniak-Kamysz. El primer ministro polaco lo calificó de «provocación intencional» contra la alianza; el secretario general de la OTAN, Mark Rutte, habló de una «grave violación» del espacio aéreo. Alemania lo describió como «otro ejemplo de las provocaciones continuas de Rusia».",
+            "El presidente estadounidense Donald Trump, preguntado por el episodio, afirmó que Putin quiere poner fin a la guerra y que los drones y «un par de misiles pequeños» habrían caído en Polonia «por error». El Instituto para el Estudio de la Guerra (ISW) sostiene, en cambio, que el disparo hacia el espacio aéreo polaco fue deliberado. Analistas vinculan el momento del incidente con las negociaciones de paz en curso.",
+            "La noche del 21 de noviembre hubo un nuevo ataque con tres misiles balísticos y 148 drones, según el ISW."
+          ],
+          "tono": "negativa",
+          "verificacion": "confirmado",
+          "fuentes": [
+            {"nombre": "CBS News", "url": "https://cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato"},
+            {"nombre": "PBS / AP", "url": "https://pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace"},
+            {"nombre": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"},
+            {"nombre": "Kyiv Post / ISW (20 nov.)", "url": "https://www.kyivpost.com/post/90767"},
+            {"nombre": "HNGN", "url": "https://www.hngn.com/articles/273910/20261121/trump-says-putin-wants-peace-missiles-hit-kyiv-poland.htm"}
+          ]
+        },
+        {
+          "antetitulo": "Frente de batalla",
+          "titulo": "Avances rusos en Kupiansk, Limán y Dobropillia; Ucrania golpea fábricas y oleoductos en Rusia",
+          "lugar": "Donetsk / Járkov / Smolensk",
+          "cuerpo": [
+            "Según el ISW, las fuerzas rusas avanzaron recientemente al noreste de Kupiansk, al noreste de Limán y al sureste de Dobropillia.",
+            "Ucrania, por su parte, atacó una fábrica de explosivos en la región rusa de Smolensk e infraestructura petrolera en Tatarstán vinculada al oleoducto Druzhba. Dos drones ucranianos alcanzaron además el buque de carga ruso Sparta II en el golfo de Finlandia.",
+            "Moscú sostiene que la reanudación de las conversaciones trilaterales con EE. UU. y Ucrania «no implica ninguna pausa en las hostilidades», según dijo el portavoz del Kremlin, Dmitri Peskov, el 26 de octubre."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {"nombre": "Kyiv Post / ISW (21 nov.)", "url": "https://www.kyivpost.com/post/90823"},
+            {"nombre": "Kyiv Post / ISW (19 nov.)", "url": "https://www.kyivpost.com/post/90661"},
+            {"nombre": "Ukrainska Pravda", "url": "https://www.pravda.com.ua/eng/news/2026/10/26/8059753/"}
+          ]
+        },
+        {
+          "antetitulo": "Diplomacia",
+          "titulo": "Negociación sin acuerdo: canje masivo de prisioneros, pero nada sobre territorio ni alto el fuego",
+          "lugar": "Abu Dabi / Moscú",
+          "cuerpo": [
+            "Tras dos días de conversaciones mediadas por EE. UU. en Abu Dabi, Rusia y Ucrania acordaron el mayor intercambio de prisioneros de guerra desde 2022: más de mil por cada bando, a realizarse en un plazo de dos a tres semanas, según funcionarios rusos. Fue el único resultado tangible.",
+            "Los enviados estadounidenses Jared Kushner y Steve Witkoff impulsan un acuerdo que, según críticos europeos, margina a los aliados de Kiev. Putin rechazó en la cumbre de APEC las garantías de seguridad europeas para una Ucrania de posguerra. El ISW señala que las propuestas de Washington siguen siendo incompatibles con las posiciones formales del Kremlin.",
+            "En octubre, ambas partes pactaron un alto el fuego local en Oleshky (Jersón) para permitir la entrada de ayuda y la evacuación de civiles, y un canje de 270 prisioneros por lado."
+          ],
+          "tono": "mixta",
+          "verificacion": "confirmado",
+          "fuentes": [
+            {"nombre": "Euronews (11 nov.)", "url": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu"},
+            {"nombre": "NHPR / NPR", "url": "https://www.nhpr.org/2026-11-11/russia-and-ukraine-agree-to-a-prisoner-exchange-as-talks-end-with-no-big-breakthrough"},
+            {"nombre": "JURIST", "url": "https://www.jurist.org/news/2026/11/russia-and-ukraine-agree-to-large-prisoner-exchange-following-two-days-of-us-mediated-talks/"},
+            {"nombre": "US News / Reuters", "url": "https://www.usnews.com/news/world/articles/2026-10-23/russia-ukraine-agree-on-ceasefire-in-embattled-town-to-hold-peace-talks-next-month"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oriente-medio",
+      "nombre": "Israel, Palestina y Líbano",
+      "corto": "Israel–Palestina",
+      "subtitulo": "Gaza, Cisjordania, Líbano y la política israelí",
+      "articulos": [
+        {
+          "antetitulo": "Gaza",
+          "titulo": "Un alto el fuego que no detiene las muertes: más de 1.500 desde octubre de 2025",
+          "bajada": "Israel sigue atacando a comandantes de Hamás; la ONU y decenas de países exigen suministros de invierno. La «Junta de Paz» de Trump reprocha a ambas partes.",
+          "lugar": "Franja de Gaza",
+          "imagen": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/The_destruction_caused_by_the_Israeli_airstrike_of_Hassan_el-Banna_Mosque_and_the_surrounding_area%2C_Gaza_Strip..jpg/960px-The_destruction_caused_by_the_Israeli_airstrike_of_Hassan_el-Banna_Mosque_and_the_surrounding_area%2C_Gaza_Strip..jpg",
+            "pie": "Destrucción alrededor de la mezquita Hassan el-Banna en la Franja de Gaza tras un bombardeo israelí. Foto de archivo.",
+            "credito": "Ashraf Amra / Wikimedia Commons",
+            "licencia": "CC BY-SA 3.0 IGO",
+            "fecha_foto": "ene. 2025",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:The_destruction_caused_by_the_Israeli_airstrike_of_Hassan_el-Banna_Mosque_and_the_surrounding_area,_Gaza_Strip..jpg"
+          },
+          "cuerpo": [
+            "El 12 de noviembre, un ataque israelí contra un hospital del sur de Gaza mató a seis personas, según las autoridades de Hamás. Israel confirmó que el objetivo era el comandante de la Brigada de Jan Yunis de Hamás. El Ejército israelí informó además de un bombardeo en el centro de la Franja contra un grupo de milicianos «que se reunía para preparar ataques» y de la muerte de dos comandantes de Hamás en ataques separados.",
+            "Al Jazeera contabiliza más de 1.500 muertos desde que entró en vigor el alto el fuego negociado por EE. UU. en octubre de 2025. El Ministerio de Salud de Gaza eleva el total de la guerra a por lo menos 74.594 palestinos muertos desde octubre de 2023; Israel discute la proporción entre combatientes y civiles de esa cifra.",
+            "Reino Unido, Catar, Jordania y decenas de países más exigen que Israel permita la entrada de más suministros de invierno. Israel se mantiene firme en restringir los artículos de «doble uso», que según su versión pueden ser aprovechados por Hamás.",
+            "La «Junta de Paz» impulsada por Trump culpó a Israel y a Hamás por no cumplir sus compromisos: proteger a civiles, mantener el alto el fuego y avanzar en la desmilitarización de Gaza. Israel condiciona su retirada de las líneas actuales a que desaparezca la amenaza de Hamás, y un funcionario de la Junta reconoció que la Fuerza Internacional de Estabilización y la nueva policía de Gaza necesitan autorizaciones israelíes para operar."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {"nombre": "Times of Israel (12 nov.)", "url": "https://www.timesofisrael.com/liveblog-november-12-2026/"},
+            {"nombre": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza"},
+            {"nombre": "Wikipedia: 2026 en Palestina", "url": "https://en.wikipedia.org/wiki/2026_in_Palestine"},
+            {"nombre": "The New Humanitarian", "url": "https://www.thenewhumanitarian.org/news/2026/11/13/gaza-deadly-winter-new-rebel-offensive-dr-congo-looming-killer-robot-cheat-sheet"}
+          ]
+        },
+        {
+          "antetitulo": "Cisjordania ocupada",
+          "titulo": "Ataques de colonos en su nivel más alto desde 2006",
+          "lugar": "Cisjordania",
+          "imagen": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Two_israeli_settlements_on_the_hills_of_the_west_bank_%282826805820%29.jpg/960px-Two_israeli_settlements_on_the_hills_of_the_west_bank_%282826805820%29.jpg",
+            "pie": "Dos asentamientos israelíes en las colinas de Cisjordania. Foto de archivo.",
+            "credito": "upyernoz / Wikimedia Commons",
+            "licencia": "CC BY 2.0",
+            "fecha_foto": "2008",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:Two_israeli_settlements_on_the_hills_of_the_west_bank_(2826805820).jpg"
+          },
+          "cuerpo": [
+            "El centro palestino de monitoreo Mu'ta registró entre el 30 de octubre y el 5 de noviembre 2.000 violaciones atribuidas a soldados y colonos: 463 cierres de vías, 252 redadas, 233 detenciones y 190 ataques de colonos.",
+            "Human Rights Watch documenta que la violencia de colonos ha desplazado total o parcialmente a 107 comunidades palestinas desde enero de 2023. Según la ONG israelí Paz Ahora, se han levantado 65 nuevos puestos de avanzada solo en 2026 (hasta el 1 de agosto). En febrero, Israel aprobó planes para extender su autoridad sobre más zonas de Cisjordania, lo que la ONU describe como consolidación de la anexión, contraria al derecho internacional.",
+            "El Gobierno israelí sostiene que actúa contra el terrorismo en la zona y que desmantela puestos ilegales; en algunos casos el Ejército ha retirado asentamientos no autorizados, lo que ha provocado represalias de colonos contra palestinos."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {"nombre": "Human Rights Watch", "url": "https://www.hrw.org/news/2026/08/20/west-bank-israel-backed-settler-violence-drives-displacement"},
+            {"nombre": "The National", "url": "https://www.thenationalnews.com/news/mena/2026/08/30/inside-the-israeli-settler-tactics-driving-a-co-ordinated-campaign-to-reshape-the-west-bank/"},
+            {"nombre": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank"},
+            {"nombre": "UCA News", "url": "https://www.ucanews.com/amp/israeli-settlers-injure-five-palestinians-after-army-dismantles-outposts/116204"}
+          ]
+        },
+        {
+          "antetitulo": "Líbano",
+          "titulo": "Hezbolá: «Líbano no puede ser independiente mientras Israel ocupe su territorio»",
+          "lugar": "Beirut",
+          "cuerpo": [
+            "En el 83.º aniversario de la independencia libanesa, Hezbolá afirmó que Israel ocupa unos 500 km² del país y acusó al Estado de no proteger a los habitantes del sur. Israel mantiene una «zona de seguridad» autoproclamada de unos 10 km de profundidad y sigue bombardeando: esta semana dijo haber destruido un sitio de producción y almacenamiento de misiles de Hezbolá en el este del Líbano.",
+            "El marco patrocinado por EE. UU. contempla el desarme de Hezbolá, una retirada israelí gradual y el despliegue del Ejército libanés, pero está estancado: Hezbolá se niega a entregar sus armas. La guerra de 2026 en el Líbano comenzó el 2 de marzo, cuando Hezbolá atacó a Israel tras los bombardeos sobre Irán."
+          ],
+          "tono": "negativa",
+          "verificacion": "confirmado",
+          "fuentes": [
+            {"nombre": "L'Orient Today", "url": "https://today.lorientlejour.com/article/1555256/hezbollah-says-lebanon-cannot-be-independent-while-israel-occupies-its-territory.html"},
+            {"nombre": "Asharq Al-Awsat", "url": "https://english.aawsat.com/arab-world/5343521-israel-says-struck-hezbollah-weapons-site-east-lebanon"},
+            {"nombre": "Wikipedia: guerra del Líbano 2026", "url": "https://en.wikipedia.org/wiki/2026_Lebanon_war"}
+          ]
+        },
+        {
+          "antetitulo": "Política israelí",
+          "titulo": "Israel sin gobierno: ningún bloque llega a 61 escaños y el debate sobre atacar Irán divide",
+          "lugar": "Jerusalén",
+          "cuerpo": [
+            "En las elecciones del 27 de octubre, el bloque de Benjamín Netanyahu obtuvo 53 escaños, el bloque opositor sionista encabezado por Gadi Eisenkot 48 y las dos listas árabes 19. La mayoría exige 61 de 120. El Likud fue el partido más votado (27 escaños) y Netanyahu reclama el mandato; Naftali Bennett respalda un gobierno de unidad liderado por Eisenkot y descarta servir bajo Netanyahu.",
+            "El exministro Avigdor Liberman declaró el 20 de noviembre que no hay justificación de seguridad para atacar a Irán ahora y que, si el primer ministro lo decide, sería por motivos políticos. Analistas advierten que una emergencia de seguridad podría alterar el reparto de fuerzas en las negociaciones de coalición."
+          ],
+          "tono": "neutral",
+          "verificacion": "confirmado",
+          "fuentes": [
+            {"nombre": "Al Jazeera (3 nov.)", "url": "https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance"},
+            {"nombre": "Times of Israel (20 nov.)", "url": "https://www.timesofisrael.com/liveblog-november-20-2026/"},
+            {"nombre": "Wikipedia: elecciones Israel 2026", "url": "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "estados-unidos",
+      "nombre": "Estados Unidos en guerra",
+      "corto": "EE. UU.",
+      "subtitulo": "Irán, Venezuela y el frente interno",
+      "articulos": [
+        {
+          "antetitulo": "Venezuela",
+          "titulo": "Hegseth firma en Caracas un pacto militar con el gobierno interino, 21 años después de la ruptura",
+          "bajada": "Es la primera visita del jefe del Pentágono desde que fuerzas especiales de EE. UU. depusieron a Nicolás Maduro en enero.",
+          "lugar": "Caracas",
+          "imagen": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Pentagon_US_Department_of_Defense_building.jpg/960px-The_Pentagon_US_Department_of_Defense_building.jpg",
+            "pie": "El Pentágono, sede del Departamento de Defensa de EE. UU. Foto de archivo.",
+            "credito": "Master Sgt. Ken Hammond, U.S. Air Force / Wikimedia Commons",
+            "licencia": "Dominio público",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:The_Pentagon_US_Department_of_Defense_building.jpg"
+          },
+          "cuerpo": [
+            "El secretario de Defensa, Pete Hegseth, anunció el 18 de noviembre en Caracas un acuerdo de cooperación militar con las autoridades interinas venezolanas que incluye entrenamiento conjunto e intercambio de inteligencia. UPI lo describe como la reanudación de la cooperación militar tras 21 años de suspensión.",
+            "Hegseth vinculó el acuerdo petrolero con Venezuela a la guerra con Irán: dijo que convierte el estrecho de Ormuz en «un factor irrelevante para el hemisferio occidental». El congresista republicano Thomas Massie criticó que Hegseth ordenara «un acto de guerra» contra Venezuela sin autorización del Congreso.",
+            "En el frente interno, varios reportes atribuyen parte de la derrota del Partido Republicano en las elecciones legislativas de medio término al malestar de los votantes por la guerra con Irán."
+          ],
+          "tono": "mixta",
+          "verificacion": "confirmado",
+          "fuentes": [
+            {"nombre": "Al Jazeera (18 nov.)", "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela"},
+            {"nombre": "US News / Reuters", "url": "https://www.usnews.com/news/world/articles/2026-11-18/us-defense-secretary-hegseth-vows-to-boost-venezuela-military-cooperation"},
+            {"nombre": "UPI", "url": "https://www.upi.com/Top_News/World-News/2026/11/18/latam-venezuela-us-military-cooperation/5731795032282"},
+            {"nombre": "Al Jazeera (análisis)", "url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela"},
+            {"nombre": "WSLS / AP", "url": "https://www.wsls.com/news/politics/2026/11/18/hegseth-is-in-venezuela-to-meet-with-interim-authorities-latest-trump-cabinet-member-to-visit/"}
+          ]
+        },
+        {
+          "antetitulo": "Irán",
+          "titulo": "Trump insinúa que Teherán podría trabajar en armas químicas o biológicas",
+          "lugar": "Washington",
+          "imagen": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Strait_of_Hormuz_islands.svg/960px-Strait_of_Hormuz_islands.svg.png",
+            "pie": "Mapa del estrecho de Ormuz y sus islas, entre ellas Qeshm, blanco de los últimos ataques estadounidenses.",
+            "credito": "Wikideas1 / Wikimedia Commons",
+            "licencia": "CC0",
+            "tipo": "mapa",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_islands.svg"
+          },
+          "cuerpo": [
+            "Mientras crece la tensión en el Golfo, el presidente Trump dijo que Irán podría estar desarrollando armas químicas o biológicas. No presentó pruebas públicas. Irán ha negado sistemáticamente buscar armas de destrucción masiva.",
+            "EE. UU. reemitió alertas de seguridad para sus ciudadanos en los países del Golfo tras los ataques iraníes del 18 de noviembre. El CENTCOM endureció el bloqueo naval y amenazó con acción militar contra los barcos que reciban crudo iraní mediante transbordos."
+          ],
+          "tono": "negativa",
+          "verificacion": "no_verificado",
+          "fuentes": [
+            {"nombre": "CBS News", "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"},
+            {"nombre": "Times of Israel (18 nov.)", "url": "https://www.timesofisrael.com/liveblog-november-18-2026/"},
+            {"nombre": "Al Jazeera (20 nov.)", "url": "https://aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "africa",
+      "nombre": "África en llamas",
+      "corto": "África",
+      "subtitulo": "Sudán, RD Congo, Sahel y el Cuerno de África",
+      "articulos": [
+        {
+          "antetitulo": "Sudán",
+          "titulo": "El Ejército avanza en Kordofán y bombardea a las RSF en Nyala; los civiles pagan el precio de ambos bandos",
+          "lugar": "Kordofán / Darfur",
+          "imagen": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Darfurians_refugees_in_Eastern_Chad.jpg/960px-Darfurians_refugees_in_Eastern_Chad.jpg",
+            "pie": "Refugiados de Darfur en el este de Chad. Foto de archivo.",
+            "credito": "European Commission DG ECHO / Wikimedia Commons",
+            "licencia": "CC BY-SA 2.0",
+            "fecha_foto": "2011",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:Darfurians_refugees_in_Eastern_Chad.jpg"
+          },
+          "cuerpo": [
+            "Los combates entre el Ejército sudanés (SAF), con sus aliados, y las Fuerzas de Apoyo Rápido (RSF) se intensificaron este domingo en Kordofán Occidental. El 16 de noviembre el Ejército dijo haber tomado la zona de Al-Saatat, que abarca cinco localidades al noreste de Abu Zabad; las RSF no respondieron de inmediato.",
+            "El 19 de noviembre, la aviación militar bombardeó el cuartel general de las RSF en Nyala (Darfur del Sur). Fuentes militares dicen que la campaña aérea busca debilitar a las RSF antes de una ofensiva terrestre. Las RSF todavía controlan al-Nuhud, partes de Kordofán del Sur y El Fasher, capital de Darfur del Norte, que tomaron a finales de octubre de 2025 tras 18 meses de asedio.",
+            "Ambos bandos son acusados de matar civiles: un bombardeo del Ejército mató a 13 personas, entre ellas mujeres y niños, en la localidad de Abu Zabad, según el rastreador del Council on Foreign Relations; un observatorio de derechos humanos acusa a las RSF de asesinar civiles en Abu Qalb. Un presunto ataque con dron de las RSF cerca de Ed Damazin (Nilo Azul) mató a nueve personas. Muchos civiles huyen hacia Darfur o El Obeid."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {"nombre": "Sudan Tribune", "url": "https://sudantribune.com/article/321451"},
+            {"nombre": "Sudan Tribune (Abu Qalb)", "url": "https://sudantribune.com/article/321517"},
+            {"nombre": "Anadolu", "url": "https://aa.com.tr/en/middle-east/-sudanese-army-says-it-seized-5-areas-from-rsf-in-west-kordofan/4127044"},
+            {"nombre": "CFR Global Conflict Tracker", "url": "https://www.cfr.org/global-conflict-tracker/conflict/power-struggle-sudan"}
+          ]
+        },
+        {
+          "antetitulo": "RD Congo",
+          "titulo": "Nueva ofensiva del M23 en Kivu del Sur deja unos 323.000 desplazados",
+          "lugar": "Kivu del Sur",
+          "cuerpo": [
+            "Una nueva ofensiva del grupo rebelde M23, que según The New Humanitarian opera ahora bajo el nombre de Frente para la Refundación de la Nación (FRN), ha desplazado a unas 323.000 personas en Kivu del Sur. A comienzos de 2026, una ofensiva del Ejército congoleño había matado a un alto mando militar del M23.",
+            "Kinsasa y la ONU acusan a Ruanda de respaldar al grupo; Kigali lo niega y señala a milicias hostiles a Ruanda que operan en el este del Congo."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {"nombre": "The New Humanitarian (13 nov.)", "url": "https://www.thenewhumanitarian.org/news/2026/11/13/gaza-deadly-winter-new-rebel-offensive-dr-congo-looming-killer-robot-cheat-sheet"},
+            {"nombre": "Critical Threats", "url": "https://www.criticalthreats.org/analysis/drc-fardc-m23-russia-wagner-mali-burkina-niger-rsf-chad-sudan-fgs-somalia-ghana-aes-ecowas-africa-file-february-26-2026"}
+          ]
+        },
+        {
+          "antetitulo": "Sahel y Yemen",
+          "titulo": "Yihadismo en expansión en Malí; los hutíes intensifican ataques contra Arabia Saudí",
+          "lugar": "Bamako / Saná",
+          "cuerpo": [
+            "Al menos 48 civiles murieron en el este de Malí en un fin de semana de violencia yihadista a finales de octubre. El grupo JNIM (vinculado a Al Qaeda) mantiene tácticas de asedio en Malí y Burkina Faso, y ACLED advierte que los grupos yihadistas son una amenaza creciente en África.",
+            "En Yemen, el Consejo de Seguridad de la ONU renovó por un año, el 12 de noviembre, las sanciones contra los hutíes, que han intensificado sus ataques con drones y misiles contra instalaciones petroleras y aeropuertos de Arabia Saudí."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {"nombre": "ACLED", "url": "https://acleddata.com/report/jihadist-groups-pose-growing-and-expanding-threat-africa"},
+            {"nombre": "Crisis Group: Malí", "url": "https://www.crisisgroup.org/africa/sahel/mali"},
+            {"nombre": "The New Humanitarian", "url": "https://www.thenewhumanitarian.org/news/2026/11/13/gaza-deadly-winter-new-rebel-offensive-dr-congo-looming-killer-robot-cheat-sheet"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "asia",
+      "nombre": "Asia y el Pacífico",
+      "corto": "Asia",
+      "subtitulo": "Taiwán, Myanmar y el sur de Asia",
+      "articulos": [
+        {
+          "antetitulo": "China – Taiwán",
+          "titulo": "Más de 100 buques chinos en maniobras sin anunciar: Taipéi denuncia «intimidación silenciosa»",
+          "lugar": "Taipéi / Pekín",
+          "cuerpo": [
+            "Según altos funcionarios de seguridad taiwaneses citados por Reuters, el Ejército y la Guardia Costera chinos llegaron a concentrar más de 100 embarcaciones en el Pacífico occidental, con ataques simulados que incluían a Taiwán. El despliegue naval fue mayor que el de «Misión Justicia 2025», los últimos ejercicios formalmente anunciados contra la isla.",
+            "El ministro de Defensa taiwanés dijo que China realiza ejercicios de «negación de área» con uno de sus portaaviones. Una fuente de inteligencia extranjera sugirió que la falta de anuncio fue deliberada para presionar sin coste diplomático, en vísperas de la reunión Xi–Trump en la cumbre de APEC en Shenzhen. Xi renovó el 12 de noviembre su llamado a la «reunificación»; Pekín no renuncia al uso de la fuerza."
+          ],
+          "tono": "negativa",
+          "verificacion": "confirmado",
+          "fuentes": [
+            {"nombre": "The Japan Times / Reuters", "url": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/china-silent-intimidation/"},
+            {"nombre": "Taipei Times", "url": "https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867710"},
+            {"nombre": "AEI China & Taiwan Update", "url": "https://www.aei.org/commentary/china-taiwan-update-november-6-2026/"},
+            {"nombre": "China-Global South Project", "url": "https://chinaglobalsouth.com/2026/11/10/china-taiwan-aircraft-carrier-area-denial-military-drills/"}
+          ]
+        },
+        {
+          "antetitulo": "Myanmar",
+          "titulo": "La junta recupera terreno antes de sus elecciones; la resistencia contraataca en Sagaing y Chin",
+          "lugar": "Naipyidó",
+          "imagen": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/PDF_%28People%27s_Defence_Force%29_checkpoint_in_Bago_Region%2C_Myanmar.png/960px-PDF_%28People%27s_Defence_Force%29_checkpoint_in_Bago_Region%2C_Myanmar.png",
+            "pie": "Puesto de control de las Fuerzas de Defensa del Pueblo (PDF) en la región de Bago, Myanmar.",
+            "credito": "Myanmar Now / Wikimedia Commons",
+            "licencia": "CC BY 4.0",
+            "fecha_foto": "abr. 2026",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:PDF_(People%27s_Defence_Force)_checkpoint_in_Bago_Region,_Myanmar.png"
+          },
+          "cuerpo": [
+            "El 10 de noviembre, el ejército de Myanmar capturó un cuartel general de la resistencia en la frontera de Bago y Mon, junto con diez bases opositoras. La junta busca celebrar elecciones incluso en localidades hoy controladas por la resistencia y por eso intensifica su ofensiva.",
+            "En el estado Chin, tropas que avanzaban hacia Falam chocaron con combatientes chin y la junta respondió con bombardeos aéreos. En Sagaing continúan los combates terrestres y los ataques con drones y aviones."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {"nombre": "Business Standard", "url": "https://www.business-standard.com/world-news/myanmar-military-captures-key-resistance-headquarters-10-opposition-bases-126111000372_1.html"},
+            {"nombre": "BNI Online", "url": "https://www.bnionline.net/en/news/fierce-clashes-erupt-junta-forces-advance-toward-falam"},
+            {"nombre": "The Irrawaddy", "url": "https://www.irrawaddy.com/news/war-against-the-junta/sagaing-resistance-encircles-myanmar-junta-troops-in-battle-for-banmauk.html"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "musulmanes",
+      "nombre": "El mundo musulmán",
+      "corto": "Musulmanes",
+      "subtitulo": "Comunidades musulmanas perseguidas, desplazadas o en guerra",
+      "articulos": [
+        {
+          "antetitulo": "Justicia internacional",
+          "titulo": "La Corte Internacional de Justicia declara que Myanmar cometió genocidio contra los rohinyá",
+          "bajada": "Fallo histórico en el caso presentado por Gambia: Myanmar debe investigar, castigar a los responsables y reparar a las víctimas.",
+          "lugar": "La Haya / Cox's Bazar",
+          "imagen": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Kutupalong_Refugee_Camp_%28John_Owens-VOA%29.jpg/960px-Kutupalong_Refugee_Camp_%28John_Owens-VOA%29.jpg",
+            "pie": "Campo de refugiados rohinyá de Kutupalong, Bangladés, el mayor del mundo. Foto de archivo.",
+            "credito": "John Owens (VOA) / Wikimedia Commons",
+            "licencia": "Dominio público",
+            "fecha_foto": "2017",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:Kutupalong_Refugee_Camp_(John_Owens-VOA).jpg"
+          },
+          "cuerpo": [
+            "El 19 de noviembre de 2026, la CIJ concluyó que Myanmar cometió genocidio contra la minoría musulmana rohinyá. La Corte ordenó investigar y, cuando corresponda, procesar y castigar a los responsables; prevenir nuevas violaciones y reparar a las víctimas. El monto y la forma de la compensación se definirán en una fase posterior.",
+            "El presidente de la Asamblea General de la ONU dijo a los refugiados: «No estarán solos». Más de un millón de rohinyá viven en campos de Bangladés. Myanmar ha negado históricamente la intención genocida y ha defendido sus operaciones de 2017 como acciones contra insurgentes.",
+            "Fuera de Myanmar, los rohinyá también sufren: en India, Malasia, Tailandia y Nepal denuncian detenciones arbitrarias y miedo a la deportación. Un medio comunitario reportó que unos 50 rohinyá llegaron recientemente a un campo de Bangladés, 45 de ellos desde India; esta cifra no ha sido verificada por otras fuentes."
+          ],
+          "tono": "positiva",
+          "verificacion": "confirmado",
+          "fuentes": [
+            {"nombre": "Al Jazeera (19 nov.)", "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya"},
+            {"nombre": "Noticias ONU", "url": "https://news.un.org/en/story/2026/11/1168853"},
+            {"nombre": "Justice For All", "url": "https://www.justiceforall.org/resources/newsletter/2026-11-19-historicdayforrohingyaaticj/"},
+            {"nombre": "Muslim Network TV", "url": "https://www.muslimnetwork.tv/bangladesh-sees-fresh-rohingya-arrivals-amid-persecution-in-india-burma/"}
+          ]
+        },
+        {
+          "antetitulo": "Panorama",
+          "titulo": "Dónde sufren hoy las poblaciones musulmanas: un mapa de la crisis",
+          "lugar": "Varios países",
+          "tamano": "ancho",
+          "cuerpo": [
+            "Palestina: Gaza, de mayoría musulmana, acumula más de 74.000 muertos según su Ministerio de Salud y vive un invierno con restricciones a la ayuda; en Cisjordania, la violencia de colonos ha alcanzado su nivel más alto desde 2006.",
+            "Sudán: país de mayoría musulmana, sufre una de las peores crisis humanitarias del planeta, con masacres atribuidas a las RSF en Darfur y bombardeos del Ejército sobre zonas pobladas.",
+            "Irán y el Líbano: millones de civiles viven bajo la guerra abierta con EE. UU. e Israel desde febrero de 2026.",
+            "Sahel y Nigeria: aunque los grupos yihadistas se proclaman islámicos, la mayoría de sus víctimas son civiles musulmanes de Malí, Burkina Faso y Níger.",
+            "Uigures (China): hoy no hay novedades verificadas. Como contexto, la Oficina de Derechos Humanos de la ONU concluyó en 2022 que las detenciones masivas en Xinjiang podrían constituir crímenes de lesa humanidad; Pekín lo rechaza y habla de lucha antiterrorista y formación profesional. Organizaciones uigures denuncian la persecución de exiliados en Pakistán y Afganistán.",
+            "India: organizaciones de derechos humanos denuncian detenciones y amenazas de deportación de refugiados rohinyá; el Gobierno indio sostiene que son inmigrantes irregulares y un asunto de seguridad nacional."
+          ],
+          "tono": "neutral",
+          "verificacion": "parcial",
+          "fuentes": [
+            {"nombre": "Uyghur Human Rights Project", "url": "https://uhrp.org/report/nets-cast-from-the-earth-to-the-sky-chinas-hunt-for-pakistans-uyghurs/"},
+            {"nombre": "Al Jazeera: Rohinyá", "url": "https://www.aljazeera.com/tag/rohingya/"},
+            {"nombre": "ACLED", "url": "https://acleddata.com/report/jihadist-groups-pose-growing-and-expanding-threat-africa"}
+          ]
+        }
+      ]
+    }
+  ],
+
+  "dos_caras": [
+    {
+      "tema": "Los misiles rusos en Polonia: ¿error o provocación?",
+      "lado_a": {"quien": "Polonia, OTAN y Ucrania", "parrafos": [
+        "Varsovia habla de «provocación intencional» y la OTAN de «grave violación» de su espacio aéreo. Ucrania sostiene que Rusia pone a prueba la respuesta de la alianza mientras negocia.",
+        "El ISW considera que los disparos hacia Polonia fueron deliberados y que el momento coincide con las negociaciones lideradas por EE. UU."
+      ]},
+      "lado_b": {"quien": "Moscú y la Casa Blanca", "parrafos": [
+        "El Kremlin no comentó de inmediato el incidente. Su posición general es que las conversaciones no implican pausar las operaciones militares; Lavrov dijo en octubre que un alto el fuego inmediato equivaldría a «preservar el régimen nazi» de Kiev.",
+        "Trump afirmó que los drones y misiles cayeron «por error» y que Putin quiere la paz."
+      ]},
+      "verificable": "Polonia confirmó la caída de dos misiles y un dron a reacción en su territorio. La intencionalidad no está demostrada de forma independiente.",
+      "fuentes": [
+        {"nombre": "CBS News", "url": "https://cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato"},
+        {"nombre": "Ukrainska Pravda", "url": "https://www.pravda.com.ua/eng/news/2026/10/26/8059753/"}
+      ]
+    },
+    {
+      "tema": "El bloqueo de Ormuz: ¿autodefensa o acto de guerra?",
+      "lado_a": {"quien": "Estados Unidos y aliados del Golfo", "parrafos": [
+        "Washington dice que escolta el tráfico comercial y que sus ataques en Qeshm fueron «defensivos». Considera el bloqueo una presión legítima para frenar los ataques iraníes a la navegación y a países vecinos, y acusa a Teherán de buscar armas prohibidas.",
+        "Baréin denuncia daños en instalaciones civiles por ataques iraníes."
+      ]},
+      "lado_b": {"quien": "Irán", "parrafos": [
+        "Teherán califica el bloqueo de sus puertos como «un acto de guerra» y afirma que el paso por Ormuz debe negociarse con sus autoridades. Sus medios dicen que los ataques de EE. UU. no causaron daños graves.",
+        "Exige el fin de la guerra en todos los frentes, el descongelamiento de sus activos y el levantamiento de las sanciones petroleras."
+      ]},
+      "verificable": "UKMTO confirmó daños en dos petroleros cerca de Ormuz. Los ataques a radares estadounidenses en Baréin que reclama Irán no han sido confirmados; el incendio en Sitra sí, según Baréin.",
+      "fuentes": [
+        {"nombre": "Investing.com / Reuters", "url": "https://investing.com/news/economy-news/iran-asserts-control-over-hormuz-as-strikes-on-bahrain-and-saudi-arabia-escalate-5043802"},
+        {"nombre": "HNGN", "url": "https://www.hngn.com/articles/273918/20261122/iran-strikes-bahrain-two-tankers-are-hit-near-hormuz.htm"}
+      ]
+    },
+    {
+      "tema": "Gaza: ¿quién viola el alto el fuego?",
+      "lado_a": {"quien": "Israel", "parrafos": [
+        "Israel afirma que ataca a comandantes y células de Hamás que preparan ataques, como el jefe de la Brigada de Jan Yunis. Condiciona su retirada a que desaparezca la amenaza de Hamás y restringe los productos de «doble uso» para que no lleguen al grupo."
+      ]},
+      "lado_b": {"quien": "Autoridades palestinas y organismos humanitarios", "parrafos": [
+        "Las autoridades de Gaza y Al Jazeera cuentan más de 1.500 muertos desde el alto el fuego, incluidos ataques contra hospitales. Decenas de países y agencias denuncian que las restricciones dejan a la población sin refugio adecuado en invierno."
+      ]},
+      "verificable": "La «Junta de Paz» de Trump culpó a ambas partes de no cumplir sus compromisos. Las cifras de muertos provienen del Ministerio de Salud de Gaza, que no distingue entre civiles y combatientes.",
+      "fuentes": [
+        {"nombre": "Times of Israel", "url": "https://www.timesofisrael.com/liveblog-november-12-2026/"},
+        {"nombre": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza"}
+      ]
+    }
+  ],
+
+  "buenas_noticias": [
+    {"titulo": "Justicia para los rohinyá", "cuerpo": ["La CIJ declaró por primera vez a Myanmar responsable de genocidio y ordenó reparaciones a las víctimas. Es un precedente para las minorías perseguidas en todo el mundo."], "fuentes": [{"nombre": "Noticias ONU", "url": "https://news.un.org/en/story/2026/11/1168853"}]},
+    {"titulo": "El mayor canje de prisioneros de la guerra de Ucrania", "cuerpo": ["Rusia y Ucrania acordaron intercambiar más de mil prisioneros por bando en las próximas semanas, el mayor gesto humanitario desde 2022."], "fuentes": [{"nombre": "JURIST", "url": "https://www.jurist.org/news/2026/11/russia-and-ukraine-agree-to-large-prisoner-exchange-following-two-days-of-us-mediated-talks/"}]},
+    {"titulo": "Corredor humanitario en Oleshky", "cuerpo": ["Un alto el fuego local pactado en octubre permitió la entrada de ayuda y la evacuación de civiles por corredores seguros en esta ciudad de Jersón."], "fuentes": [{"nombre": "Investing.com / Reuters", "url": "https://www.investing.com/news/economy-news/russia-ukraine-agree-to-local-ceasefire-as-new-peace-talks-planned--reuters-4970527"}]},
+    {"titulo": "Mediación en Ormuz", "cuerpo": ["Pese a la escalada, los mediadores mantienen sobre la mesa un marco para cambiar el fin de los ataques iraníes en el estrecho por el levantamiento del bloqueo estadounidense."], "fuentes": [{"nombre": "Investing.com", "url": "https://investing.com/news/economy-news/iran-asserts-control-over-hormuz-as-strikes-on-bahrain-and-saudi-arabia-escalate-5043802"}]},
+    {"titulo": "Colombia: protesta mayoritariamente pacífica", "cuerpo": ["Según el Gobierno, el 97 % de las manifestaciones del paro nacional del 19 de noviembre transcurrieron de forma pacífica; en Bogotá solo se registraron dos disturbios menores."], "fuentes": [{"nombre": "360 Radio", "url": "https://360radio.com.co/paro-nacional/236879/"}]}
+  ],
+
+  "colombia": {
+    "subtitulo": "Gobierno de Abelardo de la Espriella · Congreso · Orden público",
+    "articulos": [
+      {
+        "antetitulo": "Orden público y política",
+        "titulo": "Tras el paro del 19N, De la Espriella advierte que no permitirá un «golpe de Estado»",
+        "bajada": "El presidente responde a Gustavo Petro, que cuestionó la legitimidad de su gobierno y llamó a intensificar las protestas contra la reforma tributaria.",
+        "lugar": "Bogotá",
+        "imagen": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Paro_Nacional_de_Colombia_de_2025_-_Marcha_en_Bogot%C3%A1_el_28_de_mayo_02.jpg/960px-Paro_Nacional_de_Colombia_de_2025_-_Marcha_en_Bogot%C3%A1_el_28_de_mayo_02.jpg",
+          "pie": "Marcha durante un paro nacional en Bogotá. Foto de archivo de mayo de 2025, no corresponde a la jornada del 19 de noviembre.",
+          "credito": "ProtoplasmaKid / Wikimedia Commons",
+          "licencia": "CC BY-SA 4.0",
+          "fecha_foto": "28 may. 2025",
+          "fuente_url": "https://commons.wikimedia.org/wiki/File:Paro_Nacional_de_Colombia_de_2025_-_Marcha_en_Bogot%C3%A1_el_28_de_mayo_02.jpg"
+        },
+        "cuerpo": [
+          "El jueves 19 de noviembre, la CUT, Fecode y otras organizaciones sindicales y sociales convocaron un paro nacional contra la reforma tributaria del Gobierno, que sigue radicada en el Congreso, y contra la venta de activos estatales. La CUT expresó su temor a la privatización de empresas estratégicas como Ecopetrol, Cenit y el Grupo Bicentenario, y rechazó la reducción de empleos públicos.",
+          "El expresidente Gustavo Petro participó en una concentración en Cali, donde criticó la política económica del Gobierno («Abelardo quiere poner impuestos a la gente que trabaja») y la atención a los damnificados del terremoto. En Bogotá hubo dos disturbios, en la Universidad Nacional y en la carrera Séptima, sin mayor trascendencia.",
+          "El presidente Abelardo de la Espriella calificó de positivo el balance: según su Gobierno, el 97 % de las manifestaciones fueron pacíficas. Al mismo tiempo, respondió a Petro, que cuestionó la legitimidad de su gobierno, y advirtió que no permitirá «un golpe de Estado».",
+          "Contexto: De la Espriella gobierna desde el 7 de agosto de 2026, tras ganar la segunda vuelta del 21 de junio por menos de un punto frente a Iván Cepeda (Pacto Histórico). Petro alegó fraude, pero terminó reconociendo los resultados."
+        ],
+        "tono": "mixta",
+        "verificacion": "confirmado",
+        "fuentes": [
+          {"nombre": "Diario Crónica", "url": "https://www.diariocronica.com.ar/noticias/2026/11/21/179220-el-presidente-de-colombia-advirtio-que-no-permitira-un-golpe-de-estado"},
+          {"nombre": "Infobae", "url": "https://www.infobae.com/colombia/2026/11/19/gustavo-petro-compartio-las-primeras-imagenes-de-como-avanza-el-paro-nacional-del-19-de-noviembre-en-diferentes-ciudades-del-pais-abelardo-quiere-poner-impuestos-a-la-gente-que-trabaja/"},
+          {"nombre": "La Silla Vacía", "url": "https://www.lasillavacia.com/en-vivo/19-de-noviembre-petro-y-el-pacto-ratifican-llamado-a-paro-nacional/"},
+          {"nombre": "360 Radio", "url": "https://360radio.com.co/paro-nacional/236879/"},
+          {"nombre": "Wikipedia: elecciones 2026", "url": "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Colombia_de_2026"}
+        ]
+      },
+      {
+        "antetitulo": "Seguridad",
+        "titulo": "Ataque contra una instalación militar en Cesar deja un uniformado muerto",
+        "lugar": "Cesar / Bolívar",
+        "cuerpo": [
+          "El presidente repudió un ataque contra una instalación castrense en el departamento del Cesar que dejó un uniformado muerto y prometió una respuesta «contundente».",
+          "El 7 de noviembre, un ataque con drones contra una base militar en Santa Rosa del Sur (Bolívar) mató a por lo menos tres soldados y dejó ocho heridos graves, según EFE.",
+          "Según Indepaz, en los primeros 100 días del gobierno murieron 43 miembros de la fuerza pública y 219 resultaron heridos. El ELN y las disidencias de las FARC mantienen ofensivas con drones explosivos, una táctica que ya había golpeado la base de Aguachica (Cesar) en diciembre de 2025, con siete soldados muertos."
+        ],
+        "tono": "negativa",
+        "verificacion": "confirmado",
+        "fuentes": [
+          {"nombre": "Prensa Latina (22 nov.)", "url": "https://www.prensa-latina.cu/2026/11/22/presidente-de-colombia-repudio-ataque-contra-instalacion-castrense/"},
+          {"nombre": "Diario de Yucatán / EFE", "url": "https://www.yucatan.com.mx/mundo/2026/11/07/ataque-a-base-militar-de-colombia-3-muertos-y-8-heridos-por-lo-menos.html"},
+          {"nombre": "El Tiempo (Aguachica, 2025)", "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/ataque-en-aguachica-de-los-5-mas-graves-contra-fuerza-publica-en-este-gobierno-3518485"}
+        ]
+      },
+      {
+        "antetitulo": "Cárceles y telecomunicaciones",
+        "titulo": "Ofensiva contra los celulares en las cárceles y cargos contra Starlink Colombia",
+        "lugar": "Bogotá",
+        "cuerpo": [
+          "El presidente anunció herramientas legales y tecnológicas para restringir las comunicaciones no autorizadas desde las prisiones, con el objetivo de frenar las extorsiones que se coordinan desde allí.",
+          "Según un comunicado de la Presidencia del 21 de noviembre, el Ministerio TIC abrió investigaciones y formuló cargos contra Starlink Colombia. En octubre, el Gobierno declaró las telecomunicaciones activo estratégico y ubicó un equipo especializado del Ministerio de Defensa en la sede del MinTIC. Los detalles de los cargos aún no son públicos."
+        ],
+        "tono": "neutral",
+        "verificacion": "parcial",
+        "fuentes": [
+          {"nombre": "El Nuevo Día", "url": "https://www.elnuevodia.com.co/colombia/presidente-abelardo-anuncia-medidas-contra-celulares-en-las-carceles-colombianas-541563"},
+          {"nombre": "MinTIC", "url": "https://mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/442131:Ministerios-TIC-y-de-Defensa-trabajaran-unidos-para-fortalecer-la-seguridad-de-las-telecomunicaciones-del-pais"},
+          {"nombre": "Mobile Time", "url": "https://www.mobiletime.com.br/noticias/16/10/2026/colombia-declara-telecomunicacoes-como-ativo-estrategico-e-reforca-seguranca/"}
+        ]
+      },
+      {
+        "antetitulo": "Reconstrucción",
+        "titulo": "Tres meses después del terremoto de Chocó, la reconstrucción divide al Congreso",
+        "lugar": "Chocó / Valle / Risaralda",
+        "imagen": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Pereira_after_the_earthquake_-_WCK_%28cropped%29.jpg/960px-Pereira_after_the_earthquake_-_WCK_%28cropped%29.jpg",
+          "pie": "Pereira después del terremoto del 10 de agosto de 2026.",
+          "credito": "World Central Kitchen / Wikimedia Commons",
+          "licencia": "CC BY 4.0",
+          "fecha_foto": "12 ago. 2026",
+          "fuente_url": "https://commons.wikimedia.org/wiki/File:Pereira_after_the_earthquake_-_WCK_(cropped).jpg"
+        },
+        "cuerpo": [
+          "El sismo de magnitud 7,4 del 10 de agosto, con epicentro en San José del Palmar (Chocó), dejó 304 muertos, más de 120.000 damnificados y 29.554 viviendas destruidas, según las cifras citadas en las iniciativas legislativas.",
+          "El Pacto Histórico propone revivir una reforma tributaria de 20 billones de pesos que grave a los sectores de mayores ingresos para financiar la reconstrucción. El Centro Democrático plantea exenciones del impuesto predial para inmuebles destruidos y un régimen transitorio de obras por impuestos. Otros congresistas piden reactivar el Ingreso Solidario y congelar deudas de los damnificados."
+        ],
+        "tono": "negativa",
+        "verificacion": "confirmado",
+        "fuentes": [
+          {"nombre": "El País (Cali)", "url": "https://www.elpais.com.co/colombia/pacto-historico-propone-reforma-tributaria-y-cuestiona-la-gestion-de-abelardo-de-la-espriella-tras-el-sismo-1905.html"},
+          {"nombre": "Infobae", "url": "https://www.infobae.com/colombia/2026/08/18/congresistas-del-centro-democratico-pidieron-exencion-del-impuesto-predial-para-inmuebles-afectados-por-terremoto/"},
+          {"nombre": "Voces Colombia", "url": "https://www.vocescolombia.com/terremoto-sacude-al-congreso-proponen-alerta-sismica-alivios-tributarios-y-obras-por-impuestos-para-reconstruir-colombia/"}
+        ]
+      }
+    ],
+    "dos_caras": {
+      "tema": "La reforma tributaria: ¿necesaria o regresiva?",
+      "lado_a": {"quien": "Gobierno De la Espriella", "parrafos": [
+        "El Gobierno defiende su política económica y su reforma, radicada en el Congreso, como necesaria para las finanzas públicas. Considera que la protesta es legítima mientras sea pacífica, pero acusa a Petro de buscar deslegitimar un gobierno elegido en las urnas."
+      ]},
+      "lado_b": {"quien": "Sindicatos, Pacto Histórico y Petro", "parrafos": [
+        "Los convocantes del paro sostienen que la reforma carga a quienes trabajan, rechazan la venta de activos como Ecopetrol, Cenit y el Grupo Bicentenario y la reducción del empleo público. Petro exige gravar a los más ricos para financiar la reconstrucción tras el terremoto."
+      ]},
+      "verificable": "La reforma tributaria sigue en trámite en el Congreso. El Gobierno reportó un 97 % de manifestaciones pacíficas el 19N; los convocantes no han publicado una cifra propia de participación."
+    }
+  },
+
+  "agenda": [
+    {"cuando": "Próximas 2–3 semanas", "que": "Canje de más de mil prisioneros por bando entre Rusia y Ucrania, pactado en Abu Dabi."},
+    {"cuando": "En curso", "que": "Intento iraní de cruzar el bloqueo naval con 14 petroleros; riesgo de choque directo en Ormuz."},
+    {"cuando": "En curso", "que": "Negociaciones de coalición en Israel tras las elecciones del 27 de octubre (ningún bloque suma 61 escaños)."},
+    {"cuando": "En curso", "que": "Trámite de la reforma tributaria en el Congreso de Colombia; sindicatos amenazan con nuevas movilizaciones."},
+    {"cuando": "Por definir", "que": "Fase de reparaciones de la CIJ en el caso de genocidio rohinyá (Gambia c. Myanmar)."},
+    {"cuando": "Por definir", "que": "Elecciones convocadas por la junta militar de Myanmar, en medio de la guerra civil."}
+  ]
+}
