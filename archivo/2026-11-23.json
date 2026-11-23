@@ -1,0 +1,1142 @@
+{
+  "fecha": "2026-11-23",
+  "fecha_larga": "Lunes, 23 de noviembre de 2026",
+  "edicion_numero": 3,
+  "anio_romano": "I",
+  "cierre": "23 nov. 2026, 7:30 a. m. (hora de Colombia)",
+  "aviso": "Cifras preliminares: los balances de Ucrania, Gaza y el Golfo pueden cambiar. Varios medios no estuvieron accesibles para consulta directa; los datos se atribuyen a la fuente que los recoge.",
+  "portada": {
+    "antetitulo": "OTAN · Polonia",
+    "titulo": "La OTAN se reúne hoy tras confirmarse que los tres objetos caídos en Polonia el 20 de noviembre eran misiles rusos Kh-101",
+    "bajada": "Varsovia dice que no fue accidental y pide más defensa aérea, pero no invocará el artículo 4. Moscú no ha reconocido la autoría en las fuentes consultadas.",
+    "lugar": "Bruselas / Polonia",
+    "imagen": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Brussels-NATO_headquarters.jpg/960px-Brussels-NATO_headquarters.jpg",
+      "pie": "Sede de la OTAN en Bruselas, donde el Consejo del Atlántico Norte se reúne este lunes. Foto de archivo.",
+      "credito": "Romaine / Wikimedia Commons",
+      "licencia": "CC0",
+      "fecha_foto": "16 feb. 2018",
+      "fuente_url": "https://commons.wikimedia.org/wiki/File:Brussels-NATO_headquarters.jpg"
+    },
+    "cuerpo": [
+      "El Consejo del Atlántico Norte celebra este lunes 23 de noviembre una sesión extraordinaria en Bruselas, tras la caída de misiles rusos en territorio polaco el viernes 20 de noviembre, según los medios que cubren la reunión.",
+      "Los primeros reportes hablaban de dos misiles y un dron. Según el medio griego ProtoThema, que cita fuentes oficiales, los tres objetos que cayeron en Polonia eran misiles de crucero rusos Kh-101.",
+      "El primer ministro polaco, Donald Tusk, afirmó que Polonia no considera el hecho accidental y lo ve como una provocación deliberada de Rusia. Esa es la valoración del Gobierno polaco; las fuentes consultadas no recogen una investigación independiente sobre la intención.",
+      "El ministro de Defensa polaco pidió más aviones de alerta temprana y cazas F-35, y Polonia presentará propuestas en la reunión. Un viceministro dijo que Varsovia no invocará el artículo 4 del Tratado del Atlántico Norte porque la alianza ya trabaja en proteger el flanco oriental.",
+      "El secretario general, Mark Rutte, aseguró en Varsovia que la OTAN defenderá «cada centímetro» de su territorio.",
+      "No se han reportado víctimas en Polonia en las fuentes consultadas. No se encontró en ellas una declaración oficial rusa sobre el incidente; si Moscú responde, se atribuirá aquí."
+    ],
+    "tono": "negativa",
+    "verificacion": "parcial",
+    "fuentes": [
+      {
+        "nombre": "Washington Times (22 nov.)",
+        "url": "https://www.washingtontimes.com/news/2026/nov/22/north-atlantic-council-meet-missiles-land-poland/"
+      },
+      {
+        "nombre": "ProtoThema (23 nov.)",
+        "url": "https://en.protothema.gr/2026/11/23/all-three-missiles-that-violated-polish-airspace-were-russian-nato-to-meet-today/"
+      },
+      {
+        "nombre": "RBC-Ucrania (Rutte)",
+        "url": "https://newsukraine.rbc.ua/news/nato-will-defend-every-inch-of-poland-after-1795292171.html"
+      },
+      {
+        "nombre": "Liga.net",
+        "url": "https://news.liga.net/en/world/news/the-north-atlantic-council-will-meet-in-brussels-following-the-russian-missile-strikes-in-poland"
+      }
+    ]
+  },
+  "lo_esencial": [
+    "OTAN: el Consejo del Atlántico Norte se reúne hoy tras confirmarse que tres misiles Kh-101 rusos cayeron en Polonia el 20 de noviembre; Varsovia no invocará el artículo 4.",
+    "Ucrania: un ataque ruso con 186 drones deja entre 9 y 10 muertos cerca de Kiev, según el Kyiv Independent.",
+    "Golfo: Irán afirma que atacó radares estadounidenses en Baréin; Al Jazeera cuenta al menos 25 petroleros alcanzados en una semana. Las conversaciones mediadas por Catar siguen sin avance.",
+    "Gaza: Israel mantiene una ofensiva terrestre más allá de la «Línea Amarilla» desde el 18 de noviembre.",
+    "Sudán: drones matan al menos a cuatro civiles en Jartum; el Ejército dice que salieron de Etiopía.",
+    "Yemen: la coalición saudí golpea Hodeida y los hutíes amenazan Yeda y Riad.",
+    "Religión: 14 cristianos muertos en Plateau (Nigeria), según ONG cristianas; incendios contra mezquitas en Alabama e Israel.",
+    "Colombia: audiencias de la Ley de Rescate desde hoy; Petro y el Gobierno chocan por su esquema de seguridad."
+  ],
+  "cifras": [
+    {
+      "valor": "186",
+      "texto": "drones rusos lanzados contra Ucrania en una noche; 161 derribados (Fuerza Aérea de Ucrania)"
+    },
+    {
+      "valor": "9–10",
+      "texto": "muertos en el ataque cerca de Kiev, según el Kyiv Independent (cifra provisional)"
+    },
+    {
+      "valor": "25",
+      "texto": "petroleros alcanzados en siete días en y cerca de Ormuz (Al Jazeera)"
+    },
+    {
+      "valor": "263",
+      "texto": "buques cruzaron Ormuz del 12 al 18 de noviembre, 15 % menos que la semana previa (UKMTO)"
+    },
+    {
+      "valor": "41",
+      "texto": "muertos en 24 horas por ataques de la coalición saudí, según los hutíes (una sola parte)"
+    },
+    {
+      "valor": "4",
+      "texto": "civiles muertos y 9 heridos por drones en Jartum, según reportes locales"
+    },
+    {
+      "valor": "14",
+      "texto": "cristianos muertos en Plateau, Nigeria (ICC y Barnabas Aid)"
+    },
+    {
+      "valor": "12,25 %",
+      "texto": "tasa del Banco de la República de Colombia, mantenida el 30 de octubre por 4 votos a 3"
+    }
+  ],
+  "termometro": [
+    {
+      "lugar": "Golfo Pérsico / Ormuz",
+      "nivel": 5,
+      "nota": "Ataques a petroleros y a Baréin; bloqueo estadounidense."
+    },
+    {
+      "lugar": "Rusia – Ucrania",
+      "nivel": 5,
+      "nota": "Ataque con 186 drones; canje pendiente."
+    },
+    {
+      "lugar": "Rusia – OTAN (Polonia)",
+      "nivel": 4,
+      "nota": "Tres Kh-101 en Polonia; reunión del Consejo."
+    },
+    {
+      "lugar": "Sudán",
+      "nivel": 5,
+      "nota": "Drones en Jartum; frente de Kordofán."
+    },
+    {
+      "lugar": "Gaza",
+      "nivel": 4,
+      "nota": "Ofensiva terrestre al oeste de la Línea Amarilla."
+    },
+    {
+      "lugar": "Cisjordania",
+      "nivel": 4,
+      "nota": "Colonos matan a tres palestinos en una semana."
+    },
+    {
+      "lugar": "Líbano – Israel",
+      "nivel": 4,
+      "nota": "Bombardeos en cuatro distritos del sur."
+    },
+    {
+      "lugar": "Yemen / Arabia Saudita",
+      "nivel": 4,
+      "nota": "Ataques a Hodeida; misiles sobre Riad."
+    },
+    {
+      "lugar": "Pakistán – Afganistán",
+      "nivel": 4,
+      "nota": "Choques desde el 29 de octubre."
+    },
+    {
+      "lugar": "Sahel",
+      "nivel": 4,
+      "nota": "JNIM e ISSP compiten por territorio."
+    },
+    {
+      "lugar": "RD Congo (Kivu)",
+      "nivel": 3,
+      "nota": "FRN amenaza con salir de Doha."
+    },
+    {
+      "lugar": "Myanmar",
+      "nivel": 4,
+      "nota": "Bombardeos en Rakáin."
+    },
+    {
+      "lugar": "China – Taiwán",
+      "nivel": 3,
+      "nota": "Maniobras no anunciadas a inicios de mes."
+    },
+    {
+      "lugar": "Colombia (conflicto interno)",
+      "nivel": 3,
+      "nota": "Ofensiva contra el ELN."
+    },
+    {
+      "lugar": "Venezuela",
+      "nivel": 2,
+      "nota": "Pacto militar con EE. UU."
+    },
+    {
+      "lugar": "Violencia religiosa (Nigeria, Pakistán)",
+      "nivel": 4,
+      "nota": "Ataques a cristianos; blasfemia."
+    },
+    {
+      "lugar": "Islamofobia en Occidente",
+      "nivel": 3,
+      "nota": "Incendios contra mezquitas."
+    }
+  ],
+  "secciones": [
+    {
+      "id": "europa",
+      "nombre": "Rusia y Ucrania",
+      "corto": "Rusia–Ucrania",
+      "subtitulo": "Ataque cerca de Kiev, diplomacia estancada y alarma en el flanco oriental de la OTAN",
+      "articulos": [
+        {
+          "antetitulo": "Ucrania",
+          "titulo": "Un ataque ruso con 186 drones deja entre 9 y 10 muertos cerca de Kiev, según el Kyiv Independent",
+          "lugar": "Región de Kiev",
+          "imagen": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/2026_05_24_Russian_attack_on_Kyiv_5.jpg",
+            "pie": "Edificio dañado en Kiev tras un ataque ruso el 24 de mayo de 2026. Foto de archivo.",
+            "credito": "Autor desconocido / Wikimedia Commons",
+            "licencia": "CC BY 4.0",
+            "fecha_foto": "24 may. 2026",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:2026_05_24_Russian_attack_on_Kyiv_5.jpg"
+          },
+          "cuerpo": [
+            "La Fuerza Aérea de Ucrania afirmó que Rusia lanzó durante la noche 186 drones de ataque y que 161 fueron derribados.",
+            "Un dron alcanzó un edificio de apartamentos cerca de Kiev. El Kyiv Independent informó primero de cuatro muertos y 14 personas temidas atrapadas; en su cobertura del 23 de noviembre la cifra sube a entre 9 y 10 muertos, con los rescates aún en curso.",
+            "En Vyshneve, un dron tipo Shahed golpeó un supermercado Novus: al menos tres muertos y 15 heridos, tres de ellos niños, según el alcalde Illya Dikov.",
+            "Las cifras pueden cambiar. No se encontró en las fuentes consultadas una respuesta del Ministerio de Defensa ruso sobre este ataque."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "Kyiv Independent",
+              "url": "https://kyivindependent.com/"
+            },
+            {
+              "nombre": "Kyiv Independent: ataques de los últimos días",
+              "url": "https://kyivindependent.com/russian-attacks-kill-6-injure-45-across-ukraine-over-past-day-as-kyiv-endures-almost-nonstop-air-raid-alerts/"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Ucrania · Diplomacia",
+          "titulo": "El canje de prisioneros acordado en Abu Dabi sigue pendiente: el Kremlin habla de «fase final»",
+          "lugar": "Moscú / Kiev",
+          "cuerpo": [
+            "Tras las conversaciones mediadas por EE. UU. del 10 y 11 de noviembre en Abu Dabi, ambas partes acordaron un canje de entre 1.200 y 1.300 prisioneros por bando, según Zelenski. Ucrania defendió un canje «todos por todos».",
+            "El portavoz del Kremlin, Dmitri Peskov, dijo que el canje está en su etapa final de coordinación; el negociador ruso Vladimir Medinski afirmó que podría ocurrir en dos o tres semanas.",
+            "Las conversaciones terminaron sin avances sobre territorio. Zelenski dijo que la próxima ronda depende de Washington y que EE. UU. busca reunirse cuanto antes, mientras Rusia intentaría retrasarla. Peskov dijo que los europeos podrían sumarse más adelante.",
+            "No se ha confirmado que el canje se haya ejecutado."
+          ],
+          "tono": "mixta",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "PBS (talks end, prisoner exchange)",
+              "url": "https://www.pbs.org/newshour/world/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough"
+            },
+            {
+              "nombre": "Kyiv Post (Kremlin: fase final)",
+              "url": "https://www.kyivpost.com/post/90616"
+            },
+            {
+              "nombre": "Ukrinform",
+              "url": "https://ukrinform.net/rubric-polytics/4187172-next-round-of-peace-talks-depends-on-us-zelensky-says.html"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Ucrania · Guerra de largo alcance",
+          "titulo": "Kiev afirma haber hundido una corbeta rusa en Libia; el gobierno del este libio dice que solo repostaba",
+          "lugar": "Libia oriental / Rusia",
+          "cuerpo": [
+            "El presidente Volodímir Zelenski afirmó que Ucrania hundió un buque de guerra ruso atracado en una base naval del este de Libia, según i24NEWS.",
+            "El gobierno del este de Libia dijo que la nave había atracado para repostar bajo un acuerdo de cooperación con Rusia.",
+            "Un agregador de noticias recoge además informes, de una sola fuente, sobre ataques ucranianos a refinerías rusas y daños en el puente de Crimea. No se pudieron confirmar con agencias y se omiten las cifras."
+          ],
+          "tono": "negativa",
+          "verificacion": "no_verificado",
+          "fuentes": [
+            {
+              "nombre": "i24NEWS",
+              "url": "https://i24news.tv/en/news/international/ukraine-russia-war/artc-zelensky-says-ukraine-sank-russian-warship-at-libyan-naval-base"
+            },
+            {
+              "nombre": "NewsNow Ucrania (agregador)",
+              "url": "https://www.newsnow.co.uk/h/World+News/Europe/Eastern+Europe/Ukraine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "oriente-medio",
+      "nombre": "Oriente Medio",
+      "corto": "Oriente Medio",
+      "subtitulo": "Ofensiva en el centro de Gaza, violencia de colonos y bombardeos en Líbano",
+      "articulos": [
+        {
+          "antetitulo": "Gaza",
+          "titulo": "Israel mantiene su ofensiva terrestre al oeste de la «Línea Amarilla» en el centro de Gaza",
+          "lugar": "Franja de Gaza",
+          "imagen": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flooded_tents_of_displaced_Palestinians_due_to_heavy_rain_in_Deir_el-Balah%2C_Gaza_Strip.jpg/960px-Flooded_tents_of_displaced_Palestinians_due_to_heavy_rain_in_Deir_el-Balah%2C_Gaza_Strip.jpg",
+            "pie": "Tiendas inundadas de desplazados palestinos por la lluvia en Deir el Balah, Gaza. Foto de archivo; no corresponde a la ofensiva actual.",
+            "credito": "Ashraf Amra / Wikimedia Commons",
+            "licencia": "CC BY-SA 3.0 igo",
+            "fecha_foto": "23 ene. 2025",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:Flooded_tents_of_displaced_Palestinians_due_to_heavy_rain_in_Deir_el-Balah,_Gaza_Strip.jpg"
+          },
+          "cuerpo": [
+            "Fuerzas israelíes comenzaron el 18 de noviembre una operación terrestre al oeste de la «Línea Amarilla» en el centro de Gaza, según Anadolu, que la describe como la primera ofensiva amplia en cerca de un año desde el alto el fuego del 10 de octubre de 2025.",
+            "Las zonas citadas son Al Mughraqa, el puente de Wadi Gaza en la carretera Salah al Din y Al Daawa, al norte del campo de Nuseirat. Anadolu reporta un palestino muerto el primer día; Common Dreams habla de miles de desplazados y al menos tres muertos. Las cifras difieren entre medios.",
+            "Un medio que describe fuentes israelíes habla de operaciones contra infraestructura de túneles cerca de Nuseirat y Bureij. En las fuentes consultadas no se encontró un comunicado completo del Ejército israelí.",
+            "Según Crikey, unos 2,1 millones de personas viven en unos 128 km². Los porcentajes de territorio controlado por Israel varían entre fuentes (53 % en unas, 60 % según Al Jazeera citada por otro medio).",
+            "El 21 de noviembre, Al Jazeera reportó que un ataque israelí contra un vehículo que distribuía comida mató a tres personas. Times of Israel recogió además inundaciones en tiendas de desplazados y la UE exige acceso de ayuda «inmediato y sin trabas»."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "Anadolu (18-19 nov.)",
+              "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-families-displaced-in-israel-s-1st-broad-ground-offensive-in-central-gaza-in-a-year/4129345"
+            },
+            {
+              "nombre": "Common Dreams",
+              "url": "https://www.commondreams.org/news/gaza-yellow-line-assault"
+            },
+            {
+              "nombre": "Crikey (23 nov.)",
+              "url": "https://crikey.com.au/2026/11/23/israel-gaza-ground-offensive-yellow-line-trump-board-peace"
+            },
+            {
+              "nombre": "Al Jazeera (21 nov.)",
+              "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Cisjordania",
+          "titulo": "Colonos matan a una mujer de 72 años cerca de Jericó; otros dos palestinos mueren a tiros en la zona de Ramala",
+          "lugar": "Cisjordania ocupada",
+          "imagen": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Two_israeli_settlements_on_the_hills_of_the_west_bank_%282826805820%29.jpg/960px-Two_israeli_settlements_on_the_hills_of_the_west_bank_%282826805820%29.jpg",
+            "pie": "Dos asentamientos israelíes en las colinas de Cisjordania. Foto de archivo.",
+            "credito": "upyernoz / Wikimedia Commons",
+            "licencia": "CC BY 2.0",
+            "fecha_foto": "2008",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:Two_israeli_settlements_on_the_hills_of_the_west_bank_(2826805820).jpg"
+          },
+          "cuerpo": [
+            "El 16 o 17 de noviembre, una mujer palestina de 72 años murió por disparos de colonos armados en Ein ad Duyuk at Tahta, cerca de Jericó, según OCHA y CNN. Los heridos varían según la fuente: cinco, incluido un niño (OCHA), cuatro (Pal Info) o diez (televisión oficial palestina). Medios difieren también en su edad (Middle East Eye dice 60).",
+            "El Ejército israelí dijo que los hechos siguieron a un ataque palestino contra un vehículo israelí. Testigos citados por Haaretz dicen que ella estaba en la puerta de su casa y no participó.",
+            "El 20 de noviembre, Al Jazeera reportó que un colono mató a un palestino cuando intentaba llegar a una fuente de agua cerca de Ramala, y que guardias de un asentamiento mataron a otro cerca de Dura al Qari. No se encontró una versión israelí de estos dos casos.",
+            "OCHA cuenta más de 5.150 palestinos desplazados en 2026 por demoliciones, violencia de colonos y restricciones de acceso. CNN informa de que Israel detuvo al menos a 10 sospechosos de ataques en Cisjordania bajo presión de EE. UU."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "CNN (18 nov.)",
+              "url": "https://edition.cnn.com/2026/11/18/world/palestinian-woman-killed-by-israeli-settlers-latam-intl"
+            },
+            {
+              "nombre": "Haaretz (17 nov.)",
+              "url": "https://www.haaretz.com/israel-news/israel-security/2026-11-17/ty-article/.premium/palestinians-two-people-shot-by-settlers-in-jericho-idf-reports-attack-attempt/000001a1-e688-d848-abeb-fe88cba10000"
+            },
+            {
+              "nombre": "OCHA (18 nov.)",
+              "url": "https://www.ochaopt.org/content/humanitarian-situation-report-18-november-2026"
+            },
+            {
+              "nombre": "Al Jazeera (21 nov.)",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Líbano · Siria",
+          "titulo": "Israel intensifica los bombardeos en el sur de Líbano y dice haber golpeado un envío de armas desde Siria",
+          "lugar": "Líbano / frontera con Siria",
+          "cuerpo": [
+            "Aviones, drones y artillería israelíes golpearon al menos cuatro distritos del sur de Líbano el 20 y 21 de noviembre, según Latin Times, en una de las campañas más concentradas de los últimos meses.",
+            "El Ejército israelí dijo que en la noche del 15 al 16 de noviembre atacó un envío de armas que pasaba de Siria a Líbano para Hezbolá, cerca de Janta. Es la versión israelí; no se encontró confirmación independiente.",
+            "Analistas citados por Latin Times dicen que los ataques tensan el marco acordado en junio con mediación de EE. UU. (desarme de Hezbolá, retirada israelí gradual y despliegue del Ejército libanés). Irán exige la retirada israelí y el fin de los ataques como condición de un acuerdo mayor.",
+            "Las autoridades libanesas cuentan más de 4.300 muertos en el conflicto, según las fuentes consultadas; la cifra no está verificada de forma independiente. No se hallaron ataques israelíes nuevos dentro de Siria."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "Latin Times",
+              "url": "https://www.latintimes.com/israeli-strikes-southern-lebanon-ceasefire-framework-601680"
+            },
+            {
+              "nombre": "Jerusalem Post",
+              "url": "https://www.jpost.com/israel-news/defense-news/article-915038"
+            },
+            {
+              "nombre": "Yahoo / medios (envío desde Siria)",
+              "url": "https://www.yahoo.com/news/world/articles/idf-strikes-hezbollah-weapons-shipment-115105161.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "estados-unidos",
+      "nombre": "Estados Unidos y el mundo",
+      "corto": "EE. UU.",
+      "subtitulo": "Escalada en el Golfo, diálogo con Irán y pacto militar con Venezuela",
+      "articulos": [
+        {
+          "antetitulo": "Golfo · Irán",
+          "titulo": "Irán dice que atacó radares estadounidenses en Baréin; al menos 25 petroleros fueron alcanzados en una semana, según Al Jazeera",
+          "lugar": "Golfo Pérsico / Ormuz",
+          "imagen": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Strait_of_Hormuz_islands.svg/960px-Strait_of_Hormuz_islands.svg.png",
+            "pie": "Mapa del estrecho de Ormuz y sus islas, entre ellas Qeshm, blanco de los últimos ataques estadounidenses.",
+            "credito": "Wikideas1 / Wikimedia Commons",
+            "licencia": "CC0",
+            "tipo": "mapa",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_islands.svg"
+          },
+          "cuerpo": [
+            "La Guardia Revolucionaria iraní (IRGC) afirmó que atacó con misiles y drones dos radares Patriot estadounidenses en las bases de Al Riffa y Awali, en Baréin, como represalia por un ataque de EE. UU. contra un radar en la isla de Hengam. Washington no ha confirmado daños en las fuentes consultadas.",
+            "Baréin dijo que un ataque iraní alcanzó el 21 de noviembre una instalación industrial civil en Sitra y provocó un incendio, y que frustró otros ataques. Medios estatales iraníes sostienen que fue un interceptor lanzado desde la base de la V Flota de EE. UU. el que cayó en Sitra.",
+            "Al Jazeera cuenta al menos 25 petroleros alcanzados dentro y cerca del estrecho en siete días. UKMTO reportó dos incidentes con proyectiles no identificados cerca de Omán. La empresa petrolera de EAU confirmó antes un tripulante desaparecido. Irán dijo que derribó un dron MQ-1 el 22 de noviembre, el número 20 desde febrero; el Mando Central negó que un F-16 resultara dañado, como afirmó el ejército iraní.",
+            "UKMTO registró 263 buques por Ormuz entre el 12 y el 18 de noviembre, 15 % menos que la semana anterior; antes de la guerra pasaban unos 135 al día. El petróleo superó los 100 dólares y se asentó en 83.",
+            "El viceministro iraní Kazem Gharibabadi llamó al bloqueo naval «un acto de guerra». El presidente Masoud Pezeshkian lo describió como «guerra económica silenciosa». El secretario del Tesoro, Scott Bessent, dijo que el embargo reducirá 25 % la economía iraní a fines de marzo de 2027. No se reportaron muertos por los ataques a Baréin en la fuente principal."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "Al Jazeera (22 nov.)",
+              "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf"
+            },
+            {
+              "nombre": "CBS News (en vivo)",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/"
+            },
+            {
+              "nombre": "Yahoo / agencias",
+              "url": "https://www.yahoo.com/news/world/articles/iran-asserts-control-over-hormuz-084019847.html"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Irán · Diplomacia",
+          "titulo": "Las conversaciones indirectas con mediación de Catar siguen sin avance; Witkoff y Kushner se reunieron con mediadores",
+          "lugar": "Doha / Teherán / Berlín",
+          "cuerpo": [
+            "Según Axios (20 de noviembre), los enviados estadounidenses Steve Witkoff y Jared Kushner se reunieron con mediadores cataríes para hablar de las negociaciones con Irán. Reportes citan que la reunión fue en Berlín.",
+            "El canciller iraní Abbas Araghchi dijo que las conversaciones son «muy intensas», aunque el último ciclo terminó sin avances significativos. Irán plantea una propuesta de siete puntos, ahora «condensada»: fin del bloqueo de sus puertos, reapertura de Ormuz, exención para su petróleo y cancelación de nuevas sanciones.",
+            "El presidente Donald Trump dice que busca un acuerdo «permanente» que impida a Irán tener armas nucleares y llamó «más racional» a la nueva dirigencia iraní; también la calificó de «grupo muy malvado». Un sitio de baja fiabilidad afirma que Irán declaró muerto el memorando de Islamabad; no se pudo confirmar con una fuente mayor."
+          ],
+          "tono": "mixta",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "Axios (20 nov.)",
+              "url": "https://www.axios.com/2026/11/20/witkoff-kushner-meet-qatari-mediators-iran"
+            },
+            {
+              "nombre": "JPost",
+              "url": "https://www.jpost.com/middle-east/iran-news/article-913580"
+            },
+            {
+              "nombre": "CBS News",
+              "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Venezuela · EE. UU.",
+          "titulo": "EE. UU. y Venezuela firman un acuerdo de cooperación militar; Hegseth lo presentó en Caracas el 18 de noviembre",
+          "lugar": "Caracas",
+          "imagen": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Pentagon_US_Department_of_Defense_building.jpg/960px-The_Pentagon_US_Department_of_Defense_building.jpg",
+            "pie": "El Pentágono, sede del Departamento de Defensa de EE. UU. Foto de archivo.",
+            "credito": "Master Sgt. Ken Hammond, U.S. Air Force / Wikimedia Commons",
+            "licencia": "Dominio público",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:The_Pentagon_US_Department_of_Defense_building.jpg"
+          },
+          "cuerpo": [
+            "El secretario de Defensa Pete Hegseth anunció en Caracas un acuerdo que contempla ejercicios conjuntos, intercambio de inteligencia, entrenamiento, equipo y seguridad fronteriza. Llamó a Venezuela un «socio de seguridad dócil» y dijo que la alianza no sería «cosmética».",
+            "La presidenta interina Delcy Rodríguez dijo que busca enfrentar amenazas comunes y hacer la región más segura. El Pentágono no dio más detalles sobre alcance y calendario.",
+            "Analistas citados por Al Jazeera ven una cooperación limitada, centrada en grupos armados y narcotráfico en la frontera con Colombia. El acuerdo llega tras la captura de Nicolás Maduro por EE. UU. el 3 de enero; él está detenido en Nueva York a la espera de juicio."
+          ],
+          "tono": "mixta",
+          "verificacion": "confirmado",
+          "fuentes": [
+            {
+              "nombre": "CNN (18 nov.)",
+              "url": "https://www.cnn.com/2026/11/18/americas/us-venezuela-military-deal-hegseth-latam-intl"
+            },
+            {
+              "nombre": "Al Jazeera (19 nov.)",
+              "url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela"
+            },
+            {
+              "nombre": "Military.com",
+              "url": "https://www.military.com/us-and-venezuela-sign-a-deal-to-reestablish-military-ties-hegseth-says-on-visit-to-interim-leaders"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "africa",
+      "nombre": "África y Yemen",
+      "corto": "África",
+      "subtitulo": "Jartum bajo drones, guerra en el Sahel y escalada saudí–hutí",
+      "articulos": [
+        {
+          "antetitulo": "Sudán",
+          "titulo": "Drones matan al menos a cuatro civiles en Jartum y dañan un edificio de la ONU; el Ejército dice que salieron de Etiopía",
+          "lugar": "Jartum, Sudán",
+          "imagen": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Darfurians_refugees_in_Eastern_Chad.jpg/960px-Darfurians_refugees_in_Eastern_Chad.jpg",
+            "pie": "Refugiados de Darfur en el este de Chad. Foto de archivo.",
+            "credito": "European Commission DG ECHO / Wikimedia Commons",
+            "licencia": "CC BY-SA 2.0",
+            "fecha_foto": "2011",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:Darfurians_refugees_in_Eastern_Chad.jpg"
+          },
+          "cuerpo": [
+            "Ataques con drones en Jartum dejaron al menos cuatro civiles muertos y al menos nueve heridos, según reportes locales citados por ABC Australia (23 de noviembre). Se responsabiliza a las Fuerzas de Apoyo Rápido (RSF) y un edificio de la ONU resultó dañado.",
+            "El Ejército sudanés dijo que los drones se lanzaron desde Etiopía. No se encontró en las fuentes consultadas una respuesta de las RSF ni del Gobierno etíope.",
+            "En el frente, Al Jazeera informó el 14 de noviembre de que el Ejército y aliados de Darfur rompieron el cerco de las RSF a Al Obeid (Kordofán del Norte) y tomaron localidades de Kordofán Occidental; las RSF y el SPLM-N de Al Hilu mantienen Al Nuhud y partes de Kordofán del Sur.",
+            "Una misión de la ONU concluyó en febrero que la conducta de las RSF en El Fasher apunta a una campaña genocida contra comunidades zaghawa y fur."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "ABC Australia (23 nov.)",
+              "url": "https://abc.net.au/news/2026-11-23/deadly-drone-strikes-in-khartoum-sudan-war/107415908"
+            },
+            {
+              "nombre": "OHCHR (feb. 2026)",
+              "url": "https://www.ohchr.org/en/press-releases/2026/02/sudan-evidence-el-fasher-reveals-genocidal-campaign-targeting-non-arab"
+            },
+            {
+              "nombre": "Yahoo / Al Jazeera (Kordofán)",
+              "url": "https://www.yahoo.com/news/world/articles/saf-successes-sudan-kordofan-could-124917651.html"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Yemen",
+          "titulo": "La coalición saudí golpea Hodeida y otros objetivos hutíes; los hutíes amenazan Yeda y lanzan misiles contra Riad",
+          "lugar": "Yemen / Arabia Saudita",
+          "cuerpo": [
+            "La coalición liderada por Arabia Saudita lanzó una «operación especial» con ataques en el puerto de Hodeida, Saná, Saada y Taiz, que dijo dirigidos contra armas, contrabando y los orígenes de ataques con drones y misiles contra Arabia Saudita.",
+            "Los hutíes reportaron 41 muertos en 24 horas por los ataques de la coalición (cifra de una sola parte). Amenazaron Yeda, otros puertos del mar Rojo y el distrito financiero de Riad, y advirtieron que el espacio aéreo saudí es «inseguro». La coalición dijo que interceptó tres misiles balísticos hutíes sobre Riad.",
+            "La ONU advirtió que la escalada puede amenazar las rutas de suministro humanitario de las que dependen millones de yemeníes."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "Al Jazeera (20 nov.)",
+              "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports"
+            },
+            {
+              "nombre": "France 24 (20 nov.)",
+              "url": "https://www.france24.com/en/live-news/20261120-saudi-coalition-launches-special-operation-yemen-s-houthis-vow-reprisals"
+            },
+            {
+              "nombre": "The National (ONU)",
+              "url": "https://www.thenationalnews.com/news/2026/11/20/un-yemen-saudi-houthis-hodeidah/"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Sahel · RD Congo",
+          "titulo": "Sahel: JNIM y el Estado Islámico compiten por territorio; en el Congo, el FRN amenaza con abandonar las conversaciones de Doha",
+          "lugar": "Mali, Burkina Faso, Níger; Kivu",
+          "cuerpo": [
+            "ACLED, en su actualización del 7 al 13 de noviembre, describe ataques del JNIM a ciudades y rutas en Burkina Faso, bombas en la RN24 y disputa con el Estado Islámico del Sahel (ISSP). En Níger, un ataque del JNIM en Kirtachi desplazó a miles; el ISSP actúa en Dioundiou y Tera.",
+            "Crisis Group (20 de noviembre) señala que los yihadistas tomaron temporalmente localidades como Djibo y Diapaga y, más recientemente, Mopti y Kidal, y que el JNIM llamó a la oposición política a unirse contra los regímenes militares.",
+            "RD Congo: la coalición FRN, sucesora del AFC/M23, amenazó con salir de las conversaciones de Doha si el Gobierno sigue con el referendo constitucional. Críticos dicen que la ley, aprobada por unanimidad en el Senado, permitiría a Tshisekedi buscar un tercer mandato. Sin novedades verificadas sobre si el FRN se retiró."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "ACLED Sahel",
+              "url": "https://acleddata.com/region/conflict-sahel"
+            },
+            {
+              "nombre": "Crisis Group",
+              "url": "https://www.crisisgroup.org/brf/africa/burkina-faso-mali-niger/b213-handling-jnims-threat-sahels-urban-heartlands"
+            },
+            {
+              "nombre": "Anadolu (FRN)",
+              "url": "https://www.aa.com.tr/en/africa/drc-rebels-threaten-to-abandon-doha-peace-talks-over-proposed-constitutional-referendum/4110599"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "asia",
+      "nombre": "Asia",
+      "corto": "Asia",
+      "subtitulo": "Frontera afgano-pakistaní, Rakáin y Taiwán",
+      "articulos": [
+        {
+          "antetitulo": "Pakistán · Afganistán",
+          "titulo": "Los talibanes acusan a Pakistán de apoyar grupos armados; Islamabad dice haber matado a 22 militantes el 19 de noviembre",
+          "lugar": "Frontera afgano-pakistaní",
+          "cuerpo": [
+            "Fuerzas talibanes y pakistaníes chocan en la frontera desde el 29 de octubre, según Long War Journal. El 11 de noviembre, el TTP reivindicó una emboscada que mató a 10 policías pakistaníes.",
+            "El 19 de noviembre, el Ejército pakistaní dijo que mató a 22 militantes en redadas en el noroeste (Washington Post). El Gobierno talibán, por su parte, acusó el 22 de noviembre a Pakistán de respaldar a grupos armados contra su gobierno; Islamabad lo rechaza como propaganda.",
+            "Pakistán sostiene que el TTP opera desde territorio afgano y exige que los talibanes desmantelen sus refugios, algo que Kabul niega, según CFR."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "Long War Journal",
+              "url": "https://www.longwarjournal.org/archives/2026/11/taliban-pakistan-border-clashes-continue-ttp-attack-kills-10-pakistani-police.php"
+            },
+            {
+              "nombre": "Washington Post (19 nov.)",
+              "url": "https://washingtonpost.com/world/2026/11/19/pakistan-militants-killed-northwest-afghanistan/50ca55be-e3ea-11f1-a99e-b3e3805c6b8b_story.html"
+            },
+            {
+              "nombre": "CFR",
+              "url": "https://www.cfr.org/global-conflict-tracker/conflict/war-afghanistan"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Myanmar · Taiwán",
+          "titulo": "Bombardeos de la junta en Rakáin matan a 12 en un campamento de desplazados; Taipéi sigue hablando de «intimidación silenciosa» china",
+          "lugar": "Rakáin (Myanmar) / Taiwán",
+          "imagen": {
+            "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Kutupalong_Refugee_Camp_%28John_Owens-VOA%29.jpg/960px-Kutupalong_Refugee_Camp_%28John_Owens-VOA%29.jpg",
+            "pie": "Campo de refugiados rohinyá de Kutupalong, Bangladés, el mayor del mundo. Foto de archivo.",
+            "credito": "John Owens (VOA) / Wikimedia Commons",
+            "licencia": "Dominio público",
+            "fecha_foto": "2017",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:Kutupalong_Refugee_Camp_(John_Owens-VOA).jpg"
+          },
+          "cuerpo": [
+            "Un ataque aéreo contra un campamento de desplazados en Ponnagyun, Rakáin, mató a 12 personas, entre ellas una niña de cinco años, e hirió a 18, según rescatistas citados por Al Jazeera (14 de noviembre). France 24 señala indicios de ataques deliberados contra civiles con «doble golpe». Las cifras vienen de grupos locales y del Ejército de Arakán; no están verificadas de forma independiente.",
+            "Taiwán: sin novedades verificadas esta semana. A comienzos de noviembre, según Reuters, China concentró más de 100 buques en maniobras no anunciadas; el ministro de Defensa Wellington Koo habló de ejercicios de «negación de área» con un portaaviones y Taipéi, de «intimidación silenciosa». No se encontró una respuesta oficial china en las fuentes consultadas."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "Al Jazeera (14 nov.)",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine"
+            },
+            {
+              "nombre": "France 24 Observers",
+              "url": "https://www.france24.com/en/tv-shows/the-observers/20261113-myanmar-junta-airstrikes-civilians"
+            },
+            {
+              "nombre": "Taipei Times (14 nov.)",
+              "url": "https://www.taipeitimes.com/News/front/archives/2026/11/14/2003867710"
+            },
+            {
+              "nombre": "Star Advertiser / Reuters",
+              "url": "https://www.staradvertiser.com/2026/11/13/breaking-news/china-stages-unannounced-pacific-drills-in-intimidation-of-taiwan/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "religion",
+      "nombre": "Religión y conflicto",
+      "corto": "Religión",
+      "subtitulo": "Víctimas y victimarios en ambas direcciones",
+      "articulos": [
+        {
+          "antetitulo": "Panorama",
+          "titulo": "Víctimas y victimarios: lo que se sabe de la violencia religiosa esta semana",
+          "lugar": "Mundo",
+          "cuerpo": [
+            "Cristianos: ataques atribuidos a milicias fulani en Plateau (Nigeria) y turbas por acusaciones de blasfemia en Pakistán. Musulmanes: incendio de una mezquita en Alabama y otra en Israel, y la sentencia de la CIJ por genocidio contra los rohinyá.",
+            "Los grupos señalados no son «los cristianos», «los judíos» ni «los musulmanes» como conjunto: son milicias concretas, turbas locales, un Estado (Myanmar) o individuos detenidos. Las comunidades condenan en varios casos los ataques, y las cifras suelen venir de ONG de cada bando.",
+            "Sin novedades verificadas hoy sobre los alauíes, drusos y cristianos de Siria (comisión de investigación sin informe público, según PBS); su situación se retoma cuando haya hechos nuevos."
+          ],
+          "tono": "neutral",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "PBS (Siria, comisión)",
+              "url": "https://www.pbs.org/newshour/amp/world/syria-announces-ceasefire-after-latest-outbreak-of-sectarian-violence-kills-dozens"
+            },
+            {
+              "nombre": "Al Jazeera (CIJ)",
+              "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Nigeria",
+          "titulo": "Al menos 14 cristianos muertos en Plateau, Nigeria, según organizaciones cristianas; las causas se discuten",
+          "lugar": "Estado de Plateau, Nigeria",
+          "imagen": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Boko_Haram_hostages_released_VOA.jpg",
+            "pie": "Mujeres y niños liberados tras estar cautivos de Boko Haram en el noreste de Nigeria. Foto de archivo.",
+            "credito": "VOA / Wikimedia Commons",
+            "licencia": "Dominio público",
+            "fecha_foto": "2014",
+            "fuente_url": "https://commons.wikimedia.org/wiki/File:Boko_Haram_hostages_released_VOA.jpg"
+          },
+          "cuerpo": [
+            "Entre el 15 y el 17 de noviembre, atacantes identificados como milicianos fulani mataron al menos a 14 cristianos en cuatro áreas de gobierno local de Plateau, según International Christian Concern y Barnabas Aid. El 16 de noviembre murieron también dos personas, entre ellas un comandante de un grupo civil respaldado por el Estado.",
+            "Ambas fuentes son organizaciones cristianas de defensa de derechos. Otros analistas atribuyen parte de la violencia en el Cinturón Medio a disputas por tierra y bandidaje; las autoridades nigerianas suelen rechazar que se trate de persecución religiosa. No se encontró en las fuentes consultadas una declaración oficial sobre este ataque.",
+            "Otros ataques recientes: Barnabas Aid atribuye al Estado Islámico 12 muertos en el noreste y en Benue; sin fecha verificada."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "International Christian Concern (17 nov.)",
+              "url": "https://persecution.org/2026/11/17/fulani-militants-kill-14-christians-in-plateau-state-nigeria/"
+            },
+            {
+              "nombre": "Barnabas Aid",
+              "url": "https://www.barnabasaid.org/us/news/at-least-14-christians-killed-by-islamists-in-plateau-state-nigeria/"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Pakistán",
+          "titulo": "Una turba incendia la clínica de un médico cristiano acusado de blasfemia en Sheikhupura",
+          "lugar": "Sheikhupura, Punyab",
+          "cuerpo": [
+            "El 14 de noviembre, un médico cristiano fue detenido por acusaciones de blasfemia y una turba quemó su clínica y atacó su casa en Sheikhupura, según informes de organizaciones cristianas; hay pocos detalles verificados. Un informe habla de miedo entre los cristianos del barrio Nizam Pura tras otro ataque el 15 de noviembre.",
+            "En octubre, cinco sospechosos fueron detenidos por un ataque similar contra la clínica de un farmacéutico cristiano, y más de 35 familias huyeron, según UCA News.",
+            "PJ Media informó el 21 de noviembre de que una madre cristiana fue condenada a muerte por blasfemia por un mensaje de WhatsApp de 2024; no se confirmó con otra fuente.",
+            "La Comisión de EE. UU. sobre Libertad Religiosa (USCIRF) cita que más de 2.100 personas fueron acusadas de blasfemia en Pakistán entre 1987 y 2023 y al menos 89 murieron a manos de turbas."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "Open the Magazine",
+              "url": "https://openthemagazine.com/world/mob-burns-christian-mans-home-and-clinic-in-pakistan-after-blasphemy-allegation"
+            },
+            {
+              "nombre": "UCA News",
+              "url": "https://www.ucanews.com/news/5-held-in-mob-attack-over-blasphemy-claims-in-pakistan/115733"
+            },
+            {
+              "nombre": "PJ Media (21 nov.)",
+              "url": "https://pjmedia.com/uzay-bulut/2026/11/21/pakistan-christian-mother-of-four-sentenced-to-death-for-blasphemy-n4959557"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Islamofobia",
+          "titulo": "Incendio contra una mezquita en Alabama, otro en Israel y marcha en Londres contra el acoso a musulmanes",
+          "lugar": "Gadsden (EE. UU.) / Kafr Dahi (Israel) / Londres",
+          "cuerpo": [
+            "Un incendio provocado golpeó el 11 de noviembre la mezquita de la Sociedad Islámica de Gadsden, Alabama. La policía detuvo a Daniel Black, de 35 años, en relación con el ataque; el SPLC lo condenó.",
+            "En Kafr Dahi, una aldea árabe de Israel, la policía investiga un posible incendio en una mezquita con grafitis que aluden a la venganza.",
+            "Alrededor del 14 de noviembre, entre 800 y 900 personas marcharon en Islington (Londres) contra el acoso islamófobo, según un organizador. CAIR cuenta 17 incidentes en tres meses de 2026, un aumento de 183 %; es un recuento de la propia organización.",
+            "Al Jazeera informa de que Trump atacó a los políticos musulmanes Abdul El-Sayed e Ilhan Omar en sus últimos mítines."
+          ],
+          "tono": "negativa",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "WVTM13 (Alabama)",
+              "url": "https://www.wvtm13.com/article/alabama-mosque-attack-anti-muslim-incidents/74457041"
+            },
+            {
+              "nombre": "SPLC",
+              "url": "https://www.splcenter.org/presscenter/splc-condemns-attack-on-gadsden-islamic-society-mosque/"
+            },
+            {
+              "nombre": "Islington Now",
+              "url": "https://islingtonnow.co.uk/north-londoners-gather-to-protest-islamophobic-harassment/"
+            },
+            {
+              "nombre": "Al Jazeera: islamofobia",
+              "url": "https://www.aljazeera.com/tag/islamophobia/"
+            }
+          ]
+        },
+        {
+          "antetitulo": "Terrorismo · Rohinyá",
+          "titulo": "EE. UU. acusa a tres personas por complots vinculados a Irán contra objetivos judíos; la CIJ halla genocidio contra los rohinyá",
+          "lugar": "EE. UU. / Europa / La Haya",
+          "cuerpo": [
+            "El Departamento de Justicia de EE. UU. acusó el 10 de noviembre a tres personas de planear atentados en EE. UU. y Europa, entre ellos uno contra una base de la RAF en el Reino Unido, según Axios. La acusación cita casi 20 ataques o intentos, incluidos complots contra instituciones judías. Es un caso vinculado a Irán, no al Estado Islámico.",
+            "Sobre el yihadismo sunní: la última cifra de Europol (informe TE-SAT 2026) es de 347 detenidos por delitos yihadistas en 16 Estados en 2025. No se encontraron atentados o detenciones nuevos del Estado Islámico en Europa en noviembre de 2026.",
+            "La Corte Internacional de Justicia dictaminó por 9 votos contra 6 que Myanmar cometió genocidio contra los rohinyá en el norte de Rakáin y citó pruebas de al menos 10.000 muertos (Al Jazeera, 19 de noviembre)."
+          ],
+          "tono": "mixta",
+          "verificacion": "parcial",
+          "fuentes": [
+            {
+              "nombre": "Axios (10 nov.)",
+              "url": "https://www.axios.com/2026/11/10/doj-charges-terror-plots-europe-us"
+            },
+            {
+              "nombre": "Europol TE-SAT 2026",
+              "url": "https://www.europol.europa.eu/cms/sites/default/files/documents/EU-TE-SAT-2026.pdf"
+            },
+            {
+              "nombre": "Al Jazeera (19 nov.)",
+              "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dos_caras": [
+    {
+      "tema": "Polonia: ¿provocación deliberada o error?",
+      "lado_a": {
+        "quien": "Gobierno de Polonia",
+        "parrafos": [
+          "Tusk afirma que el incidente no fue accidental y lo considera una provocación deliberada de Rusia."
+        ]
+      },
+      "lado_b": {
+        "quien": "Rusia",
+        "parrafos": [
+          "No se encontró en las fuentes consultadas una declaración oficial rusa sobre los misiles. Se actualizará si Moscú responde."
+        ]
+      },
+      "verificable": "Los objetos eran misiles de crucero Kh-101, según medios que citan fuentes oficiales. La intención no está verificada.",
+      "fuentes": [
+        {
+          "nombre": "ProtoThema",
+          "url": "https://en.protothema.gr/2026/11/23/all-three-missiles-that-violated-polish-airspace-were-russian-nato-to-meet-today/"
+        }
+      ]
+    },
+    {
+      "tema": "Golfo: ¿quién ataca a quién?",
+      "lado_a": {
+        "quien": "Irán (IRGC)",
+        "parrafos": [
+          "Dice que atacó radares en Baréin como represalia por un ataque de EE. UU. en la isla de Hengam y por violaciones de su espacio aéreo, y que EE. UU. libra una «guerra económica» con su bloqueo."
+        ]
+      },
+      "lado_b": {
+        "quien": "EE. UU. y Baréin",
+        "parrafos": [
+          "Baréin atribuye a Irán el ataque a una planta civil en Sitra. El Mando Central negó que un F-16 fuera dañado. EE. UU. mantiene el bloqueo y dice que escolta barcos."
+        ]
+      },
+      "verificable": "Hay un incendio en Sitra y petroleros alcanzados (UKMTO); el origen del proyectil en Sitra se disputa.",
+      "fuentes": [
+        {
+          "nombre": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf"
+        }
+      ]
+    },
+    {
+      "tema": "Gaza: la ofensiva más allá de la «Línea Amarilla»",
+      "lado_a": {
+        "quien": "Versión israelí (según medios)",
+        "parrafos": [
+          "Operaciones dirigidas contra infraestructura de túneles y zonas de Hamas. No se halló un comunicado completo en las fuentes consultadas."
+        ]
+      },
+      "lado_b": {
+        "quien": "Versión palestina y humanitaria",
+        "parrafos": [
+          "Denuncian miles de desplazados y un nuevo avance de territorio en una franja ya hacinada (unos 2,1 millones de personas en 128 km², según Crikey)."
+        ]
+      },
+      "verificable": "La operación empezó el 18 de noviembre; las cifras de muertos varían entre uno y al menos tres.",
+      "fuentes": [
+        {
+          "nombre": "Anadolu",
+          "url": "https://www.aa.com.tr/en/middle-east/1-palestinian-killed-families-displaced-in-israel-s-1st-broad-ground-offensive-in-central-gaza-in-a-year/4129345"
+        },
+        {
+          "nombre": "Common Dreams",
+          "url": "https://www.commondreams.org/news/gaza-yellow-line-assault"
+        }
+      ]
+    },
+    {
+      "tema": "Nigeria: ¿persecución religiosa o conflicto por tierra?",
+      "lado_a": {
+        "quien": "ONG cristianas (ICC, Barnabas Aid)",
+        "parrafos": [
+          "Hablan de ataques de milicianos fulani contra cristianos en Plateau, con 14 muertos entre el 15 y el 17 de noviembre."
+        ]
+      },
+      "lado_b": {
+        "quien": "Otros analistas y autoridades",
+        "parrafos": [
+          "Atribuyen parte de la violencia a disputas por pastos y tierra y a bandidaje; las autoridades suelen rechazar el término «persecución religiosa»."
+        ]
+      },
+      "verificable": "Las muertes están reportadas por ONG; no se halló un balance oficial.",
+      "fuentes": [
+        {
+          "nombre": "International Christian Concern",
+          "url": "https://persecution.org/2026/11/17/fulani-militants-kill-14-christians-in-plateau-state-nigeria/"
+        }
+      ]
+    },
+    {
+      "tema": "Colombia: ¿se redujo el esquema de Petro?",
+      "lado_a": {
+        "quien": "Gustavo Petro y el Pacto Histórico",
+        "parrafos": [
+          "Dicen que le quitaron blindados y piden responsabilizar al Gobierno de cualquier atentado."
+        ]
+      },
+      "lado_b": {
+        "quien": "Gobierno De la Espriella",
+        "parrafos": [
+          "El vocero Miller Soto lo califica de «absolutamente falso» y dice que los esquemas están «intactos»."
+        ]
+      },
+      "verificable": "No se publicaron documentos ni cifras de ninguna de las partes.",
+      "fuentes": [
+        {
+          "nombre": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/23/gobierno-de-abelardo-de-la-espriella-respondio-a-gustavo-petro-por-denuncia-de-disminucion-de-su-esquema-de-seguridad-es-absolutamente-falso/"
+        }
+      ]
+    }
+  ],
+  "buenas_noticias": [
+    {
+      "titulo": "Rusia y Ucrania preparan un canje de más de 1.200 prisioneros por bando",
+      "cuerpo": [
+        "El Kremlin dice que el canje está en «fase final»; Medinski habla de dos o tres semanas. Aún no se ha ejecutado."
+      ],
+      "fuentes": [
+        {
+          "nombre": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/90616"
+        }
+      ]
+    },
+    {
+      "titulo": "La CIJ declara que Myanmar cometió genocidio contra los rohinyá",
+      "cuerpo": [
+        "El fallo, por 9 votos contra 6, abre un camino de reparación y responsabilidad para las víctimas, según Al Jazeera."
+      ],
+      "fuentes": [
+        {
+          "nombre": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide"
+        }
+      ]
+    },
+    {
+      "titulo": "Detenido sospechoso del incendio de la mezquita de Gadsden",
+      "cuerpo": [
+        "La policía arrestó a Daniel Black, de 35 años, y el SPLC pidió solidaridad con la comunidad."
+      ],
+      "fuentes": [
+        {
+          "nombre": "SPLC",
+          "url": "https://www.splcenter.org/presscenter/splc-condemns-attack-on-gadsden-islamic-society-mosque/"
+        }
+      ]
+    },
+    {
+      "titulo": "Israel detiene a 10 sospechosos de ataques en Cisjordania",
+      "cuerpo": [
+        "CNN informa de las detenciones bajo presión de EE. UU. por la violencia de colonos."
+      ],
+      "fuentes": [
+        {
+          "nombre": "CNN",
+          "url": "https://edition.cnn.com/2026/11/18/world/palestinian-woman-killed-by-israeli-settlers-latam-intl"
+        }
+      ]
+    }
+  ],
+  "colombia": {
+    "subtitulo": "Ley de Rescate, orden público y choque con la oposición",
+    "articulos": [
+      {
+        "antetitulo": "Gobierno · Oposición",
+        "titulo": "Petro denuncia que le redujeron su esquema de seguridad; el Gobierno lo llama «absolutamente falso»",
+        "lugar": "Bogotá",
+        "cuerpo": [
+          "El 21 de noviembre, el expresidente Gustavo Petro dijo en X que le retiraron vehículos blindados a él y a su familia, y escribió que «al Gobierno no le importa un atentado contra mí».",
+          "El vocero del Gobierno, Miller Soto, respondió que es «absolutamente FALSO», que el presidente Abelardo de la Espriella ordenó mantener «intactos» los esquemas de los expresidentes y que «Petro miente». Infobae nota que Soto no mostró documentos ni cifras de agentes o vehículos, y que Petro no había respondido.",
+          "El Pacto Histórico citó el Decreto 1069, modificado en junio de 2026 por el 0563, que da protección vitalicia a expresidentes, y dijo que la UNP no respondió a solicitudes de protección de exfuncionarios de Petro. Responsabilizó al Gobierno de cualquier atentado contra opositores.",
+          "Aparte, Soto anunció la revisión de 20.600 contratos de Salud del Gobierno anterior; el Ministerio detectó 143 personas con vínculos simultáneos. Son hallazgos preliminares que se trasladarán a los organismos de control."
+        ],
+        "tono": "neutral",
+        "verificacion": "parcial",
+        "fuentes": [
+          {
+            "nombre": "Infobae (23 nov.)",
+            "url": "https://www.infobae.com/colombia/2026/11/23/gobierno-de-abelardo-de-la-espriella-respondio-a-gustavo-petro-por-denuncia-de-disminucion-de-su-esquema-de-seguridad-es-absolutamente-falso/"
+          },
+          {
+            "nombre": "Pulzo",
+            "url": "https://www.pulzo.com/nacion/gobierno-espriella-niega-recorte-proteccion-gustavo-petro-PP5361813"
+          },
+          {
+            "nombre": "Infobae: contratos de Salud",
+            "url": "https://infobae.com/colombia/2026/11/23/ministerio-de-salud-puso-la-lupa-sobre-20600-contratos-del-gobierno-petro-detectaron-143-personas-con-vinculos-simultaneos"
+          }
+        ]
+      },
+      {
+        "antetitulo": "Ley de Rescate",
+        "titulo": "Arrancan las audiencias de la Ley de Rescate en Bogotá; el primer debate se espera el 1 o 2 de diciembre",
+        "lugar": "Congreso de la República",
+        "imagen": {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Paro_Nacional_de_Colombia_de_2025_-_Marcha_en_Bogot%C3%A1_el_28_de_mayo_02.jpg/960px-Paro_Nacional_de_Colombia_de_2025_-_Marcha_en_Bogot%C3%A1_el_28_de_mayo_02.jpg",
+          "pie": "Marcha durante un paro nacional en Bogotá. Foto de archivo de mayo de 2025, no corresponde a la jornada del 19 de noviembre.",
+          "credito": "ProtoplasmaKid / Wikimedia Commons",
+          "licencia": "CC BY-SA 4.0",
+          "fecha_foto": "28 may. 2025",
+          "fuente_url": "https://commons.wikimedia.org/wiki/File:Paro_Nacional_de_Colombia_de_2025_-_Marcha_en_Bogot%C3%A1_el_28_de_mayo_02.jpg"
+        },
+        "cuerpo": [
+          "Las audiencias públicas se hacen en Bogotá (lunes 23 de noviembre), Cali (26) y Barranquilla (27), según los medios consultados. El proyecto es el 477 de 2026 de la Cámara y se tramita con mensaje de urgencia: dos debates, uno en comisiones económicas conjuntas y otro en plenaria.",
+          "El Gobierno quiere el primer debate el 1 o 2 de diciembre. La plenaria empezaría después del 10 de diciembre y las sesiones ordinarias terminan el 16, aunque el Gobierno puede pedir sesiones extra. Los medios difieren en si el primer debate ya empezó formalmente el 18 de noviembre.",
+          "El ambiente mejoró tras decisiones sobre el IVA a los alimentos, dijo El País de Cali; aun así, congresistas advierten que no será «un cheque en blanco». El presidente del Congreso pidió consensos."
+        ],
+        "tono": "neutral",
+        "verificacion": "parcial",
+        "fuentes": [
+          {
+            "nombre": "Portafolio",
+            "url": "https://www.portafolio.co/economia/ley-de-rescate-economico-entraria-a-primer-debate-el-1-o-2-de-diciembre-tras-negociacion-con-congresistas-506544"
+          },
+          {
+            "nombre": "El País Cali",
+            "url": "https://www.elpais.com.co/politica/mejora-ambiente-para-ley-de-rescate-en-el-congreso-tras-decisiones-sobre-el-iva-aun-asi-no-sera-un-cheque-en-blanco-1736.html"
+          },
+          {
+            "nombre": "IFM Noticias",
+            "url": "https://ifmnoticias.com/gobierno/ley-de-rescate-entra-en-su-semana-decisiva-audiencias-publicas-en-bogota-cali-y-/"
+          },
+          {
+            "nombre": "El Heraldo (19 nov.)",
+            "url": "https://www.elheraldo.co/politica/2026/11/19/presidente-del-congreso-pide-construir-consensos-en-torno-a-la-ley-de-rescate-del-gobierno-de-adle/"
+          }
+        ]
+      },
+      {
+        "antetitulo": "Orden público",
+        "titulo": "Cinco integrantes del ELN muertos en Dagua; el presidente ordena mantener la ofensiva tras un ataque que mató a un militar en Cesar",
+        "lugar": "Dagua (Valle) / Cesar",
+        "cuerpo": [
+          "Fuerzas Militares y Policía abatieron a cinco integrantes del ELN en Dagua, Valle del Cauca, según Diario Las Américas. El presidente ordenó mantener la ofensiva tras un ataque de esa guerrilla en el Cesar que dejó un militar muerto.",
+          "Un medio español cuenta diez bombardeos desde agosto. En las fuentes consultadas no se encontró una versión del ELN sobre estos hechos.",
+          "El Gobierno también anunció medidas para impedir que bandas operen desde las cárceles con celulares, después de que MinTIC abriera investigaciones contra Starlink Colombia y cuatro operadores móviles por no restringir señales en prisiones, según El Universal."
+        ],
+        "tono": "negativa",
+        "verificacion": "parcial",
+        "fuentes": [
+          {
+            "nombre": "Diario Las Américas",
+            "url": "https://diariolasamericas.com/america-latina/aberlardo-la-espriella-endurece-la-ofensiva-contra-el-eln-nuevo-golpe-militar-n5405685"
+          },
+          {
+            "nombre": "El Universal (22 nov.)",
+            "url": "https://www.eluniversal.com.co/colombia/2026/11/22/gobierno-de-la-espriella-anuncia-medidas-contra-el-uso-ilegal-de-celulares-en-carceles/"
+          },
+          {
+            "nombre": "Moncloa (23 nov.)",
+            "url": "https://www.moncloa.com/2026/11/23/seguridad-colombia-inversion-espanola-3473034"
+          }
+        ]
+      },
+      {
+        "antetitulo": "Economía",
+        "titulo": "El dólar tocó $3.364 el 18 de noviembre; el Banco de la República mantiene su tasa en 12,25 %",
+        "lugar": "Colombia",
+        "cuerpo": [
+          "El dólar subió hasta $3.364 el 18 de noviembre por fuerte demanda, según Valora Analitik; las fuentes difieren en los cierres de esos días. Bancolombia proyectaba un rango de $3.120 a $3.300 para noviembre.",
+          "La junta del Banco de la República mantuvo la tasa en 12,25 % el 30 de octubre, por 4 votos contra 3 (tres pedían subirla 0,25 puntos). La Nota Económica cita una inflación de 6,3 % en septiembre y una previsión del banco por encima de 7 % al cierre del año. La próxima decisión es el 18 de diciembre.",
+          "El banco central autorizó comprar directamente al Gobierno hasta US$2.000 millones lo que resta de 2026."
+        ],
+        "tono": "neutral",
+        "verificacion": "parcial",
+        "fuentes": [
+          {
+            "nombre": "Valora Analitik",
+            "url": "https://www.valoraanalitik.com/?p=623652"
+          },
+          {
+            "nombre": "La Nota Económica",
+            "url": "https://lanotaeconomica.com.co/movidas-empresarial/dolar-mas-caro-y-credito-mas-exigente-lo-que-deja-para-colombia-la-inflacion-de-estados-unidos/"
+          },
+          {
+            "nombre": "Portafolio (19 nov.)",
+            "url": "https://www.portafolio.co/economia/finanzas/dolar-abre-con-impulso-al-alza-tras-la-subida-del-miercoles-la-cotizacion-de-la-divisa-este-19-de-noviembre-506657"
+          }
+        ]
+      }
+    ],
+    "dos_caras": {
+      "tema": "La Ley de Rescate: urgencia fiscal frente a reparos del Congreso",
+      "lado_a": {
+        "quien": "Gobierno",
+        "parrafos": [
+          "Quiere primer debate el 1 o 2 de diciembre con mensaje de urgencia para aprobar el proyecto antes del 16 de diciembre."
+        ]
+      },
+      "lado_b": {
+        "quien": "Congresistas",
+        "parrafos": [
+          "Piden ajustes y advierten que no será «un cheque en blanco»; ya se retiró el IVA a alimentos."
+        ]
+      },
+      "verificable": "Calendario de audiencias y fechas previstas, según los medios; el trámite aún no se ha votado.",
+      "fuentes": [
+        {
+          "nombre": "Portafolio",
+          "url": "https://www.portafolio.co/economia/ley-de-rescate-economico-entraria-a-primer-debate-el-1-o-2-de-diciembre-tras-negociacion-con-congresistas-506544"
+        }
+      ]
+    }
+  },
+  "agenda": [
+    {
+      "cuando": "Lunes 23 de noviembre",
+      "que": "Sesión extraordinaria del Consejo del Atlántico Norte en Bruselas; audiencia de la Ley de Rescate en Bogotá."
+    },
+    {
+      "cuando": "23 de noviembre",
+      "que": "Duelo en la región de Kiev, según lo decretado por las autoridades locales."
+    },
+    {
+      "cuando": "26 y 27 de noviembre",
+      "que": "Audiencias de la Ley de Rescate en Cali y Barranquilla."
+    },
+    {
+      "cuando": "1–2 de diciembre",
+      "que": "Primer debate previsto de la Ley de Rescate (fuentes difieren)."
+    },
+    {
+      "cuando": "16 de diciembre",
+      "que": "Fin de las sesiones ordinarias del Congreso de Colombia."
+    },
+    {
+      "cuando": "18 de diciembre",
+      "que": "Decisión de política monetaria del Banco de la República."
+    },
+    {
+      "cuando": "En curso",
+      "que": "Conversaciones indirectas EE. UU.–Irán con mediación de Catar; canje de prisioneros Rusia–Ucrania."
+    },
+    {
+      "cuando": "Enero de 2027",
+      "que": "Open Doors publica su Lista Mundial de la Persecución 2027."
+    }
+  ]
+}
