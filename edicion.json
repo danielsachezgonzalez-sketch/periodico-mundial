@@ -1,14 +1,14 @@
 {
- "fecha": "2026-11-25",
- "fecha_larga": "Miércoles, 25 de noviembre de 2026",
- "edicion_numero": 5,
+ "fecha": "2026-11-26",
+ "fecha_larga": "Jueves, 26 de noviembre de 2026",
+ "edicion_numero": 6,
  "anio_romano": "I",
- "cierre": "25 nov. 2026, 7:19 a. m. (hora de Colombia)",
- "aviso": "Cifras preliminares. Varias fuentes de ONG religiosas y de las partes en conflicto son de parte y se marcan como tales. Algunos medios no estuvieron accesibles para consulta directa; los datos se atribuyen a la fuente que los recoge.",
+ "cierre": "26 nov. 2026, 7:19 a. m. (hora de Colombia)",
+ "aviso": "Cifras preliminares. Varios medios no estuvieron accesibles para consulta directa; los datos se atribuyen a la fuente que los recoge. Las cifras de ONG religiosas y de las partes en conflicto se marcan como de parte.",
  "portada": {
   "antetitulo": "Golfo Pérsico · Ormuz",
-  "titulo": "La Guardia Revolucionaria de Irán afirma que cuatro petroleros chocaron con minas en Ormuz bajo escolta de EE. UU.; Washington no lo ha confirmado",
-  "bajada": "Teherán dice que la escolta no sustituye sus órdenes de tráfico. El Tesoro estadounidense amplió sanciones y Trump advierte de nuevos ataques tras fin de año.",
+  "titulo": "Irán ordena endurecer el cierre de Ormuz mientras el Mando Central de EE. UU. niega que haya minas en las rutas principales",
+  "bajada": "Teherán sostiene que varios petroleros chocaron con minas; Washington dice que las rutas reconocidas están despejadas y que unos 400 buques transitaron en una semana.",
   "lugar": "Estrecho de Ormuz",
   "imagen": {
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/The_mine_countermeasures_ship_USS_Gladiator_%28MCM_11%29_conducts_convoy_escort_operations_with_a_large_natural_gas_tanker_during_International_Mine_Countermeasures_Exercise_%28IMCMEX%29_2013_in_the_Persian_Gulf_May_21_130521-N-PV215-090.jpg/960px-thumbnail.jpg",
@@ -19,157 +19,160 @@
    "fuente_url": "https://commons.wikimedia.org/wiki/File:The_mine_countermeasures_ship_USS_Gladiator_(MCM_11)_conducts_convoy_escort_operations_with_a_large_natural_gas_tanker_during_International_Mine_Countermeasures_Exercise_(IMCMEX)_2013_in_the_Persian_Gulf_May_21_130521-N-PV215-090.jpg"
   },
   "cuerpo": [
-   "La Guardia Revolucionaria iraní (IRGC) afirmó el lunes 23 de noviembre que tres petroleros que cruzaban el estrecho de Ormuz bajo escolta militar de EE. UU. chocaron con minas navales y se incendiaron. Un cuarto buque, que según el IRGC iba por una ruta no autorizada en la zona oriental, habría golpeado una mina al amanecer del martes. Todo el relato procede del propio IRGC.",
-   "Según esa versión, un petrolero estaba cerca de la costa sur y dos en la zona oriental del estrecho. El IRGC sostuvo que la protección de EE. UU. «no sustituye» el cumplimiento de las órdenes de control de tráfico de su Armada. El Mando Central de EE. UU. no había confirmado ni negado públicamente el relato al cierre de las fuentes consultadas, y el Joint Maritime Information Centre calificó de no confirmada la información sobre las minas.",
-   "La semana anterior, ataques iraníes habían alcanzado otros tres petroleros dentro o cerca del estrecho; el centro marítimo británico UKMTO no reportó víctimas, según los medios consultados.",
-   "En paralelo, el Tesoro de EE. UU. amplió las sanciones contra Irán, según CNBC. El Wall Street Journal, citando a funcionarios estadounidenses, informó de que Washington considera a Irán el principal sospechoso de decenas de ciberataques contra buques que transportan petróleo y químicos; hasta 50 embarcaciones habrían sido blanco. Algunos funcionarios sospechan también de Rusia.",
-   "En el plano diplomático, el primer ministro de Catar se reunió con Trump, el secretario de Estado Marco Rubio y el vicepresidente Vance para intentar reactivar el diálogo. Catar dice que la navegación por Ormuz está en la agenda de las conversaciones. Irán asegura que el estrecho podría abrirse en dos días si EE. UU. acepta sus condiciones, entre ellas levantar el bloqueo, y descarta conversaciones directas hasta que se cumplan siete condiciones, según Gulf News. Trump acusó a Teherán de no ser serio y advirtió de nuevos ataques después de este año."
+   "El jefe del Ejército iraní, el mayor general Amir Hatami, ordenó a la Armada reforzar el bloqueo del estrecho de Ormuz «día a día» hasta que Estados Unidos acepte las siete condiciones de Irán, según El Diario de Hoy y Euronews. El presidente del Parlamento y jefe negociador, Mohamad Baqer Qalibaf, descartó negociar antes de que se cumplan.",
+   "La Armada de la Guardia Revolucionaria (IRGC) afirma que dos petroleros y un buque de gas natural licuado chocaron con minas y se incendiaron al entrar en una «zona restringida» al este del estrecho; ya había dicho el lunes 23 que otros tres petroleros, escoltados por EE. UU., habían corrido la misma suerte. El IRGC no identificó los buques. Todo el relato procede de una de las partes.",
+   "El Mando Central de EE. UU. (CENTCOM) rechaza esas afirmaciones: dice que ha despejado todas las rutas primarias reconocidas internacionalmente, que las rutas citadas por el IRGC no son esas, y que unos 400 buques mercantes cruzaron el estrecho en la última semana. El Joint Maritime Information Centre calificó de no confirmada la información sobre las minas. No hay confirmación independiente de víctimas ni de daños.",
+   "Los precios del petróleo subieron con la tensión, según DiarioBitcoin. En paralelo, el Tesoro de EE. UU. amplió sanciones contra Irán y, según el Wall Street Journal citado por Gulf News, Washington investiga a Irán por ciberataques contra hasta 50 buques.",
+   "Diplomacia: el primer ministro de Catar, Mohamed bin Abdulrahman Al Thani, se reunió el lunes 23 por separado con el vicepresidente JD Vance y el secretario de Estado Marco Rubio para intentar reactivar el diálogo, según AP y The Arab Weekly. Trump habría dicho que su Gobierno no necesita un acuerdo y que los ataques podrían reanudarse después de Año Nuevo, según Euronews; también dice querer un acuerdo permanente que impida a Irán tener armas nucleares."
   ],
   "tono": "negativa",
   "verificacion": "no_verificado",
   "fuentes": [
    {
-    "nombre": "CNBC (24 nov.)",
-    "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html"
+    "nombre": "Euronews (24 nov.)",
+    "url": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks"
    },
    {
-    "nombre": "Gulf News (25 nov.)",
+    "nombre": "El Diario de Hoy",
+    "url": "https://www.eldiariodehoy.com/noticias/internacionales/iran-ordena-endurecer-el-bloqueo-de-ormuz-hasta-que-ee-uu-ceda/101570/2026/"
+   },
+   {
+    "nombre": "National Security Journal (posición de CENTCOM)",
+    "url": "https://nationalsecurityjournal.org/the-us-navy-has-a-new-problem-iran-says-3-oil-tankers-hit-mines-in-the-strait-of-hormuz-and-centcom-says-every-main-lane-is-clear/"
+   },
+   {
+    "nombre": "Jerusalem Post (versión del IRGC)",
+    "url": "https://www.jpost.com/middle-east/iran-news/article-915899"
+   },
+   {
+    "nombre": "Gulf News",
     "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
-   },
-   {
-    "nombre": "Fox News: Trump recibe al primer ministro de Catar",
-    "url": "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict"
-   },
-   {
-    "nombre": "TASS (24 nov.)",
-    "url": "https://tass.com/world/2223967"
    }
   ]
  },
  "lo_esencial": [
-  "Ormuz: el IRGC iraní dice que cuatro petroleros chocaron con minas bajo escolta de EE. UU.; no hay confirmación independiente. Catar media; Irán fija siete condiciones.",
-  "Ucrania: ataques rusos mataron a 9 personas e hirieron a 59 en un día, según Kiev; Ucrania dice haber golpeado dos refinerías rusas y un buque en el golfo de Finlandia.",
-  "OTAN: Polonia pide estudiar la interceptación de misiles rusos sobre Ucrania; la alianza envía un avión AWACS tras los tres Kh-101 caídos en territorio polaco el 20 de noviembre.",
-  "Gaza: Israel mató al menos a tres personas en Jan Yunis el martes, según autoridades sanitarias; el Ministerio de Salud de Gaza cuenta 1.679 muertos desde la tregua de octubre de 2025.",
-  "Cisjordania: el Ejército israelí registró unos 1.200 incidentes violentos de colonos en 11 meses, un 42 % más que en 2025, según la prensa israelí.",
-  "Rohinyás: la Corte Internacional de Justicia dictaminó el 19 de noviembre que Myanmar cometió genocidio (9 votos contra 6); Malasia devolverá a más de 6.500 refugiados en diciembre.",
-  "Religión: Nigeria, Pakistán y Occidente siguen mostrando violencia en ambas direcciones: cristianos muertos en Plateau, detenciones por terrorismo islamista y un incendio en una mezquita de Alabama.",
-  "Colombia: la Ley de Rescate Económico tiene hasta el 16 de diciembre para sus cuatro debates; el Gobierno reporta golpes al Clan del Golfo y a las disidencias."
+  "Ormuz: Irán ordena endurecer el cierre del estrecho y dice que varios petroleros chocaron con minas; CENTCOM lo niega y afirma que unos 400 buques cruzaron en una semana. Sin confirmación independiente.",
+  "Ucrania: ataque ruso nocturno con 113 drones y misiles deja al menos 3 muertos en Járkov y 7 heridos en un centro comercial de Kiev; Ucrania golpea dos refinerías en Samara y Putin promete respuesta.",
+  "Gaza: tercera noche de ataques israelíes, al menos 9 muertos, entre ellos un viceministro designado por Hamás; 1.679 muertos desde la tregua, según Salud de Gaza.",
+  "Cisjordania: colonos matan a una mujer palestina en Jericó el 17 de noviembre; el Ejército israelí dice que los israelíes fueron atacados.",
+  "Sudán: el Ejército afirma haber roto el cerco de las RSF sobre El Obeid; sin confirmación independiente.",
+  "Religión: 14 cristianos muertos en Plateau, según ONG; detenciones por yihadismo en España, Australia y Alemania; ataques a mezquitas en Alabama, Israel y Ohio.",
+  "Colombia: carro bomba en la Gobernación del Meta (20–24 heridos); el Congreso recortaría casi a la mitad el recaudo de la Ley de Rescate."
  ],
  "cifras": [
   {
-   "valor": "9 / 59",
-   "texto": "muertos y heridos por ataques rusos en Ucrania en un día (Kyiv Independent, 25 nov., citando autoridades ucranianas)"
+   "valor": "113",
+   "texto": "drones lanzados por Rusia en la noche del 25 al 26 de noviembre; 87 neutralizados (Fuerza Aérea de Ucrania, vía Kyiv Post)"
+  },
+  {
+   "valor": "9+",
+   "texto": "muertos por ataques israelíes en Gaza entre el 25 y 26 de nov., según personal médico (Reuters, vía Cyprus Mail); otros medios dan 5–8"
   },
   {
    "valor": "1.679",
-   "texto": "palestinos muertos en Gaza desde la tregua de octubre de 2025, según el Ministerio de Salud de Gaza (Anadolu); el conteo de AFP es de al menos 1.658"
+   "texto": "palestinos muertos en Gaza desde la tregua de octubre de 2025, según el Ministerio de Salud de Gaza"
   },
   {
-   "valor": "~1.200",
-   "texto": "incidentes violentos de colonos en Cisjordania en 11 meses de 2026, +42 % (Ejército israelí, vía prensa israelí)"
+   "valor": "~400",
+   "texto": "buques mercantes que cruzaron Ormuz en una semana, según CENTCOM (parte interesada; no verificado)"
   },
   {
-   "valor": "9–6",
-   "texto": "votos de la CIJ que declaró a Myanmar responsable de genocidio contra los rohinyás, 19 de nov. (HRW, Al Jazeera)"
+   "valor": "22–35",
+   "texto": "muertos por ataques de las ADF en Mambasa, Ituri, 10–12 de nov. (AP y funcionario local; provisional)"
   },
   {
-   "valor": "6.500",
-   "texto": "refugiados rohinyás que Malasia devolverá a Myanmar en diciembre, según el primer ministro Anwar Ibrahim (Al Jazeera)"
+   "valor": "188",
+   "texto": "civiles muertos por el JNIM en Burkina Faso, enero–agosto, según ACLED citado por HRW"
   },
   {
-   "valor": "60",
-   "texto": "objetivos hutíes atacados por la coalición saudí el 17–18 de noviembre, según la propia coalición (Al Jazeera)"
+   "valor": "20–24",
+   "texto": "heridos por el carro bomba en Villavicencio, 23 de nov. (Gobierno y Secretaría de Salud del Meta)"
   },
   {
-   "valor": "+100",
-   "texto": "buques chinos desplegados sin anuncio cerca de Taiwán a inicios de noviembre, según un alto funcionario taiwanés (Reuters, vía medios)"
-  },
-  {
-   "valor": "17",
-   "texto": "incidentes contra mezquitas en tres meses de 2026, +183 % interanual, según CAIR (organización de parte)"
+   "valor": "80 → 45",
+   "texto": "billones de pesos de recaudo previsto de la Ley de Rescate si prosperan los cambios del Congreso (La Silla Vacía)"
   }
  ],
  "termometro": [
   {
    "lugar": "Golfo Pérsico / Ormuz",
    "nivel": 5,
-   "nota": "El IRGC dice que cuatro petroleros chocaron con minas; sin confirmación de EE. UU."
+   "nota": "Irán endurece el cierre y alega minas; CENTCOM lo niega."
   },
   {
    "lugar": "Rusia – Ucrania",
    "nivel": 5,
-   "nota": "9 muertos y 59 heridos en un día; canje de prisioneros acordado, aún pendiente."
+   "nota": "Ataque nocturno con 113 drones; golpes ucranianos a refinerías."
   },
   {
-   "lugar": "Rusia – OTAN (Polonia)",
+   "lugar": "Rusia – OTAN",
    "nivel": 4,
-   "nota": "AWACS en Polonia; Varsovia pide estudiar interceptar misiles sobre Ucrania."
+   "nota": "Trump y Rutte piden a Putin no ampliar la guerra."
   },
   {
    "lugar": "Sudán",
    "nivel": 5,
-   "nota": "Ofensiva en Kordofán Occidental; drones sobre Jartum y edificio de la ONU."
+   "nota": "El Ejército dice haber roto el cerco de El Obeid; sin verificar."
   },
   {
    "lugar": "Gaza",
    "nivel": 4,
-   "nota": "Muertes casi diarias pese a la tregua; el Consejo de Paz advierte de estancamiento."
+   "nota": "Tercera noche de ataques; tregua bajo tensión."
   },
   {
    "lugar": "Cisjordania",
    "nivel": 4,
-   "nota": "Violencia de colonos al alza (+42 %); redadas israelíes."
+   "nota": "Colono mata a mujer en Jericó; 2026, año récord de violencia de colonos (ACLED)."
   },
   {
    "lugar": "Líbano – Israel",
-   "nivel": 3,
-   "nota": "Explosiones israelíes en la zona de amortiguación del sur, según medios libaneses."
+   "nivel": 4,
+   "nota": "Bombardeos en cuatro distritos del sur el 20–21 de nov."
   },
   {
    "lugar": "Yemen / Arabia Saudita",
    "nivel": 5,
-   "nota": "Ofensiva de la coalición en Hodeida; hutíes avanzan hacia Adén."
+   "nota": "Amenazas cruzadas contra puertos; hutíes avanzan hacia Adén."
   },
   {
    "lugar": "Pakistán – Afganistán",
    "nivel": 4,
-   "nota": "Choques desde el 29 de octubre; ataque del TTP mató a 10 policías el 11 de nov."
+   "nota": "Choques desde el 29 de oct.; 10 policías muertos el 11 de nov."
   },
   {
    "lugar": "Sahel",
    "nivel": 4,
-   "nota": "JNIM golpea ciudades secundarias y choca con el Estado Islámico en Burkina."
+   "nota": "JNIM intensifica ataques; Crisis Group propone diálogo."
   },
   {
-   "lugar": "RD Congo (Kivu/Ituri)",
+   "lugar": "RD Congo (Ituri)",
    "nivel": 4,
-   "nota": "Avance de rebeldes en Ituri hacia Bunia, según prensa; negociaciones sin frenar la violencia."
+   "nota": "ADF matan al menos a 22 en Mambasa."
   },
   {
    "lugar": "Myanmar",
    "nivel": 4,
-   "nota": "Bombardeos de la junta en Rakáin; 12 muertos en un campamento el 14 de nov."
+   "nota": "Bombardeos de la junta en Rakáin."
   },
   {
    "lugar": "China – Taiwán",
    "nivel": 3,
-   "nota": "Maniobras sin aviso; Xi reiteró la «reunificación completa» el 12 de nov."
+   "nota": "Sin novedad verificada hoy."
   },
   {
    "lugar": "India – Pakistán",
    "nivel": 2,
-   "nota": "Sin novedades verificadas hoy; la tregua se mantiene según la edición anterior."
+   "nota": "Sin incidente verificado en noviembre."
   },
   {
    "lugar": "Colombia (conflicto interno)",
    "nivel": 4,
-   "nota": "Operativos contra Clan del Golfo, disidencias y ELN; alteración de orden público en Cesar."
+   "nota": "Carro bomba en Villavicencio; drones en Cúcuta."
   },
   {
    "lugar": "Violencia religiosa",
    "nivel": 4,
-   "nota": "Ataques a cristianos en Nigeria; arrestos por terrorismo; incendio de mezquita en EE. UU."
+   "nota": "Nigeria, RD Congo, mezquitas atacadas, arrestos por yihadismo."
   }
  ],
  "secciones": [
@@ -177,41 +180,48 @@
    "id": "europa",
    "nombre": "Rusia y Ucrania",
    "corto": "Rusia–Ucrania",
-   "subtitulo": "Nuevos ataques, la OTAN en alerta y un canje de prisioneros que no se concreta",
+   "subtitulo": "Ataque nocturno, llamados de la OTAN y un canje que no llega",
    "articulos": [
     {
      "antetitulo": "Ucrania",
-     "titulo": "Ataques rusos matan a 9 personas e hieren a 59 en un día; Ucrania dice haber golpeado dos refinerías y un buque ruso",
-     "bajada": "",
-     "lugar": "Ucrania",
+     "titulo": "Misiles y drones rusos matan al menos a 3 personas en Járkov e hieren a 7 en un centro comercial de Kiev; Ucrania golpea dos refinerías rusas",
+     "lugar": "Járkov / Kiev / Samara",
      "imagen": {
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Destructions_in_Kyiv_after_Russian_attack%2C_2026-05-14_%2803%29.jpg/960px-Destructions_in_Kyiv_after_Russian_attack%2C_2026-05-14_%2803%29.jpg",
-      "pie": "Daños en Kiev tras un ataque ruso el 14 de mayo de 2026. Foto de archivo; no corresponde a Dymer.",
-      "credito": "Fiscalías de Ucrania / Wikimedia Commons",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Destructions_in_Kharkiv_after_Russian_attack%2C_2026-10-12_%2821%29.jpg/960px-Destructions_in_Kharkiv_after_Russian_attack%2C_2026-10-12_%2821%29.jpg",
+      "pie": "Daños en Járkov tras un ataque ruso el 12 de octubre de 2026. Foto de archivo; no corresponde a los hechos de hoy.",
+      "credito": "Servicio Estatal de Emergencias de Ucrania / Wikimedia Commons",
       "licencia": "CC BY 4.0",
-      "fecha_foto": "14 may. 2026",
-      "fuente_url": "https://commons.wikimedia.org/wiki/File:Destructions_in_Kyiv_after_Russian_attack,_2026-05-14_(03).jpg"
+      "fecha_foto": "12 oct. 2026",
+      "fuente_url": "https://commons.wikimedia.org/wiki/File:Destructions_in_Kharkiv_after_Russian_attack,_2026-10-12_(21).jpg"
      },
      "cuerpo": [
-      "Los ataques rusos de las últimas 24 horas dejaron 9 muertos y 59 heridos en Ucrania y detuvieron la generación en una central térmica, según el reporte de Kyiv Independent del 25 de noviembre. La Fuerza Aérea ucraniana dijo que Rusia lanzó 112 drones durante la noche del 24, 66 de ellos a reacción, además de señuelos.",
-      "En la región de Odesa murieron dos personas, entre ellas un adolescente, y una resultó herida. En la región de Kiev murió una persona y se dañaron instalaciones comerciales; en la capital, un ataque contra el patio de un edificio residencial dejó dos heridos.",
-      "Del lado ucraniano, canales de monitoreo reportaron que drones golpearon dos refinerías rusas durante la noche, sin confirmación oficial. El presidente Volodímir Zelenski confirmó un ataque ucraniano contra un buque ruso en el golfo de Finlandia; no se conocen más detalles. Moscú no figura en las fuentes consultadas con una respuesta a estas afirmaciones.",
-      "Además, autoridades militares ucranianas dijeron que unos 100 civiles, la mayoría ancianos, están atrapados en la ocupada lengua de Kinburn, con escasez de comida y medicinas y campos minados que impiden evacuarlos. El Estado Mayor ucraniano cifra en 1.643.580 las bajas rusas (muertos y heridos) desde febrero de 2022; es una cifra de una de las partes."
+      "Según la Fuerza Aérea de Ucrania, Rusia lanzó en la noche del 25 al 26 de noviembre 113 drones de tipo Shahed —76 de ellos a reacción— además de señuelos y misiles Iskander-M, Zircón y S-400. A las 8:00 habían sido neutralizados 87 drones. Hubo impactos en 20 lugares y escombros en seis más, según Kyiv Post.",
+      "En Járkov murieron tres personas: dos en un incendio en un edificio residencial de 16 pisos y una mujer de 86 años. Seis personas resultaron heridas. Fueron alcanzados un hospital, instalaciones deportivas, comercios, viviendas y un edificio del Instituto de Aviación. El alcalde Ihor Terekhov dijo que «un dron a reacción enemigo golpeó un edificio universitario». En Krivói Rog, un ataque a una instalación de infraestructura causó apagones y obligó a pasar a generadores la calefacción y el agua.",
+      "La tarde del 25, un misil balístico alcanzó un centro comercial y otros edificios civiles en el distrito Desniansky de Kiev; la administración militar de la ciudad reportó al menos siete heridos.",
+      "Ucrania, por su parte, golpeó las refinerías de Syzran y Kuibyshev, en la región de Samara, a unos 800 km de la frontera, según Yahoo News UK. Putin dijo que la respuesta es «inevitable», según HNGN. Kiev no ha dado cifras de daños en suelo ruso; la versión del Ministerio de Defensa ruso sobre estas incursiones no se pudo verificar hoy.",
+      "Zelensky afirmó que un acuerdo por 48 interceptores Patriot, financiado por aliados, sigue sin firma del secretario de Defensa de EE. UU., Pete Hegseth; el Pentágono no explicó la demora."
      ],
      "tono": "negativa",
      "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "Kyiv Independent (25 nov.)",
-       "url": "https://kyivindependent.com/"
+       "nombre": "Kyiv Post (26 nov.)",
+       "url": "https://www.kyivpost.com/post/91254"
+      },
+      {
+       "nombre": "Yahoo News UK – resumen de la guerra",
+       "url": "https://uk.news.yahoo.com/ukraine-russia-war-latest-putin-070109181.html"
+      },
+      {
+       "nombre": "HNGN (25 nov.)",
+       "url": "https://www.hngn.com/articles/273956/20261125/putin-vows-retaliation-ukraine-strikes-refineries-deep-russia.htm"
       }
      ]
     },
     {
-     "antetitulo": "OTAN · Polonia",
-     "titulo": "Polonia pide estudiar la interceptación de misiles rusos sobre Ucrania; la OTAN envía un avión AWACS",
-     "bajada": "",
-     "lugar": "Varsovia / Bruselas",
+     "antetitulo": "OTAN",
+     "titulo": "Trump y Rutte piden a Putin no «ampliar» la guerra; la OTAN sigue en alerta tras la incursión de misiles rusos en Polonia",
+     "lugar": "Bruselas / Varsovia",
      "imagen": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Brussels-NATO_headquarters.jpg/960px-Brussels-NATO_headquarters.jpg",
       "pie": "Sede de la OTAN en Bruselas. Foto de archivo.",
@@ -221,44 +231,50 @@
       "fuente_url": "https://commons.wikimedia.org/wiki/File:Brussels-NATO_headquarters.jpg"
      },
      "cuerpo": [
-      "Fiscales polacos determinaron que los tres objetos caídos en el sureste de Polonia el 20 de noviembre eran misiles de crucero rusos Kh-101. Según el ministro de Defensa, Władysław Kosiniak-Kamysz, los restos aparecieron en Nowy Lipowiec y Rudnik nad Sanem; un dron cayó en Molodycz. No hubo heridos ni daños reportados en Polonia, según Al Jazeera.",
-      "La OTAN aprobó el despliegue de un avión de alerta temprana AWACS en Polonia tras consultas en Bruselas. El secretario general Mark Rutte calificó el hecho de «grave violación» del espacio aéreo polaco. El primer ministro Donald Tusk dijo que parecía «una provocación intencional».",
-      "Polonia pidió a los aliados considerar la interceptación de misiles rusos sobre territorio ucraniano antes de que lleguen al espacio aéreo de la OTAN. El 25 de noviembre, Kosiniak-Kamysz dijo que «esta discusión continúa»; no hay decisión por el riesgo de un enfrentamiento directo con Rusia.",
-      "Trump sugirió que los proyectiles habían caído «por error», según Al Jazeera. Rusia no había comentado públicamente el incidente en las fuentes consultadas."
+      "Tras una reunión en Florida, el presidente Donald Trump y el secretario general de la OTAN, Mark Rutte, emitieron una declaración conjunta instando a Rusia a no ampliar el conflicto, según Yahoo News UK. El mismo resumen señala que la Administración Trump habría abandonado planes de usar acuerdos comerciales para empujar a Putin hacia la paz.",
+      "La presidenta de Letonia dijo ante el Consejo de Seguridad de la ONU que Rusia probablemente ve las nuevas conversaciones de alto el fuego como un «señuelo».",
+      "Sobre Polonia, la edición del 25 de noviembre recogió la petición de Varsovia de estudiar la interceptación de misiles rusos sobre Ucrania. Hoy no se halló una novedad verificada adicional: el incidente más documentado con fuentes abiertas es el del 30 de julio, cuando un misil ruso, probablemente un Kh-101 según el primer ministro Donald Tusk, cayó en el este de Polonia; Rutte lo llamó «otro acto imprudente de Rusia»."
      ],
-     "tono": "negativa",
-     "verificacion": "confirmado",
+     "tono": "neutral",
+     "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "Al Jazeera (21 nov.)",
-       "url": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond"
+       "nombre": "Yahoo News UK – resumen de la guerra",
+       "url": "https://uk.news.yahoo.com/ukraine-russia-war-latest-kyiv-042028266.html"
       },
       {
-       "nombre": "Notes from Poland (24 nov.)",
-       "url": "https://notesfrompoland.com/2026/11/24/nato-to-send-surveillance-aircraft-to-poland-after-russian-missile-strikes/"
+       "nombre": "Al Jazeera (30 jul.)",
+       "url": "https://aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland"
+      },
+      {
+       "nombre": "Ukrainska Pravda (30 jul.)",
+       "url": "https://www.pravda.com.ua/eng/news/2026/07/30/8046581/"
       }
      ]
     },
     {
      "antetitulo": "Diplomacia",
-     "titulo": "El canje de prisioneros pactado en Abu Dabi sigue pendiente; EE. UU. descarta tropas en Ucrania como garantía de seguridad",
-     "bajada": "",
-     "lugar": "Kiev / Abu Dabi",
+     "titulo": "El canje de prisioneros pactado en Abu Dabi sigue sin ejecutarse; Kushner dice que primero deben definirse garantías de seguridad",
+     "lugar": "Abu Dabi / Moscú / Kiev",
      "cuerpo": [
-      "Rusia y Ucrania acordaron el 11 de noviembre, tras dos días de conversaciones con mediación de EE. UU. en Abu Dabi, un canje amplio de prisioneros de guerra, sin avances de fondo hacia el fin de la guerra. Jared Kushner lo calificó como la mayor liberación humanitaria de prisioneros desde el inicio del conflicto. Un reporte señaló que podría ejecutarse en dos o tres semanas; no hay confirmación de que haya ocurrido.",
-      "Kyiv Independent informó en exclusiva de que EE. UU. descartó enviar tropas o bases a Ucrania como parte de las garantías de seguridad posteriores a la guerra, algo menos de lo que Kiev esperaba. Según un comunicado de la reunión de la Coalición de los Dispuestos del 19 de noviembre, Francia, Italia y el Reino Unido apoyan la entrada de Ucrania en la OTAN; el viceministro ruso de Exteriores, Serguéi Riabkov, rechazó cualquier «cuasimembresía».",
-      "Zelenski se reunió el 24 de noviembre con el primer ministro húngaro, Péter Magyar, y dijo que se alcanzaron «acuerdos concretos» sobre el suministro de gas. Noruega prometió al menos 7.000 millones de dólares de ayuda para 2027."
+      "Las delegaciones de Rusia y Ucrania acordaron el 10–11 de noviembre en Abu Dabi, con mediación de los enviados estadounidenses Jared Kushner y Steve Witkoff, un gran intercambio de prisioneros «en principio», según France 24 y ABC. El negociador ruso Vladimir Medinsky y el ucraniano Rustem Umerov confirmaron el pacto; ninguna parte dio una cifra.",
+      "No hubo avances sobre alto el fuego ni territorio: Ucrania rechaza ceder territorio que controla como condición de paz, según Atlantic Council y Moscow Times.",
+      "Un reporte del 26 de noviembre atribuye a Kushner la idea de que las conversaciones deben empezar fijando los arreglos de seguridad de posguerra y no un alto el fuego, lo que según Particle ahonda la distancia con Europa y Kiev. No se encontró confirmación de que el canje se haya realizado."
      ],
      "tono": "mixta",
      "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "Kyiv Independent (25 nov.)",
-       "url": "https://kyivindependent.com/"
+       "nombre": "France 24 (11 nov.)",
+       "url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end"
       },
       {
-       "nombre": "NPR/WUNC (11 nov.)",
-       "url": "https://www.wunc.org/2026-11-11/russia-and-ukraine-agree-to-a-large-exchange-of-prisoners-of-war-officials-say"
+       "nombre": "The Moscow Times (11 nov.)",
+       "url": "https://www.themoscowtimes.com/2026/11/11/abu-dhabi-talks-end-with-prisoner-exchange-but-no-peace-breakthrough-a94227"
+      },
+      {
+       "nombre": "Atlantic Council",
+       "url": "https://www.atlanticcouncil.org/content-series/fastthinking/where-the-russia-ukraine-peace-talks-stand-after-abu-dhabi/"
       }
      ]
     }
@@ -268,12 +284,11 @@
    "id": "oriente-medio",
    "nombre": "Oriente Medio",
    "corto": "Oriente Medio",
-   "subtitulo": "Gaza, Cisjordania y Líbano",
+   "subtitulo": "Gaza, Cisjordania, Líbano y política israelí",
    "articulos": [
     {
      "antetitulo": "Gaza",
-     "titulo": "Un ataque israelí mata al menos a tres personas en Jan Yunis; 1.679 muertos desde la tregua, según Salud de Gaza",
-     "bajada": "",
+     "titulo": "Tercera noche de ataques israelíes en Gaza: al menos 9 muertos, entre ellos un viceministro designado por Hamás",
      "lugar": "Franja de Gaza",
      "imagen": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flooded_tents_of_displaced_Palestinians_due_to_heavy_rain_in_Deir_el-Balah%2C_Gaza_Strip.jpg/960px-Flooded_tents_of_displaced_Palestinians_due_to_heavy_rain_in_Deir_el-Balah%2C_Gaza_Strip.jpg",
@@ -284,33 +299,35 @@
       "fuente_url": "https://commons.wikimedia.org/wiki/File:Flooded_tents_of_displaced_Palestinians_due_to_heavy_rain_in_Deir_el-Balah,_Gaza_Strip.jpg"
      },
      "cuerpo": [
-      "Un ataque aéreo israelí mató a al menos tres palestinos en la madrugada del martes 24 de noviembre cerca de un puesto policial en Jan Yunis y dejó cinco heridos, según autoridades sanitarias locales citadas por Reuters. El Ejército israelí no hizo comentarios inmediatos.",
-      "El Ministerio de Salud de Gaza cuenta 1.679 muertos y 6.100 heridos desde que entró en vigor la tregua de octubre de 2025 (Anadolu); un conteo de AFP basado en esos datos, que la ONU considera fiables, da al menos 1.658. Israel dice que cuatro de sus soldados han muerto en ese periodo; AP reporta cinco. Ambas partes se acusan de violar el alto el fuego.",
-      "En Shati, un ataque israelí mató al director del servicio de seguridad interna del norte de Gaza, a su esposa y a dos hijas de 15 y 13 años, según el Ministerio del Interior de Gaza, controlado por Hamás.",
-      "El asesor del Consejo de Paz Josh Gruenbaum advirtió que el organismo podría devolver a la ONU su mandato de reconstrucción si el proceso se estanca, y Jared Kushner dijo que Israel arriesga el estatus de «paria global» si no cambia su enfoque. Por su parte, el senador republicano Dave McCormick escribió que «Hamás debe desarmarse e Israel debe cumplir sus compromisos». Haaretz informó de que el Ejército israelí investiga penalmente al menos 16 casos de uso de palestinos como escudos humanos (diez en Gaza, seis en Cisjordania)."
+      "Ataques aéreos israelíes mataron al menos a nueve personas entre el 25 y el 26 de noviembre, según personal médico citado por Reuters y recogido por Cyprus Mail y Business Recorder; otros medios hablan de ocho o cinco muertos, por lo que la cifra es provisional. Entre las víctimas figuran Khaled Abu Nada, viceministro de Educación designado por Hamás, y su esposa; un ataque golpeó un apartamento en Deir al Balah.",
+      "Hamás calificó la política de «asesinatos» como una violación de la tregua vigente desde octubre de 2025 y del derecho internacional, y culpó a la «Junta de Paz» de Trump de no frenar los ataques. El Ejército israelí afirma que perseguirá a los dirigentes de Hamás hasta que depongan las armas; sobre un ataque concreto dijo que apuntó a milicianos que cruzaron las líneas acordadas y amenazaban a sus tropas.",
+      "Según el Ministerio de Salud de Gaza, 1.679 palestinos han muerto y 6.100 han resultado heridos desde la tregua. Las tropas israelíes controlan cerca de dos tercios de la Franja, frente a algo más de la mitad al inicio del alto el fuego. El Ministerio declaró una alerta epidémica por meningitis, según Democracy Now!."
      ],
      "tono": "negativa",
      "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "Times of Israel (24 nov.)",
-       "url": "https://www.timesofisrael.com/liveblog-november-24-2026/"
+       "nombre": "Cyprus Mail (26 nov.)",
+       "url": "https://cyprus-mail.com/2026/11/26/israeli-strikes-kill-nine-in-gaza-despite-ceasefire"
       },
       {
-       "nombre": "Anadolu (24 nov.)",
-       "url": "https://aa.com.tr/en/middle-east/6-palestinians-killed-in-israeli-strikes-in-gaza-amid-repeated-ceasefire-violations/4135326"
+       "nombre": "Business Recorder",
+       "url": "https://www.brecorder.com/news/40450867/israel-kills-nine-in-gaza-including-a-hamas-appointed-minister-officials-say"
       },
       {
-       "nombre": "PBS NewsHour",
-       "url": "https://www.pbs.org/newshour/world/israels-deadly-gaza-strikes-cast-doubt-on-ceasefire-progress-days-after-kushner-visit"
+       "nombre": "Democracy Now! (25 nov.)",
+       "url": "https://www.democracynow.org/2026/11/25/headlines/gaza_health_officials_warn_of_spread_of_meningitis_as_israel_continues_to_violate_ceasefire_deal"
+      },
+      {
+       "nombre": "Middle East Monitor (26 nov.)",
+       "url": "https://middleeastmonitor.com/20261126-israeli-strikes-kill-5-palestinians-including-deputy-education-minister-in-gaza"
       }
      ]
     },
     {
      "antetitulo": "Cisjordania",
-     "titulo": "Violencia de colonos sube un 42 % en 2026, según cifras del Ejército israelí; el Shin Bet critica al ministro Katz",
-     "bajada": "",
-     "lugar": "Cisjordania",
+     "titulo": "Colonos matan a una mujer palestina en Jericó; el Ejército israelí dice que los israelíes fueron atacados",
+     "lugar": "Jericó, Cisjordania",
      "imagen": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Two_israeli_settlements_on_the_hills_of_the_west_bank_%282826805820%29.jpg/960px-Two_israeli_settlements_on_the_hills_of_the_west_bank_%282826805820%29.jpg",
       "pie": "Dos asentamientos israelíes en las colinas de Cisjordania. Foto de archivo.",
@@ -320,37 +337,49 @@
       "fuente_url": "https://commons.wikimedia.org/wiki/File:Two_israeli_settlements_on_the_hills_of_the_west_bank_(2826805820).jpg"
      },
      "cuerpo": [
-      "El Ejército israelí registró cerca de 1.200 incidentes violentos de colonos en los primeros 11 meses de 2026, un 42 % más que en 2025, según un informe del 24 de noviembre. La presidenta de la Corte Suprema condenó a las «milicias» de colonos, y el Shin Bet criticó al ministro de Defensa, Israel Katz, por negarse a autorizar la detención administrativa de extremistas judíos sospechosos de ataques.",
-      "Katz no figura en las fuentes consultadas con una respuesta a esa crítica. En otra operación, comandos israelíes capturaron a dos presuntos operativos de Hamás en una redada en el norte de Cisjordania; la policía dijo que no hubo incidentes."
+      "Una mujer palestina —de 72 años según la mayoría de medios; otros dan 60— murió por disparos el 17 de noviembre frente a su casa en las afueras de Jericó, y al menos diez personas resultaron heridas, según Al Jazeera, que cita a la agencia palestina Wafa.",
+      "El Ejército israelí dijo que los israelíes abrieron fuego tras ser embestidos, atacados y apedreados. Testigos citados por Haaretz afirmaron que la mujer estaba en la puerta de su casa con familiares y no participó en un incidente de atropello cercano.",
+      "Dos semanas antes, colonos se habían instalado en viviendas del barrio Duyuk al Tahta; el consejo regional de Binyamin dijo que ocho casas fueron compradas a palestinos. ACLED afirma que 2026 va camino de ser el año con más violencia de colonos desde que monitorea Cisjordania hace una década. Un medio palestino contabiliza 36 palestinos muertos por colonos en 2026, cifra de una sola parte."
      ],
      "tono": "negativa",
      "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "Times of Israel (24 nov.)",
-       "url": "https://www.timesofisrael.com/liveblog-november-24-2026/"
+       "nombre": "Al Jazeera (17 nov.)",
+       "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people"
       },
       {
-       "nombre": "The New Arab",
-       "url": "https://www.newarab.com/news/israeli-settler-terrorism-surges-42-occupied-west-bank"
+       "nombre": "CNN (18 nov.)",
+       "url": "https://www.cnn.com/2026/11/18/world/palestinian-woman-killed-by-israeli-settlers-latam-intl"
+      },
+      {
+       "nombre": "Haaretz (17 nov.)",
+       "url": "https://www.haaretz.com/israel-news/israel-security/2026-11-17/ty-article/.premium/palestinians-two-people-shot-by-settlers-in-jericho-idf-reports-attack-attempt/000001a1-e688-d848-abeb-fe88cba10000"
       }
      ]
     },
     {
-     "antetitulo": "Líbano · Siria · Política israelí",
-     "titulo": "Explosiones israelíes en el sur del Líbano; Netanyahu busca socios de coalición tras las elecciones del 27 de octubre",
-     "bajada": "",
+     "antetitulo": "Líbano · Política israelí",
+     "titulo": "Israel bombardea cuatro distritos del sur del Líbano; las negociaciones para formar gobierno en Israel siguen estancadas",
      "lugar": "Líbano / Israel",
      "cuerpo": [
-      "Medios libaneses, citando a Al Mayadeen, informaron de ataques y explosiones israelíes el 24 de noviembre en la zona de amortiguación del sur del Líbano, de unos 10 km, en Qabrijá, Tulin y Kafr Tibnit. El Ejército israelí no comentó; en otras ocasiones dice que se trata de demoliciones rutinarias de infraestructura de Hezbolá o de eliminar amenazas a sus tropas. Haaretz informó de que prácticas similares de escudos humanos se habrían usado en el Líbano; el Ejército no comentó.",
-      "En Israel, Netanyahu no logró reunirse con los diputados de Judaísmo Unido de la Torá, según informes; Likud y Yashar tendrán el miércoles una cuarta ronda de conversaciones de unidad. Yashar dijo haber firmado un acuerdo con Yisrael Beiteinu y el partido Demócratas suspendió las negociaciones con Yashar. En Siria no se encontraron novedades verificadas hoy; la ICBL reportó que las víctimas de minas en Siria subieron más de un 50 % en 2025, hasta 1.602."
+      "Aviones, drones y artillería israelíes golpearon al menos cuatro distritos del sur del Líbano el 20 y 21 de noviembre, en una de las campañas más concentradas en meses; un día antes, cazas atacaron en el valle de la Bekaa las entradas de una instalación subterránea de misiles de Hezbolá cerca de Janta, según la prensa citada por Inkl. Líbano afirma que la invasión israelí iniciada en marzo ha matado a más de 4.300 personas, cifra libanesa no verificada de forma independiente.",
+      "En Israel, el presidente Isaac Herzog encargó a Gadi Eisenkot (Yashar) formar gobierno. Likud, Yashar y B'Yachad (Naftali Bennett) iniciaron conversaciones a nivel de negociadores y acordaron seguir hablando, según JNS. El obstáculo es quién liderará: Likud exige que Netanyahu sea primer ministro y Eisenkot no ofrece rotación. Ynet informa de bloqueo por la comisión estatal de investigación del 7 de octubre y por nombramientos, informe sin fecha precisa."
      ],
-     "tono": "neutral",
+     "tono": "negativa",
      "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "Times of Israel (24 nov.)",
-       "url": "https://www.timesofisrael.com/liveblog-november-24-2026/"
+       "nombre": "Inkl (resumen)",
+       "url": "https://www.inkl.com/news/israels-relentless-lebanon-strikes-are-threatening-to-unravel-washingtons-peace-deal"
+      },
+      {
+       "nombre": "Al Jazeera (15 nov.)",
+       "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel"
+      },
+      {
+       "nombre": "JNS",
+       "url": "https://www.jns.org/news/israel-news/likud-yashar-byachad-agree-to-continue-coalition-talks"
       }
      ]
     }
@@ -363,9 +392,8 @@
    "subtitulo": "Irán, el Golfo y Venezuela",
    "articulos": [
     {
-     "antetitulo": "Irán · Golfo",
-     "titulo": "Catar intenta reactivar el diálogo EE. UU.–Irán mientras Teherán fija siete condiciones y Trump amenaza con nuevos ataques",
-     "bajada": "",
+     "antetitulo": "Irán · Diplomacia",
+     "titulo": "Catar media entre Washington y Teherán mientras Irán fija siete condiciones y Trump advierte de ataques después de Año Nuevo",
      "lugar": "Washington / Doha / Teherán",
      "imagen": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Strait_of_Hormuz_islands.svg/960px-Strait_of_Hormuz_islands.svg.png",
@@ -376,30 +404,30 @@
       "fuente_url": "https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_islands.svg"
      },
      "cuerpo": [
-      "Catar dice que la navegación por Ormuz figura en la agenda de las conversaciones en las que participa. Irán ha dicho que el estrecho podría abrirse en dos días solo si Washington acepta su lista de demandas, que incluye levantar el bloqueo estadounidense; su canciller afirmó que no hay planes de hablar directamente con EE. UU. Trump dice querer un acuerdo «permanente» que impida a Irán tener un arma nuclear.",
-      "Rubio advirtió de que las conversaciones no están cerca de un acuerdo. Un memorando de entendimiento firmado en junio quedó estancado por la libertad de navegación. Trump acusó a Teherán de no ser serio y advirtió de nuevos ataques después de este año, según Fox News y Gulf News. Irán, por su parte, atribuye la tensión al bloqueo y a las acciones militares de EE. UU."
+      "El primer ministro catarí se reunió el lunes 23 de noviembre con Vance, en la Casa Blanca, y con Rubio, en el octavo Diálogo Estratégico EE. UU.–Catar, según AP, Axios y The Arab Weekly. Catar dice que Ormuz está en la agenda.",
+      "Irán sostiene que el estrecho no se abrirá hasta que se cumplan sus siete condiciones; las fuentes consultadas hoy no las detallan. Alhurra informa de cierta flexibilidad iraní sobre una fórmula para reabrirlo, pero con desacuerdos de fondo sobre concesiones nucleares y alivio de sanciones.",
+      "Trump habría dicho a Vance que no necesita un acuerdo, según Breitbart y Euronews (versión de fuentes anónimas), y ha amenazado con hundir buques que desafíen el bloqueo naval estadounidense."
      ],
-     "tono": "negativa",
+     "tono": "mixta",
      "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "Fox News",
-       "url": "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict"
+       "nombre": "The Arab Weekly",
+       "url": "https://thearabweekly.com/qatar-pursues-iran-diplomacy-separate-talks-vance-and-rubio"
       },
       {
-       "nombre": "Gulf News (25 nov.)",
-       "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
+       "nombre": "Alhurra",
+       "url": "https://alhurra.com/en/56866"
       },
       {
-       "nombre": "Kiprinform: Catar y Ormuz",
-       "url": "https://www.kiprinform.com/en/news/qatar-says-hormuz-navigation-is-on-the-agenda-of-us-iran-talks-in-which-doha-takes-part/"
+       "nombre": "Euronews (24 nov.)",
+       "url": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks"
       }
      ]
     },
     {
      "antetitulo": "Venezuela",
-     "titulo": "EE. UU. y Venezuela restablecen la cooperación militar tras 21 años; los detalles siguen sin precisarse",
-     "bajada": "",
+     "titulo": "EE. UU. y Venezuela restablecen la cooperación militar; el acuerdo no contempla bases ni tropas permanentes, según UPI",
      "lugar": "Caracas / Washington",
      "imagen": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Pentagon_US_Department_of_Defense_building.jpg/960px-The_Pentagon_US_Department_of_Defense_building.jpg",
@@ -409,19 +437,23 @@
       "fuente_url": "https://commons.wikimedia.org/wiki/File:The_Pentagon_US_Department_of_Defense_building.jpg"
      },
      "cuerpo": [
-      "El secretario de Defensa, Pete Hegseth, anunció el 18 de noviembre en Caracas, junto a la presidenta interina Delcy Rodríguez, un acuerdo para restablecer la cooperación militar suspendida hace 21 años. Incluye entrenamiento conjunto, intercambio de inteligencia, suministro de equipos y seguridad fronteriza, según Al Jazeera.",
-      "El Pentágono no dio más detalles y los reportes consultados no describen bases ni despliegue permanente de tropas. Daily Caller citó a Hegseth diciendo que la alianza implicará más ataques contra los carteles. Rodríguez dijo que el pacto permite «el desarrollo energético de nuestras naciones». EE. UU. capturó a Nicolás Maduro el 3 de enero de 2026; críticos acusan a Washington de convertir a Venezuela en un Estado vasallo, versión que el Gobierno estadounidense no comparte."
+      "El secretario de Guerra, Pete Hegseth, y Delcy Rodríguez anunciaron en Caracas el 18 de noviembre la reactivación de la cooperación entre sus fuerzas armadas, interrumpida hace unos 21 años, con entrenamiento, asistencia técnica y acceso a tecnología, según CNN en Español, Infobae y UPI.",
+      "Hegseth dijo que la alianza buscará combatir a «terroristas y criminales»; Rodríguez habló de enfrentar «amenazas comunes». UPI reporta que no habrá bases ni despliegue permanente de tropas de EE. UU. Los textos completos no han sido publicados y las fuentes difieren sobre si hubo firma formal y desde cuándo se interrumpió la cooperación."
      ],
      "tono": "neutral",
      "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "Al Jazeera (18 nov.)",
-       "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela"
+       "nombre": "CNN en Español (18 nov.)",
+       "url": "https://cnnespanol.cnn.com/2026/11/18/eeuu/pete-hegseth-delcy-rodriguez-acuerdo-cooperacion-militar-orix"
       },
       {
        "nombre": "UPI (18 nov.)",
        "url": "https://www.upi.com/Top_News/World-News/2026/11/18/latam-venezuela-us-military-cooperation/5731795032282"
+      },
+      {
+       "nombre": "Infobae (18 nov.)",
+       "url": "https://www.infobae.com/venezuela/2026/11/18/estados-unidos-y-venezuela-acordaron-restablecer-la-cooperacion-militar-interrumpida-por-hugo-chavez-hace-mas-de-dos-decadas/"
       }
      ]
     }
@@ -435,9 +467,8 @@
    "articulos": [
     {
      "antetitulo": "Sudán",
-     "titulo": "El Ejército avanza en Kordofán Occidental y drones golpean Jartum y un edificio de la ONU; Etiopía niega ayudar a las RSF",
-     "bajada": "",
-     "lugar": "Kordofán / Darfur / Jartum",
+     "titulo": "El Ejército sudanés dice haber roto el cerco de las RSF sobre El Obeid y tomado Al Juwai; Amnistía pide investigar ataques con drones",
+     "lugar": "Kordofán / El Obeid",
      "imagen": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Khartoum_Fire.png",
       "pie": "Incendio en Jartum durante la guerra. Foto de archivo de 2023; no corresponde a los ataques de esta semana.",
@@ -447,31 +478,29 @@
       "fuente_url": "https://commons.wikimedia.org/wiki/File:Khartoum_Fire.png"
      },
      "cuerpo": [
-      "El Ejército sudanés y sus aliados tomaron Al Khuway, la primera ciudad de Kordofán Occidental que recupera en esta ofensiva, y el 17 de noviembre estaban a unos 60 km de En Nahud, la principal base de las Fuerzas de Apoyo Rápido (RSF) en la zona, según Sudan Tribune. El 19 de noviembre, aviones del Ejército atacaron sedes de las RSF en Nyala (Darfur Sur) y mataron a decenas de combatientes, según fuentes militares citadas por ese medio.",
-      "Drones golpearon Jartum, incluido un edificio de la ONU, el primer ataque reportado contra instalaciones de la ONU allí desde que el Ejército recuperó la capital en 2025. El Ejército dice que los drones salieron de Etiopía; Etiopía niega ayudar a las RSF y la acusación no está verificada.",
-      "Organizaciones de derechos humanos reportan muertes de civiles por drones de ambos bandos; Amnistía investiga ataques del Ejército con víctimas civiles. La mayoría de las cifras proceden de fuentes militares de cada bando y no están verificadas."
+      "Según un reporte de Guardian Nigeria del 25 de noviembre, las Fuerzas Armadas de Sudán (SAF) y aliados de Darfur capturaron la localidad de Al Juwai, en Kordofán Occidental, y levantaron el asedio de las Fuerzas de Apoyo Rápido (RSF) sobre El Obeid, apoyados en superioridad aérea y drones. No hay confirmación independiente de esa versión del Ejército, y las RSF mantienen Al Nuhud y partes de Kordofán del Sur.",
+      "Amnistía Internacional (18 de noviembre) pidió investigar como crímenes de guerra nueve ataques con drones de las RSF contra El Obeid entre junio y agosto de 2026, que mataron a 37 civiles. En julio, Al Jazeera señalaba que medio millón de personas estaban atrapadas en la ciudad."
      ],
      "tono": "negativa",
-     "verificacion": "parcial",
+     "verificacion": "no_verificado",
      "fuentes": [
       {
-       "nombre": "Sudan Tribune",
-       "url": "https://sudantribune.com/article/321005"
+       "nombre": "Amnesty International UK",
+       "url": "https://www.amnesty.org.uk/latest/sudan-deadly-rsf-drone-strikes-in-el-obeid-need-war-crimes-investigation-says-amnesty/"
       },
       {
-       "nombre": "Sudan Tribune: Nyala",
-       "url": "https://sudantribune.com/article/321451"
+       "nombre": "Al Jazeera (6 jul.)",
+       "url": "https://www.aljazeera.com/news/2026/7/6/el-obeid-under-siege-by-rsf-could-this-be-sudans-next-el-fasher"
       },
       {
-       "nombre": "Anadolu",
-       "url": "https://www.aa.com.tr/en/middle-east/sudanese-army-advances-in-west-kordofan-says-it-downed-drone-from-ethiopia/4124681"
+       "nombre": "Yahoo News – SAF en Kordofán",
+       "url": "https://www.yahoo.com/news/world/articles/saf-successes-sudan-kordofan-could-124917651.html"
       }
      ]
     },
     {
      "antetitulo": "Yemen",
-     "titulo": "La coalición saudí dice haber atacado 60 objetivos hutíes; los hutíes avanzan hacia Adén y reivindican ataques contra Arabia Saudita",
-     "bajada": "",
+     "titulo": "La coalición saudí y los hutíes se amenazan con bombardear puertos clave; los hutíes avanzan hacia Adén, según análisis",
      "lugar": "Yemen / Arabia Saudita",
      "imagen": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Riyadh_Skyline_showing_the_King_Abdullah_Financial_District_%28KAFD%29_and_the_famous_Kingdom_Tower_.jpg/960px-Riyadh_Skyline_showing_the_King_Abdullah_Financial_District_%28KAFD%29_and_the_famous_Kingdom_Tower_.jpg",
@@ -482,9 +511,8 @@
       "fuente_url": "https://commons.wikimedia.org/wiki/File:Riyadh_Skyline_showing_the_King_Abdullah_Financial_District_(KAFD)_and_the_famous_Kingdom_Tower_.jpg"
      },
      "cuerpo": [
-      "La coalición saudí anunció el 18 de noviembre una «operación de precisión» contra 60 objetivos hutíes en Saná, Hodeida, Amrán y Saada, que destruyó túneles usados como talleres y depósitos de misiles balísticos, según su portavoz Turki al Maliki. Dijo haber interceptado dos misiles de crucero lanzados hacia Riad.",
-      "El portavoz hutí, Yahya Saree, afirmó haber atacado estaciones de bombeo de petróleo cerca de Riad y un radar en el sur saudí; Arabia Saudita no respondió. Fuerzas del Gobierno yemení se retiraron del aeropuerto de Dhubab y de la zona de Bab el Mandeb para defender Adén; hay combates en Taiz y Lahij. Autoridades de Taiz acusan a los hutíes de bombardear zonas civiles y de bloquear medicinas.",
-      "Un resumen de CSIS señala que la coalición pausó la ofensiva en Hodeida el 15 de noviembre por pedidos de la ONU, que los hutíes anunciaron una pausa el 16 y que la ofensiva se reanudó el 19 tras un misil hutí; la secuencia entre fuentes no coincide del todo. No hay cifras oficiales de víctimas."
+      "La coalición liderada por Arabia Saudita afirma haber golpeado 60 objetivos hutíes en Saná, Hodeida, Amrán y Saada, incluidos túneles usados como talleres y depósitos de misiles balísticos, según Al Jazeera (18 de noviembre). El 20 de noviembre, ambas partes intercambiaron amenazas de bombardear puertos clave del mar Rojo.",
+      "Riad dice haber interceptado misiles y drones hutíes dirigidos a Riad y a la región Oriental; las autoridades saudíes cuentan al menos 26 muertos en ataques sospechosos hutíes desde el 23 de septiembre. Un análisis del 25 de noviembre ubica a los hutíes a unos 60 km de Adén. Las cifras de ambas partes no han sido verificadas de forma independiente."
      ],
      "tono": "negativa",
      "verificacion": "parcial",
@@ -494,38 +522,62 @@
        "url": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites"
       },
       {
-       "nombre": "CSIS Missile Threat",
-       "url": "https://missilethreat.csis.org/yemen-update-november-3-20/"
+       "nombre": "Al Jazeera (20 nov.)",
+       "url": "https://www.aljazeera.com/news/2026/11/20/saudi-coalition-and-houthis-exchange-threats-to-bomb-key-ports"
+      },
+      {
+       "nombre": "Al Jazeera (15 nov.)",
+       "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh"
       }
      ]
     },
     {
-     "antetitulo": "Congo · Sahel",
-     "titulo": "Rebeldes toman Iga-Barrière en Ituri; en Burkina Faso, el JNIM y el Estado Islámico combaten entre sí",
-     "bajada": "",
-     "lugar": "Ituri / Burkina Faso / Malí",
+     "antetitulo": "RD Congo",
+     "titulo": "El grupo ADF mata al menos a 22 personas en Mambasa, Ituri; un funcionario local eleva la cifra a 35",
+     "lugar": "Mambasa, Ituri (RD Congo)",
      "cuerpo": [
-      "Rebeldes leales a Thomas Lubanga tomaron el lunes por la tarde Iga-Barrière, en la provincia de Ituri, y las tropas gubernamentales se replegaron hacia Bunia, según un medio regional. Un resumen del CFR, citando a AP, recoge que las ADF mataron al menos a 22 personas y secuestraron a diez en Mambasa. Es información de una sola fuente; no pudo contrastarse.",
-      "En el Sahel, Al Jazeera informó de combates cada vez más letales entre el JNIM y el Estado Islámico del Sahel en la frontera norte de Burkina Faso. Crisis Group contabiliza que el JNIM ha golpeado al menos 30 ciudades secundarias de Malí desde 2023, y Human Rights Watch documentó un ataque suyo contra una zona minera en Burkina. Los gobiernos militares no figuran en las fuentes con una respuesta."
+      "Según AP, las Fuerzas Democráticas Aliadas (ADF), grupo afiliado al Estado Islámico, atacaron ocho localidades del territorio de Mambasa entre el 10 y el 12 de noviembre, matando al menos a 22 personas y secuestrando a 10. Un funcionario local contó después 35 muertos y 14 desaparecidos en la jefatura de Babila Babombi; una ONG cristiana habla de 26 muertos la noche del 10. Las cifras son provisionales.",
+      "La zona sufre además un brote de ébola: un medio reporta 7.614 casos confirmados en Ituri al 8 de noviembre, cifra no verificada con la OMS en esta edición. No se confirmó ningún ataque del M23 en Ituri este mes."
      ],
      "tono": "negativa",
      "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "Al Jazeera (13 nov.)",
-       "url": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground"
+       "nombre": "ABC News / AP",
+       "url": "https://abcnews.com/International/wireStory/islamic-state-group-affiliated-rebels-kill-22-congos-138049699"
       },
       {
-       "nombre": "Crisis Group",
-       "url": "https://www.crisisgroup.org/brf/africa/burkina-faso-mali-niger/b213-handling-jnims-threat-sahels-urban-heartlands"
+       "nombre": "Rio Times",
+       "url": "https://www.riotimesonline.com/mambasa-raids-congo-35-dead-14-missing/"
       },
       {
-       "nombre": "HRW (4 nov.)",
+       "nombre": "International Christian Concern (12 nov.)",
+       "url": "https://persecution.org/2026/11/12/at-least-26-killed-in-drcs-mambasa-territory-amid-ebola-crisis/"
+      }
+     ]
+    },
+    {
+     "antetitulo": "Sahel",
+     "titulo": "HRW: el JNIM mató a 188 civiles en Burkina Faso entre enero y agosto; Crisis Group pide considerar el diálogo",
+     "lugar": "Burkina Faso / Malí",
+     "cuerpo": [
+      "Human Rights Watch (4 de noviembre) cita datos de ACLED: 125 ataques del grupo yihadista JNIM en Burkina Faso entre enero y agosto de 2026, con 188 civiles muertos. ACLED describe además al JNIM disputando territorio en la región Centro-Este con el Estado Islámico del Sahel.",
+      "En Malí, el JNIM y el Frente de Liberación de Azawad intensificaron ataques en el noroeste y el centro. International Crisis Group (23 de noviembre) instó a Malí, Burkina Faso y Níger a considerar conversaciones con el JNIM sin dejar la presión militar; los gobiernos del Sahel no han respondido en las fuentes consultadas."
+     ],
+     "tono": "negativa",
+     "verificacion": "parcial",
+     "fuentes": [
+      {
+       "nombre": "Human Rights Watch (4 nov.)",
        "url": "https://www.hrw.org/news/2026/11/04/burkina-faso-islamist-armed-group-targets-civilians"
       },
       {
-       "nombre": "CFR Global Conflict Tracker",
-       "url": "https://www.cfr.org/global-conflict-tracker/conflict/violence-democratic-republic-congo"
+       "nombre": "ACLED – Sahel",
+       "url": "https://acleddata.com/region/conflict-sahel"
+      },
+      {
+       "nombre": "News Minimalist (Crisis Group)",
+       "url": "https://www.newsminimalist.com/articles/crisis-group-urges-talks-as-jnim-strikes-30-malian-cities-2b6943a7"
       }
      ]
     }
@@ -539,30 +591,28 @@
    "articulos": [
     {
      "antetitulo": "Pakistán · Afganistán",
-     "titulo": "Los choques fronterizos continúan; el TTP mató a 10 policías el 11 de noviembre y los talibanes acusan a Islamabad de apoyar a grupos armados",
-     "bajada": "",
+     "titulo": "Continúan los choques entre talibanes y Pakistán; Islamabad exige acciones «verificables» contra el TTP",
      "lugar": "Frontera Af-Pak",
      "cuerpo": [
-      "Fuerzas talibanes y paquistaníes se enfrentan desde el 29 de octubre; hubo combates en Angoor Adda y cerca de Torkham el 1 de noviembre, con el cruce cerrado temporalmente y un civil muerto por morteros, según Long War Journal. El movimiento TTP reivindicó un ataque el 11 de noviembre que mató a 10 policías paquistaníes.",
-      "Según el CFR, fuerzas paquistaníes mataron a 35 militantes en Mir Ali y a ocho en Orakzai (13 de noviembre) y, según reportes, al menos a 22 miembros del TTP el 19. Islamabad acusa a los talibanes de dar refugio al TTP, algo que Kabul niega; el 20 de noviembre los talibanes acusaron a Pakistán de apoyar a grupos de resistencia armados. Cada parte atribuye a la otra el primer disparo. Las cifras no están verificadas de forma independiente."
+      "Fuerzas talibanas y paquistaníes chocan desde el 29 de octubre, según Long War Journal. El 11 de noviembre, una emboscada en el distrito de Kohat (Khyber Pastunjuá) mató a 10 policías; la reivindicó Ittehad ul Mujahideen Pakistan, alianza con raíces en el TTP.",
+      "El Ejército paquistaní dice haber matado a 74 «terroristas» en operaciones (Al Jazeera, 13 de noviembre). Los talibanes acusan a Islamabad de amparar a grupos armados contrarios. Hoy, según el informe más reciente, Islamabad dice que mantendrá su estrategia hasta que los talibanes actúen de forma «clara y verificable» contra el TTP; habrían detenido a varios miembros, sin detalles."
      ],
      "tono": "negativa",
      "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "Long War Journal",
+       "nombre": "FDD's Long War Journal",
        "url": "https://www.longwarjournal.org/archives/2026/11/taliban-pakistan-border-clashes-continue-ttp-attack-kills-10-pakistani-police.php"
       },
       {
-       "nombre": "CFR Global Conflict Tracker",
-       "url": "https://www.cfr.org/global-conflict-tracker/conflict/war-afghanistan"
+       "nombre": "Al Jazeera – Talibán de Pakistán",
+       "url": "https://www.aljazeera.com/tag/pakistan-taliban/"
       }
      ]
     },
     {
      "antetitulo": "Myanmar",
-     "titulo": "La junta bombardea Rakáin: 12 muertos en un campamento de desplazados y cinco civiles en Rathedaung, según medios y el Ejército de Arakan",
-     "bajada": "",
+     "titulo": "Bombardeos de la junta en Rakáin matan a cuatro civiles, entre ellos un bebé de cinco meses, según el Ejército de Arakan",
      "lugar": "Rakáin (Myanmar)",
      "imagen": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Myanmar-Loc-Rakhine-State.png",
@@ -574,45 +624,44 @@
       "tipo": "mapa"
      },
      "cuerpo": [
-      "Un ataque aéreo contra un campamento de desplazados mató a 12 personas el 14 de noviembre (AFP). Otro, el 15 de noviembre, mató a cinco civiles e hirió a cuatro en dos aldeas de Rathedaung, según BNI. El 2 de noviembre, ataques contra un puente, una clínica y una maternidad en Mrauk-U dejaron al menos 12 muertos y 32 heridos, según un portavoz del Ejército de Arakan (AA) y un trabajador humanitario.",
-      "El MDSI contó 144 civiles muertos o heridos por ataques aéreos en Rakáin en septiembre. Analistas citados por RFA creen que los bombardeos buscan forzar al AA a negociar. Casi todas las cifras proceden del AA y de fuentes locales; la junta no figura con una respuesta en estas fuentes."
+      "Cuatro civiles, incluido un bebé de cinco meses, murieron y 13 resultaron heridos, entre ellos niños, en ataques aéreos sobre aldeas de los municipios de Wira Htanay y Mrauk-U, según Mizzima y Myanmar Peace Monitor, que recogen la versión del Ejército de Arakan (AA), el 22–24 de noviembre.",
+      "El ataque más mortífero reciente fue el del 28 de septiembre contra un mercado en Kyauktaw: 33 muertos según Al Jazeera, 49 según otros medios, con la ONU calificándolo como uno de los peores desde el golpe de 2021. Analistas citados por RFA dicen que los bombardeos buscan presionar al AA para negociar; la junta niega apuntar a civiles. Un medio afín al AA cuenta más de 1.300 civiles muertos en tres años."
      ],
      "tono": "negativa",
      "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "Dhaka Tribune (AFP)",
-       "url": "https://www.dhakatribune.com/world/asia/424604/myanmar-airstrike-on-displaced-persons-camp-kills"
+       "nombre": "Mizzima (24 nov.)",
+       "url": "https://eng.mizzima.com/2026/11/24/41128"
       },
       {
-       "nombre": "BNI Online",
-       "url": "https://www.bnionline.net/en/news/junta-airstrikes-kill-five-injure-four-rathedaung"
+       "nombre": "Myanmar Peace Monitor",
+       "url": "https://mmpeacemonitor.org/en/en-news/four-civilians-including-infant-killed-and-13-injured-in-junta-airstrikes-in-myanmars-wira-htanay-and-mrauk-u-townships/"
       },
       {
-       "nombre": "RFA (2 oct.)",
-       "url": "https://rfa.org/english/myanmar/2026/10/02/myanmar-rakhine-air-strike-civilians/"
+       "nombre": "Al Jazeera (28 sep.)",
+       "url": "https://www.aljazeera.com/news/2026/9/28/myanmar-army-air-strike-kills-dozens-in-rakhine-state"
       }
      ]
     },
     {
-     "antetitulo": "China · Taiwán",
-     "titulo": "Taipei denuncia maniobras chinas sin aviso con más de 100 buques; Xi reiteró la «reunificación completa»",
-     "bajada": "",
-     "lugar": "Taiwán / Pacífico occidental",
+     "antetitulo": "China · Taiwán · India–Pakistán",
+     "titulo": "Sin novedades verificadas hoy sobre Taiwán ni sobre Cachemira",
+     "lugar": "Taiwán / Cachemira",
      "cuerpo": [
-      "Funcionarios taiwaneses describieron una gran maniobra china sin anuncio previo, con un portaaviones y formaciones navales en el Pacífico occidental, que calificaron de «intimidación silenciosa». Un alto funcionario de seguridad dijo que la Armada y la guardia costera chinas llegaron a reunir más de 100 buques y que un submarino lanzó un misil balístico intercontinental desde el mar Amarillo hacia territorio chino; es información de una sola fuente.",
-      "Xi Jinping dijo el 12 de noviembre que la «reunificación completa» con Taiwán se realizará, sin mencionar el uso de la fuerza. France 24 aclaró que los ejercicios simularon un cerco y bloqueo de la isla y que China no ha tomado Taiwán, en contra de lo que circula en redes. Los analistas vinculan el momento con la reunión Xi–Trump en el APEC de Shenzhen. Beijing no figura en las fuentes consultadas con un comentario."
+      "No se halló reporte verificable de maniobras chinas nuevas alrededor de Taiwán en las últimas 48 horas. Como contexto, la edición del 25 de noviembre recogió la denuncia de Taipéi de maniobras sin aviso con más de 100 buques a inicios de mes; el mayor ejercicio reciente documentado fue «Justice Mission 2025», a fines de diciembre de 2025.",
+      "Sobre India y Pakistán, las búsquedas de hoy solo arrojaron material de la crisis de abril de 2025 (atentado de Pahalgam). No hay incidente verificado de noviembre de 2026."
      ],
      "tono": "neutral",
      "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "Japan Times (13 nov.)",
-       "url": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/china-silent-intimidation/"
+       "nombre": "NPR (30 dic. 2025)",
+       "url": "https://www.npr.org/2025/12/30/g-s1-103963/china-flexes-blockade-capabilities-near-taiwan-on-second-day-of-military-drills"
       },
       {
-       "nombre": "France 24 (13 nov.)",
-       "url": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan"
+       "nombre": "CFR – India y Pakistán",
+       "url": "https://www.cfr.org/global-conflict-tracker/conflict/conflict-between-india-and-pakistan"
       }
      ]
     }
@@ -626,34 +675,38 @@
    "articulos": [
     {
      "antetitulo": "Panorama",
-     "titulo": "Víctimas y victimarios: lo que se sabe de la violencia religiosa esta semana",
-     "bajada": "",
+     "titulo": "Víctimas y victimarios: la violencia religiosa de esta semana apunta en varias direcciones",
      "lugar": "Mundo",
      "cuerpo": [
-      "La violencia religiosa tiene hoy víctimas de varias creencias. Cristianos mueren en Nigeria a manos, según ONG cristianas, de milicias fulani; terroristas del Estado Islámico siguen siendo detenidos en Europa y otros países; una mezquita fue incendiada en Alabama; y la Corte Internacional de Justicia declaró que Myanmar cometió genocidio contra los musulmanes rohinyás.",
-      "Cada grupo debe nombrarse con precisión: los atacantes son milicias o grupos concretos, no una comunidad entera. Las ONG religiosas (como ICC) son fuentes de parte; las cifras oficiales suelen ser menores o inexistentes. Pakistán, por ejemplo, registró menos casos oficiales de blasfemia este año tras una ofensiva del jefe del Ejército contra grupos fundamentalistas (Reuters, citado por ICC), aunque persisten las turbas, y la Asamblea del Punjab pidió el 24 de noviembre penas más duras por blasfemia (Dawn)."
+      "Cristianos: ICC y Barnabas Aid documentan al menos 14 cristianos muertos en Plateau (Nigeria) el 15–16 de noviembre, atribuidos a milicianos fulani; las ADF, afiliadas al Estado Islámico, mataron al menos a 22 personas en Ituri (RD Congo).",
+      "Terrorismo islamista: detenciones por yihadismo en Barcelona (17 nov.) y Sídney (20 nov.), y arrestos en Alemania (26 nov.); EE. UU. acusa a tres hombres de planear ataques contra comunidades judías con respaldo iraní.",
+      "Musulmanes: incendio en la mezquita de Gadsden (Alabama, 13 nov.), intento de incendio en una mezquita cerca de Afula (Israel, 19 nov.) y un intento de irrupción en una mezquita de Cincinnati (20 nov.). En India, el comité de la ONU contra la discriminación racial expresó en agosto su preocupación por la acción policial contra rohinyás y musulmanes de habla bengalí; Nueva Delhi rechazó esas observaciones.",
+      "Otras minorías: USCIRF señala en su informe de 2026 que en Siria persiste la violencia contra alauíes, drusos y cristianos, aunque ha disminuido desde julio de 2025; no se halló un hecho nuevo verificado hoy. Ninguna comunidad religiosa en su conjunto es responsable: los autores son personas o grupos concretos."
      ],
      "tono": "neutral",
      "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "Dawn (24 nov.)",
-       "url": "https://www.dawn.com/news/2046787"
+       "nombre": "International Christian Concern (17 nov.)",
+       "url": "https://persecution.org/2026/11/17/fulani-militants-kill-14-christians-in-plateau-state-nigeria/"
       },
       {
-       "nombre": "ICC (3 nov.)",
-       "url": "https://persecution.org/2026/11/03/amid-drop-in-official-blasphemy-accusations-underlying-concerns-remain-in-pakistan/"
+       "nombre": "FDD's Long War Journal",
+       "url": "https://www.longwarjournal.org/archives/2026/11/8-islamic-state-suspects-arrested-or-indicted-across-5-countries-since-october.php"
       },
       {
-       "nombre": "PJ Media sobre USCIRF (20 nov.)",
-       "url": "https://pjmedia.com/uzay-bulut/2026/11/20/why-uscirf-says-pakistan-remains-a-danger-zone-for-religious-minorities-n4959533"
+       "nombre": "CAIR",
+       "url": "https://www.cair.com/press_releases/breaking-alabama-mosque-targeted-in-arson-attack-suspect-still-at-large/"
+      },
+      {
+       "nombre": "House of Commons Library – Siria 2026",
+       "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10429/"
       }
      ]
     },
     {
      "antetitulo": "Nigeria",
-     "titulo": "Al menos 14 cristianos muertos en Plateau en un fin de semana, según una ONG cristiana; el Gobierno no había emitido comunicado",
-     "bajada": "",
+     "titulo": "Al menos 14 cristianos muertos en Plateau, según ONG cristianas; autoridades sin comunicado, y 4 muertos en un mercado de Benue",
      "lugar": "Plateau / Benue (Nigeria)",
      "imagen": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Boko_Haram_hostages_released_VOA.jpg",
@@ -664,49 +717,56 @@
       "fuente_url": "https://commons.wikimedia.org/wiki/File:Boko_Haram_hostages_released_VOA.jpg"
      },
      "cuerpo": [
-      "International Christian Concern (ICC), ONG de parte, informó de que al menos 14 cristianos murieron en ataques durante el fin de semana en cuatro áreas de gobierno local de Plateau, atribuidos a milicianos fulani; el Gobierno estatal y la policía no habían emitido declaración. Un jefe local identificó a los atacantes de cinco jóvenes muertos en Riyom como pastores fulani armados.",
-      "En Benue, la policía dijo que tres personas murieron en un ataque a un mercado en Logo; otros medios hablan de cuatro, entre ellas un pastor. El presidente Bola Tinubu visitó Jos el 14 de noviembre y prometió protección. Los fulani como comunidad no son responsables de los ataques; las fuentes consultadas son sobre todo medios y ONG cristianas, y las cifras deben contrastarse con fuentes oficiales y agencias."
+      "International Christian Concern y Barnabas Aid afirman que al menos 14 cristianos murieron en ataques en cuatro áreas de Plateau el 15–16 de noviembre, atribuidos a milicianos fulani; en Mangu, diez víctimas fueron enterradas en una fosa común. En Bokkos murieron dos personas, entre ellas un comandante de la fuerza estatal Operation Rainbow.",
+      "En el mercado de Logo (Benue), el presidente del gobierno local contó cuatro muertos y cinco heridos, y la policía de Benue, tres muertos; un pastor figuraba entre las víctimas, según un medio cristiano. Ni el Gobierno de Plateau ni su policía habían emitido comunicado. Casi todas las fuentes son ONG o medios religiosos; no hubo confirmación de agencias."
      ],
      "tono": "negativa",
-     "verificacion": "parcial",
+     "verificacion": "no_verificado",
      "fuentes": [
       {
-       "nombre": "ICC (17 nov.)",
+       "nombre": "International Christian Concern",
        "url": "https://persecution.org/2026/11/17/fulani-militants-kill-14-christians-in-plateau-state-nigeria/"
       },
       {
-       "nombre": "Truth Nigeria (nov.)",
+       "nombre": "Barnabas Aid",
+       "url": "https://www.barnabasaid.org/us/news/at-least-14-christians-killed-by-islamists-in-plateau-state-nigeria/"
+      },
+      {
+       "nombre": "Truth Nigeria",
        "url": "https://truthnigeria.com/2026/11/the-week-23-christians-killed-in-four-states/"
       }
      ]
     },
     {
      "antetitulo": "Terrorismo islamista",
-     "titulo": "Ocho sospechosos del Estado Islámico detenidos o acusados en cinco países; EE. UU. acusa a tres hombres de una red respaldada por Irán",
-     "bajada": "",
-     "lugar": "España / Italia / EE. UU.",
+     "titulo": "Detenidos dos yihadistas en Barcelona y un hombre en Sídney por investigar un coche bomba; Alemania arresta a dos iraquíes",
+     "lugar": "España / Australia / Alemania",
      "cuerpo": [
-      "Según Long War Journal, autoridades de España, Canadá, Italia, Israel y Suecia anunciaron desde octubre detenciones o acusaciones contra ocho personas por casos vinculados al Estado Islámico. Policía española detuvo el 3 de noviembre a un hombre en Barcelona por adoctrinamiento terrorista; los carabineros italianos arrestaron el 4 a un tunecino de 27 años por promover su pertenencia al grupo.",
-      "El 10 de noviembre, el Departamento de Justicia de EE. UU. acusó a tres hombres de planear casi 20 ataques contra comunidades judías en Europa y EE. UU. y los vinculó con una red respaldada por Irán; Teherán niega su implicación en el caso RAF Fairford. Son acusaciones, no condenas. No se encontró un atentado nuevo en Europa de las últimas 48 horas."
+      "En Barcelona, dos hombres vinculados al Estado Islámico fueron detenidos por terrorismo y enviados a prisión por la Audiencia Nacional; ambos habían sido condenados en 2023 por delitos cometidos siendo menores, según un medio local.",
+      "En Sídney, la policía arrestó el 20 de noviembre a un hombre acusado de investigar cómo construir un coche bomba y de descargar material inspirado en el Estado Islámico; cree que actuaba solo y negó un nexo con el aniversario del ataque de Bondi Beach, según ABC.",
+      "Alemania detuvo el 26 de noviembre a dos iraquíes sospechosos de pertenecer a una organización terrorista que planeaba atentados contra objetivos judíos y otros en Europa, entre ellos una sinagoga de Colonia; no se confirmó con una segunda fuente su vínculo con el Estado Islámico. EE. UU. acusó el 16 de noviembre a tres hombres de planear casi 20 ataques contra comunidades judías con respaldo iraní, según una nota no verificada de forma independiente. Los acusados tienen derecho a la presunción de inocencia."
      ],
      "tono": "negativa",
      "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "Long War Journal (nov.)",
-       "url": "https://www.longwarjournal.org/archives/2026/11/8-islamic-state-suspects-arrested-or-indicted-across-5-countries-since-october.php"
+       "nombre": "ABC News (Sídney)",
+       "url": "https://abcnews.com/International/wireStory/sydney-man-charged-car-bomb-plot-downloading-islamic-138312769"
       },
       {
-       "nombre": "Departamento de Justicia de EE. UU.",
-       "url": "https://www.justice.gov/opa/pr/three-iranian-backed-operatives-indicted-their-roles-nearly-20-terrorist-attacks-and"
+       "nombre": "TodoAlicante (Barcelona)",
+       "url": "https://www.todoalicante.es/english/islamic-state-linked-jihadists-20261126101132-nt.html"
+      },
+      {
+       "nombre": "FDD's Long War Journal",
+       "url": "https://www.longwarjournal.org/archives/2026/11/8-islamic-state-suspects-arrested-or-indicted-across-5-countries-since-october.php"
       }
      ]
     },
     {
      "antetitulo": "Islamofobia",
-     "titulo": "Un hombre de 35 años detenido por el incendio de la mezquita de Gadsden (Alabama); CAIR cuenta 17 incidentes en tres meses",
-     "bajada": "",
-     "lugar": "Gadsden, Alabama (EE. UU.)",
+     "titulo": "Ataques a mezquitas en Alabama, Israel y Ohio en una semana; CAIR contabiliza 17 incidentes en tres meses",
+     "lugar": "EE. UU. / Israel",
      "imagen": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Islamic_Center_of_Tuscaloosa.jpg",
       "pie": "Centro Islámico de Tuscaloosa (Alabama). Foto de archivo de 2007; no es la mezquita de Gadsden.",
@@ -716,31 +776,31 @@
       "fuente_url": "https://commons.wikimedia.org/wiki/File:Islamic_Center_of_Tuscaloosa.jpg"
      },
      "cuerpo": [
-      "La Sociedad Islámica de Gadsden fue blanco de un incendio provocado el 11 de noviembre. La policía detuvo a Daniel Black, de 35 años, en relación con el ataque, según el SPLC. La mezquita invitó al presidente de la Cámara de Alabama, Nathaniel Ledbetter, a visitarla tras sus comentarios de alarma por musulmanes que se postulan a cargos.",
-      "CAIR, organización de defensa de musulmanes, documentó 17 incidentes de ese tipo en tres meses de 2026, un 183 % más que un año antes. Un blog reportó el 19 de noviembre el incendio de una mezquita en una localidad árabe de Galilea, cerca de Afula, con pintadas de venganza por la muerte de un colono; es una sola fuente y no está verificado."
+      "El 13 de noviembre, un hombre enmascarado incendió la entrada de la mezquita de la Gadsden Islamic Society (Alabama) sin dejar heridos; la policía arrestó a Daniel Black, de 35 años, según WVTM. CAIR vincula el hecho a un clima de retórica contra musulmanes que se postulan a cargos; el presidente de la Cámara estatal expresó «alarma» por ello y la mezquita lo invitó a visitarla.",
+      "El 19 de noviembre, una mezquita cerca de Afula (Israel) fue incendiada parcialmente y pintada con grafitis; el imán dice que tres atacantes llegaron con un cóctel molotov. El diputado Mansour Abbas lo calificó de «crimen de odio» y la policía investiga un posible crimen de odio, según Jerusalem Post. El 20 de noviembre, siete jóvenes intentaron forzar la entrada de una mezquita en Cincinnati; se pide investigar el móvil.",
+      "CAIR (organización de parte) documentó 17 incidentes en tres meses de 2026, un 183 % más que un año antes."
      ],
      "tono": "negativa",
      "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "SPLC",
-       "url": "https://www.splcenter.org/presscenter/splc-condemns-attack-on-gadsden-islamic-society-mosque/"
+       "nombre": "WVTM13 (Alabama)",
+       "url": "https://www.wvtm13.com/article/alabama-mosque-attack-anti-muslim-incidents/74457041"
+      },
+      {
+       "nombre": "Jerusalem Post (Afula)",
+       "url": "https://www.jpost.com/israel-news/crime-in-israel/article-915399"
       },
       {
        "nombre": "CAIR",
-       "url": "https://cair.com/press_releases/alabama-mosque-targeted-in-arson-attack-invites-house-speaker-ledbetter-to-visit-after-anti-muslim-remarks"
-      },
-      {
-       "nombre": "WVTM13",
-       "url": "https://www.wvtm13.com/article/alabama-mosque-attack-anti-muslim-incidents/74457041"
+       "url": "https://www.cair.com/press_releases/alabama-mosque-targeted-in-arson-attack-invites-house-speaker-ledbetter-to-visit-after-anti-muslim-remarks/"
       }
      ]
     },
     {
      "antetitulo": "Persecución de musulmanes",
-     "titulo": "La CIJ declara que Myanmar cometió genocidio contra los rohinyás; Malasia devolverá a más de 6.500 refugiados",
-     "bajada": "",
-     "lugar": "La Haya / Kuala Lumpur",
+     "titulo": "La ONU y ONG cuestionan a India por la acción policial contra rohinyás y musulmanes bengalíes; Nueva Delhi lo rechaza",
+     "lugar": "India / Myanmar / Malasia",
      "imagen": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Kutupalong_Refugee_Camp_%28John_Owens-VOA%29.jpg/960px-Kutupalong_Refugee_Camp_%28John_Owens-VOA%29.jpg",
       "pie": "Campo de refugiados rohinyá de Kutupalong, Bangladés. Foto de archivo.",
@@ -750,27 +810,24 @@
       "fuente_url": "https://commons.wikimedia.org/wiki/File:Kutupalong_Refugee_Camp_(John_Owens-VOA).jpg"
      },
      "cuerpo": [
-      "El 19 de noviembre, la Corte Internacional de Justicia (CIJ) decidió por 9 votos contra 6 que Myanmar cometió genocidio contra los rohinyás en las operaciones de 2017 en el norte de Rakáin; es la primera vez que la Corte responsabiliza a un Estado de genocidio. El fallo es definitivo; el monto de la reparación se fijará después. Amnistía y HRW lo calificaron de histórico. El Gobierno de Myanmar, encabezado por el exjefe militar Min Aung Hlaing, no había respondido en las fuentes consultadas.",
-      "Cinco días después, el primer ministro de Malasia, Anwar Ibrahim, anunció que devolverá a más de 6.500 rohinyás a Myanmar: unos 1.500 por mar los días 6 y 7 de diciembre y 5.303 por avión. Anwar dijo que Malasia no puede seguir acogiendo refugiados y que el retorno cumple con el fallo de la CIJ, que pide un regreso «seguro, voluntario y digno». Organizaciones de refugiados advierten de riesgos sin alto el fuego ni supervisión. En India viven unos 40.000 rohinyás sujetos a detenciones y amenazas de deportación, según reportes."
+      "El Comité de la ONU para la Eliminación de la Discriminación Racial expresó en agosto «grave preocupación» por el aumento de la acción policial contra refugiados rohinyás, musulmanes de habla bengalí y dalits en India, y pidió no realizar expulsiones. India rechazó esas observaciones, según bdnews24. Human Rights Watch afirma que Nueva Delhi expulsó a cientos de ellos en 2025.",
+      "El 17 de noviembre, Radio Pakistán (medio estatal, parte interesada) difundió un informe internacional sobre crímenes de odio contra musulmanes en India; no se verificó el original.",
+      "Sobre los rohinyás, esta edición recogió el 25 de noviembre el fallo de la CIJ del 19 de noviembre contra Myanmar y los planes de Malasia de devolver refugiados en diciembre; hoy no hay novedad adicional verificada. Tampoco se halló un hecho nuevo verificado sobre uigures."
      ],
-     "tono": "mixta",
-     "verificacion": "confirmado",
+     "tono": "negativa",
+     "verificacion": "parcial",
      "fuentes": [
       {
-       "nombre": "HRW (19 nov.)",
-       "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide"
+       "nombre": "Al Jazeera (25 ago.)",
+       "url": "https://aljazeera.com/news/2026/8/25/india-faces-criticism-from-un-discrimination-watchdog"
       },
       {
-       "nombre": "Al Jazeera (24 nov.)",
-       "url": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2"
+       "nombre": "Human Rights Watch (feb. 2026)",
+       "url": "https://www.hrw.org/news/2026/02/04/india-religious-minorities-critics-unlawfully-targeted"
       },
       {
-       "nombre": "Amnistía Internacional",
-       "url": "https://amnesty.org/en/latest/news/2026/11/historic-un-ruling-that-myanmar-committed-genocide-against-rohingya-is-rare-victory-for-survivors/"
-      },
-      {
-       "nombre": "The New Humanitarian (23 nov.)",
-       "url": "https://www.thenewhumanitarian.org/news-feature/2026/11/23/rohingya-refugees-welcome-momentous-genocide-ruling-ask-when-they-can-go"
+       "nombre": "Radio Pakistán (17 nov.)",
+       "url": "https://radio.gov.pk/17-11-2026/intl-human-rights-report-exposes-hate-crimes-against-muslims-in-india"
       }
      ]
     }
@@ -779,149 +836,166 @@
  ],
  "dos_caras": [
   {
-   "tema": "Ormuz: ¿quién bloquea el estrecho?",
+   "tema": "Ormuz: ¿hay minas en el estrecho?",
    "lado_a": {
-    "quien": "Irán (IRGC)",
+    "quien": "Irán (IRGC y Ejército)",
     "parrafos": [
-     "Dice que los buques deben seguir sus órdenes de tráfico y que la escolta de EE. UU. no los protege de las minas; el estrecho se abriría en dos días si se levanta el bloqueo y se aceptan sus condiciones."
+     "Afirma que varios petroleros y un buque de GNL chocaron con minas al entrar en una zona restringida, y que la escolta de EE. UU. no los protege. El jefe del Ejército ordenó endurecer el bloqueo hasta que se cumplan siete condiciones."
     ]
    },
    "lado_b": {
-    "quien": "EE. UU.",
+    "quien": "EE. UU. (CENTCOM)",
     "parrafos": [
-     "Trump acusa a Teherán de no ser serio y advierte de nuevos ataques tras fin de año; Washington amplió sanciones y sospecha que Irán está detrás de ciberataques a hasta 50 buques. Irán lo atribuye al bloqueo."
+     "Sostiene que despejó todas las rutas primarias reconocidas, que las citadas por el IRGC no lo son y que unos 400 buques transitaron en una semana. Trump amenaza con hundir buques que desafíen el bloqueo naval."
     ]
    },
-   "verificable": "No hay confirmación independiente de las minas ni del número de buques; el Mando Central no había comentado al cierre.",
+   "verificable": "El Joint Maritime Information Centre calificó de no confirmada la información sobre minas; no hay confirmación independiente de víctimas ni daños.",
    "fuentes": [
     {
-     "nombre": "CNBC (24 nov.)",
-     "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html"
+     "nombre": "Euronews",
+     "url": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks"
     },
     {
-     "nombre": "Gulf News (25 nov.)",
-     "url": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
+     "nombre": "National Security Journal",
+     "url": "https://nationalsecurityjournal.org/the-us-navy-has-a-new-problem-iran-says-3-oil-tankers-hit-mines-in-the-strait-of-hormuz-and-centcom-says-every-main-lane-is-clear/"
     }
    ]
   },
   {
-   "tema": "Gaza: ¿quién viola la tregua?",
+   "tema": "Gaza: ataques selectivos y tregua",
    "lado_a": {
-    "quien": "Israel",
+    "quien": "Hamás",
     "parrafos": [
-     "Dice atacar a mandos de Hamás y que cuatro de sus soldados han muerto desde la tregua; el ministro Katz condiciona la retirada al desarme de Hamás."
+     "Dice que la política de «asesinatos» viola la tregua de octubre de 2025 y el derecho internacional, y responsabiliza a la «Junta de Paz» de Trump por no detenerla."
     ]
    },
    "lado_b": {
-    "quien": "Hamás y autoridades de Gaza",
+    "quien": "Ejército de Israel",
     "parrafos": [
-     "Dicen que Israel mata civiles casi a diario: 1.679 muertos desde octubre de 2025 según el Ministerio de Salud de Gaza. Hamás dice que el acuerdo no se aplicará si Israel no cumple."
+     "Afirma que perseguirá a los dirigentes de Hamás hasta que depongan las armas y que algunos ataques apuntan a milicianos que cruzaron las líneas acordadas."
     ]
    },
-   "verificable": "La ONU considera fiables los datos del Ministerio de Salud; AFP cuenta al menos 1.658. AP reporta cinco soldados israelíes muertos y no cuatro.",
+   "verificable": "Salud de Gaza cuenta 1.679 muertos desde la tregua; las tropas israelíes controlan cerca de dos tercios de la Franja. Las cifras de muertos de hoy varían entre 5 y 9 según el medio.",
    "fuentes": [
     {
-     "nombre": "PBS NewsHour",
-     "url": "https://www.pbs.org/newshour/world/israels-deadly-gaza-strikes-cast-doubt-on-ceasefire-progress-days-after-kushner-visit"
+     "nombre": "Cyprus Mail",
+     "url": "https://cyprus-mail.com/2026/11/26/israeli-strikes-kill-nine-in-gaza-despite-ceasefire"
     },
     {
-     "nombre": "Times of Israel (24 nov.)",
-     "url": "https://www.timesofisrael.com/liveblog-november-24-2026/"
+     "nombre": "Middle East Monitor",
+     "url": "https://middleeastmonitor.com/20261126-israeli-strikes-kill-5-palestinians-including-deputy-education-minister-in-gaza"
     }
    ]
   },
   {
-   "tema": "Rohinyás: retorno de refugiados desde Malasia",
+   "tema": "Jericó: ¿legítima defensa o ataque a civil?",
    "lado_a": {
-    "quien": "Gobierno de Malasia",
+    "quien": "Ejército israelí",
     "parrafos": [
-     "Anwar Ibrahim dice que el país no puede seguir acogiendo refugiados y que el retorno cumple con el fallo de la CIJ de un regreso «seguro, voluntario y digno»."
+     "Dice que los israelíes abrieron fuego tras ser embestidos, atacados y apedreados."
     ]
    },
    "lado_b": {
-    "quien": "Organizaciones de refugiados y derechos humanos",
+    "quien": "Palestinos y testigos",
     "parrafos": [
-     "Advierten de que devolver a personas sin alto el fuego ni supervisión puede exponerlas a más persecución, y señalan reportes de que cientos de retornados recientes fueron detenidos por militares."
+     "Afirman que la mujer estaba en la puerta de su casa y no participó; Wafa denuncia el ataque de colonos."
     ]
    },
-   "verificable": "Malasia dijo que pedirá aclaraciones a Myanmar sobre esas detenciones; no hay confirmación independiente.",
+   "verificable": "La edad de la víctima varía entre 60 y 72 años según el medio; no hay investigación pública concluida.",
    "fuentes": [
     {
-     "nombre": "Al Jazeera (24 nov.)",
-     "url": "https://www.aljazeera.com/news/2026/11/24/malaysia-set-to-return-thousands-of-rohingya-refugees-to-myanmar-2"
+     "nombre": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people"
+    },
+    {
+     "nombre": "Haaretz",
+     "url": "https://www.haaretz.com/israel-news/israel-security/2026-11-17/ty-article/.premium/palestinians-two-people-shot-by-settlers-in-jericho-idf-reports-attack-attempt/000001a1-e688-d848-abeb-fe88cba10000"
     }
    ]
   }
  ],
  "buenas_noticias": [
   {
-   "titulo": "Rusia y Ucrania acuerdan un canje amplio de prisioneros",
+   "titulo": "Detienen a un sospechoso por el incendio de la mezquita de Gadsden",
    "cuerpo": [
-    "Tras dos días de conversaciones en Abu Dabi, ambos países pactaron el 11 de noviembre el que Jared Kushner llamó mayor intercambio humanitario de la guerra. Aún no hay confirmación de que se haya ejecutado."
+    "La policía arrestó a Daniel Black, de 35 años, por el ataque del 13 de noviembre; no hubo heridos. La mezquita invitó al presidente de la Cámara de Alabama a visitarla."
    ],
    "fuentes": [
     {
-     "nombre": "NPR/WUNC (11 nov.)",
-     "url": "https://www.wunc.org/2026-11-11/russia-and-ukraine-agree-to-a-large-exchange-of-prisoners-of-war-officials-say"
+     "nombre": "WVTM13",
+     "url": "https://www.wvtm13.com/article/alabama-mosque-attack-anti-muslim-incidents/74457041"
     }
    ]
   },
   {
-   "titulo": "La CIJ dicta un fallo histórico para los rohinyás",
+   "titulo": "Rusia y Ucrania pactan «en principio» un gran canje de prisioneros",
    "cuerpo": [
-    "Amnistía Internacional lo calificó de «rara victoria» para los sobrevivientes. La Corte ordenó facilitar el retorno seguro y fijará después las reparaciones."
+    "El acuerdo de Abu Dabi del 10–11 de noviembre sigue vigente; no hay confirmación de que se haya ejecutado."
    ],
    "fuentes": [
     {
-     "nombre": "Amnistía Internacional",
-     "url": "https://amnesty.org/en/latest/news/2026/11/historic-un-ruling-that-myanmar-committed-genocide-against-rohingya-is-rare-victory-for-survivors/"
+     "nombre": "France 24",
+     "url": "https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end"
     }
    ]
   },
   {
-   "titulo": "Irlanda revierte la negativa de visas a 20 palestinos de Gaza",
+   "titulo": "Otros 9 niños ucranianos regresan con sus familias",
    "cuerpo": [
-    "Tras un fallo judicial, Dublín revocó las denegaciones y 20 palestinos de Gaza viajaron a Irlanda, según The Guardian citado por Times of Israel."
+    "Con ellos suman 43 en una iniciativa liderada por Melania Trump, según el resumen de Yahoo News UK."
    ],
    "fuentes": [
     {
-     "nombre": "Times of Israel (24 nov.)",
-     "url": "https://www.timesofisrael.com/liveblog-november-24-2026/"
+     "nombre": "Yahoo News UK",
+     "url": "https://uk.news.yahoo.com/ukraine-russia-war-latest-putin-070109181.html"
     }
    ]
   },
   {
-   "titulo": "Noruega promete al menos 7.000 millones de dólares para Ucrania en 2027 y Kiev cierra acuerdos de gas con Hungría",
+   "titulo": "La Corte Constitucional ordena garantizar medicamentos a pacientes de EPS",
    "cuerpo": [
-    "Zelenski dijo tras reunirse con el primer ministro húngaro, Péter Magyar, que se alcanzaron «acuerdos concretos»."
+    "La sentencia T-286 de 2026 ordena anticipar faltantes y crear una plataforma pública de disponibilidad."
    ],
    "fuentes": [
     {
-     "nombre": "Kyiv Independent (25 nov.)",
-     "url": "https://kyivindependent.com/"
-    }
-   ]
-  },
-  {
-   "titulo": "Detienen a un hombre por el incendio de la mezquita de Gadsden",
-   "cuerpo": [
-    "La policía arrestó a Daniel Black, de 35 años, en relación con el ataque del 11 de noviembre, según el SPLC."
-   ],
-   "fuentes": [
-    {
-     "nombre": "SPLC",
-     "url": "https://www.splcenter.org/presscenter/splc-condemns-attack-on-gadsden-islamic-society-mosque/"
+     "nombre": "Valora Analitik",
+     "url": "https://www.valoraanalitik.com/pacientes-no-podran-quedarse-sin-medicamentos-por-fallas-de-las-eps-nueva-orden-de-la-corte-constitucional-toma-medidas/"
     }
    ]
   }
  ],
  "colombia": {
-  "subtitulo": "Ley de Rescate, Congreso y orden público",
+  "subtitulo": "Atentado en el Meta, Ley de Rescate, Cortes y economía",
   "articulos": [
    {
+    "antetitulo": "Orden público",
+    "titulo": "Carro bomba frente a la Gobernación del Meta deja 20 a 24 heridos en Villavicencio; el Gobierno acusa a disidencias de las FARC",
+    "lugar": "Villavicencio, Meta",
+    "cuerpo": [
+     "Un carro bomba estalló hacia las 9:00–9:30 p. m. del lunes 23 de noviembre frente a la Gobernación del Meta, en el centro de Villavicencio, según El Espectador, Infobae y El Tiempo. La Secretaría de Salud del Meta contó 24 heridos —entre ellos una niña de nueve años—; el presidente habló de 20. No hay muertos reportados. Las fuentes difieren sobre la carga: 500 kilos según El Espectador, unos 80 según otro medio.",
+     "Según las autoridades, la explosión destruyó cerca del 60 % de la sede de la Gobernación y afectó la Catedral, el Banco de la República y más de 85 inmuebles. El presidente Abelardo de la Espriella atribuyó el ataque a las disidencias de alias Iván Mordisco —un reporte inicial habló de alias Antonio Medina (frentes 28 y 39) y el Gobierno lo vinculó al frente Arcesio Niño—; ningún grupo lo había reivindicado, según Reuters. De la Espriella dijo: «No vamos a retroceder». Se ofrece una recompensa de 150 millones de pesos y la Fiscalía investiga.",
+     "Un día antes, dos drones con explosivos, atribuidos al ELN, atacaron el comando de Policía de Cúcuta, según un reporte."
+    ],
+    "tono": "negativa",
+    "verificacion": "parcial",
+    "fuentes": [
+     {
+      "nombre": "Infobae (24 nov.)",
+      "url": "https://www.infobae.com/colombia/2026/11/24/atentado-con-carro-bomba-contra-la-gobernacion-del-meta-abelardo-de-la-espriella-se-pronuncio-tras-explosion-en-villavicencio/"
+     },
+     {
+      "nombre": "El Espectador",
+      "url": "https://www.elespectador.com/judicial/ataque-a-gobernacion-del-meta-numero-de-heridos-aumento-a-24-personas/"
+     },
+     {
+      "nombre": "El Tiempo",
+      "url": "https://www.eltiempo.com/amp/justicia/conflicto-y-narcotrafico/atentado-terrorista-contra-la-gobernacion-del-meta-deja-23-heridos-varios-con-fracturas-y-traumas-severos-3603644"
+     }
+    ]
+   },
+   {
     "antetitulo": "Congreso",
-    "titulo": "La Ley de Rescate Económico tiene hasta el 16 de diciembre para sus cuatro debates; el Gobierno anuncia ajustes",
-    "bajada": "",
+    "titulo": "Cambios del Congreso recortarían casi a la mitad el recaudo de la Ley de Rescate: de $80 a $45 billones, según La Silla Vacía",
     "lugar": "Bogotá",
     "imagen": {
      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Entrada_frontal_Congreso_de_la_Rep%C3%BAblica_de_Colombia_-_Bogot%C3%A1_D.C.jpg/960px-Entrada_frontal_Congreso_de_la_Rep%C3%BAblica_de_Colombia_-_Bogot%C3%A1_D.C.jpg",
@@ -932,134 +1006,136 @@
      "fuente_url": "https://commons.wikimedia.org/wiki/File:Entrada_frontal_Congreso_de_la_Rep%C3%BAblica_de_Colombia_-_Bogot%C3%A1_D.C.jpg"
     },
     "cuerpo": [
-     "El proyecto de Ley de Rescate Económico (PL 477 de 2026) fue radicado el 29 de octubre por el Ministerio de Hacienda, a cargo de Miguel Gómez Martínez. Tiene 106 artículos, baja la tarifa de renta corporativa de 35 % a 33 % en 2027 y 31 % desde 2028, y busca recuperar 3,58 % del PIB en 2028 y 4,09 % en 2030, según su exposición de motivos. El Gobierno envió mensaje de urgencia; las sesiones ordinarias terminan el 16 de diciembre y el Gobierno podría convocar extraordinarias.",
-     "Tras su balance de los primeros 100 días, el presidente Abelardo de la Espriella anunció ajustes, entre ellos no gravar los alimentos básicos de la canasta familiar. Según Cambio, el texto crea una tarifa del 9 % para personas naturales y baja el umbral a 720 UVT. El 23 de noviembre hubo una audiencia pública en Bogotá. Según informes, el proyecto aún carece de ponente formal. La Silla Vacía lo describió como «más tributaria que recorte»."
+     "El Proyecto de Ley 477 de 2026, radicado el 29 de octubre, tiene mensaje de urgencia y pide seis meses de facultades extraordinarias al presidente para reestructurar ministerios y entidades. Según un análisis de La Silla Vacía, las modificaciones pedidas por sectores del Congreso reducirían la meta de recaudo en 45 %, de 80 a 45 billones de pesos; Infobae habló el 22 de noviembre de un posible recorte de 35 billones.",
+     "El Gobierno no gravará con IVA la canasta básica. Congresistas de la coalición coinciden en que la ley será aprobada, pero el Centro Democrático —la bancada más grande de la coalición— y Salvación Nacional criticaron el proyecto. Una fuente fija el 2 de diciembre como plazo para las comisiones económicas; las sesiones ordinarias terminan el 16 de diciembre."
     ],
-    "tono": "neutral",
+    "tono": "mixta",
     "verificacion": "parcial",
     "fuentes": [
      {
-      "nombre": "Infobae (8 nov.)",
-      "url": "https://www.infobae.com/colombia/2026/11/08/el-congreso-tiene-en-lista-varias-reformas-del-gobierno-de-la-espriella-estos-son-los-proyectos-que-siguen-pendientes/"
-     },
-     {
-      "nombre": "Vanguardia (16 nov.)",
-      "url": "https://www.vanguardia.com/colombia/2026/11/16/de-la-espriella-anuncia-cambios-a-la-reforma-tributaria-estos-son-los-ajustes-que-estudia-el-gobierno/"
-     },
-     {
       "nombre": "La Silla Vacía",
-      "url": "https://www.lasillavacia.com/silla-nacional/mas-tributaria-que-recorte-claves-de-la-ley-de-rescate-de-abelardo/"
+      "url": "https://www.lasillavacia.com/silla-nacional/cambios-que-propone-el-congreso-a-ley-de-rescate-la-trasquilan-casi-a-la-mitad/"
      },
      {
-      "nombre": "Cámara de Representantes",
-      "url": "https://www.camara.gov.co/ley-rescate-economico/"
+      "nombre": "Infobae (22 nov.)",
+      "url": "https://www.infobae.com/colombia/2026/11/22/ley-de-rescate-economico-de-abelardo-de-la-espriella-se-desinfla-congreso-podria-recortar-35-billones-al-recaudo/"
+     },
+     {
+      "nombre": "Infobae (3 nov.)",
+      "url": "https://www.infobae.com/colombia/2026/11/03/abelardo-de-la-espriella-pidio-al-congreso-acelerar-el-tramite-de-la-ley-de-rescate-economico-mediante-mensaje-de-urgencia/"
      }
     ]
    },
    {
-    "antetitulo": "Orden público",
-    "titulo": "Golpes al Clan del Golfo en Magdalena y a las disidencias en Guaviare, según el Gobierno; alteración del orden público en Cesar",
-    "bajada": "",
-    "lugar": "Magdalena / Guaviare / Cesar",
+    "antetitulo": "Cortes",
+    "titulo": "La Corte Constitucional ordena reconocer como entidad religiosa al Ministerio Rastafari de Jehová y ordena medidas por medicamentos de las EPS",
+    "lugar": "Bogotá",
     "cuerpo": [
-     "Según el presidente De la Espriella, una operación de la Policía y la Fiscalía en Guacamayal (Zona Bananera, Magdalena) dejó dos presuntos integrantes del Clan del Golfo muertos, alias Héctor y alias La Gorda, y tres capturados; se incautaron armas, munición y droga. Las acusaciones de extorsión y homicidios selectivos provienen del Gobierno y no han sido verificadas (Infobae, 25 de nov.).",
-     "Hacia el 23 de noviembre, un bombardeo ordenado por el Gobierno en Guaviare abatió al cabecilla de las disidencias alias el Churco, según Semana. El 20 de noviembre el presidente anunció la muerte de alias Yunder, cabecilla urbano del Clan del Golfo en Nechí (Antioquia). En Cesar, autoridades locales hablan de una alteración del orden público; la Fuerza Pública sospecha del ELN, pero la Gobernación no ha determinado responsables. El presidente advirtió que cada ataque tendrá consecuencias."
+     "Según Infobae y El Colombiano (25 de noviembre), la Corte ordenó al Gobierno reconocer al grupo como entidad religiosa y permitir el uso ritual del cannabis en sus ceremonias, y exhortó al Congreso a regularlo.",
+     "En otra decisión (T-286 de 2026), la Corte ordenó a las EPS anticipar faltantes de medicamentos y crear una plataforma pública de disponibilidad, según Valora Analitik. El 17 de noviembre se conoció además que la sentencia C-168 de 2026 elimina el «periodo de silencio» para encuestas electorales, según Infobae. Un boletín secundario dice que la Corte declaró exequible, con condiciones, la emergencia económica; no se confirmó con la sentencia."
     ],
     "tono": "mixta",
     "verificacion": "parcial",
     "fuentes": [
      {
       "nombre": "Infobae (25 nov.)",
-      "url": "https://infobae.com/colombia/2026/11/25/golpe-al-clan-del-golfo-en-magdalena-abatieron-a-dos-cabecillas-y-capturaron-a-otros-tres-integrantes"
+      "url": "https://www.infobae.com/colombia/2026/11/25/que-es-el-ministerio-rastafari-de-jehova-el-grupo-que-consume-marihuana-durante-sus-rituales-y-que-la-corte-constitucional-ordeno-al-gobierno-reconocer/"
      },
      {
-      "nombre": "Semana",
-      "url": "https://www.semana.com/politica/articulo/de-la-espriella-envio-mensaje-a-ivan-mordisco-y-cabecillas-del-eln-y-clan-del-golfo-los-estamos-enfrentando-como-nunca/202615/"
+      "nombre": "Valora Analitik",
+      "url": "https://www.valoraanalitik.com/pacientes-no-podran-quedarse-sin-medicamentos-por-fallas-de-las-eps-nueva-orden-de-la-corte-constitucional-toma-medidas/"
      },
      {
-      "nombre": "El Tiempo (Cesar)",
-      "url": "https://www.eltiempo.com/justicia/conflicto-y-narcotrafico/tenemos-una-alteracion-del-orden-publico-en-el-departamento-y-estamos-trabajando-para-enfrentarla-secretario-de-gobierno-del-cesar-3603398"
+      "nombre": "Infobae (18 nov.)",
+      "url": "https://www.infobae.com/colombia/2026/11/18/estos-son-los-cambios-en-las-encuestas-preelectorales-tras-importante-fallo-de-la-corte-constitucional-no-habra-mas-periodo-de-silencio/"
      }
     ]
    },
    {
-    "antetitulo": "Reformas",
-    "titulo": "Pendientes en el Congreso: el Estatuto Antiterrorista y la capital alterna de Barranquilla; el Gobierno estudia cambiar ocho decretos laborales",
-    "bajada": "",
+    "antetitulo": "Economía y Gabinete",
+    "titulo": "Inflación de 6,3 % en septiembre, tasa de 12,25 % y cambios en el Ministerio del Interior",
     "lugar": "Bogotá",
     "cuerpo": [
-     "Entre los proyectos pendientes del Gobierno figuran el Estatuto Antiterrorista y el cambio constitucional que haría de Barranquilla capital alterna, según Infobae. El 4 de noviembre fue sancionada la Ley 2640.",
-     "Un análisis de KPMG citado por Infobae indica que ocho decretos laborales expedidos entre 2025 y 2026 podrían modificarse; los borradores estuvieron abiertos a comentarios hasta el 9 de noviembre y aún pueden cambiarse, aprobarse o archivarse."
+     "El Banco de la República mantuvo la tasa en 12,25 % el 30 de octubre por 4 votos a 3. La inflación de septiembre fue de 6,3 % y el banco prevé que cierre el año por encima de 7 % y se acerque a la meta de 3 % hacia 2028, según su informe de octubre. El dólar cerró octubre en 3.194 pesos, según Bancolombia citado por El Colombiano; no se halló la cifra de hoy.",
+     "En el Gobierno, el ministro del Interior Rodrigo Lara salió el 21 de octubre tras fallar el trámite del presupuesto de 2027, que debió expedirse por decreto; Alejandro Ordóñez lo reemplaza. El 3 de noviembre, el decreto 1632 aceptó la renuncia del viceministro Carlos Eduardo Gechem y nombró a Carlos Ramiro Chavarro."
     ],
     "tono": "neutral",
     "verificacion": "parcial",
     "fuentes": [
      {
-      "nombre": "Infobae (8 nov.)",
-      "url": "https://www.infobae.com/colombia/2026/11/08/el-congreso-tiene-en-lista-varias-reformas-del-gobierno-de-la-espriella-estos-son-los-proyectos-que-siguen-pendientes/"
+      "nombre": "El Colombiano – dólar",
+      "url": "https://www.elcolombiano.com/inicio/dolar-colombia-proyeccion-tasa-cambio-noviembre-2026-GF43201403"
      },
      {
-      "nombre": "Infobae (23 nov.)",
-      "url": "https://www.infobae.com/colombia/2026/11/23/asi-cambiarian-los-contratos-laborales-en-caso-de-que-el-gobierno-de-la-espriella-modifique-de-manera-definitiva-ocho-reglas-que-tiene-entre-ojos/"
+      "nombre": "Banco de la República – IPM octubre 2026",
+      "url": "https://banrep.gov.co/es/publicaciones-investigaciones/informe-politica-monetaria/octubre-2026"
+     },
+     {
+      "nombre": "Nación.com",
+      "url": "https://www.nacion.com/el-mundo/ministro-de-interior-de-colombia-sale-tras/7L6PRUJCCJDA3CU23LIKMHPPQQ/story/"
+     },
+     {
+      "nombre": "Semana",
+      "url": "https://www.semana.com/confidenciales/articulo/movimiento-en-el-ministerio-del-interior-abelardo-de-la-espriella-acepto-renuncia-y-nombro-a-nuevo-viceministro/202654/"
      }
     ]
    }
   ],
   "dos_caras": {
-   "tema": "Ley de Rescate: ¿ajuste fiscal o más impuestos?",
+   "tema": "Ley de Rescate: ¿recorte justificado o pérdida de recaudo?",
    "lado_a": {
     "quien": "Gobierno De la Espriella",
     "parrafos": [
-     "Presenta el proyecto como un rescate de las finanzas públicas, con rebaja de la renta corporativa y compromiso de no gravar alimentos básicos."
+     "Presenta el proyecto como un rescate de las finanzas públicas, con mensaje de urgencia y compromiso de no gravar la canasta básica con IVA."
     ]
    },
    "lado_b": {
-    "quien": "Críticos del proyecto",
+    "quien": "Sectores del Congreso y críticos",
     "parrafos": [
-     "La Silla Vacía lo describe como «más tributaria que recorte» y señala que cambios del Congreso reducirían el recaudo previsto, según la edición anterior de este diario."
+     "Piden cambios que, según La Silla Vacía, reducirían el recaudo de 80 a 45 billones de pesos; el Centro Democrático y Salvación Nacional criticaron el texto."
     ]
    },
-   "verificable": "El texto del proyecto (PL 477 de 2026) y su trámite son públicos en la página de la Cámara; los ajustes anunciados aún no están radicados.",
+   "verificable": "El texto del PL 477 de 2026 y su trámite son públicos en la página de la Cámara; el recorte es una estimación periodística.",
    "fuentes": [
     {
      "nombre": "La Silla Vacía",
-     "url": "https://www.lasillavacia.com/silla-nacional/mas-tributaria-que-recorte-claves-de-la-ley-de-rescate-de-abelardo/"
+     "url": "https://www.lasillavacia.com/silla-nacional/cambios-que-propone-el-congreso-a-ley-de-rescate-la-trasquilan-casi-a-la-mitad/"
     },
     {
-     "nombre": "Cámara de Representantes",
-     "url": "https://www.camara.gov.co/ley-rescate-economico/"
+     "nombre": "Infobae",
+     "url": "https://www.infobae.com/colombia/2026/11/22/ley-de-rescate-economico-de-abelardo-de-la-espriella-se-desinfla-congreso-podria-recortar-35-billones-al-recaudo/"
     }
    ]
   }
  },
  "agenda": [
   {
-   "cuando": "25 de noviembre",
-   "que": "Cuarta ronda de conversaciones de unidad entre Likud y Yashar en Israel."
-  },
-  {
-   "cuando": "26 y 27 de noviembre",
-   "que": "Audiencias de la Ley de Rescate en Cali y Barranquilla (según lo anunciado antes; sin reconfirmar)."
+   "cuando": "2 de diciembre",
+   "que": "Plazo señalado por una fuente para que las comisiones económicas aprueben la Ley de Rescate."
   },
   {
    "cuando": "6 y 7 de diciembre",
-   "que": "Malasia prevé devolver a unos 1.500 rohinyás por mar a Myanmar; otros 5.303 irían por aire en diciembre."
+   "que": "Malasia prevé devolver a unos 1.500 rohinyás a Myanmar (según lo informado el 25 de noviembre)."
   },
   {
    "cuando": "14–15 de diciembre",
-   "que": "Cumbre del G20 en Miami; un medio sugiere una posible ronda trilateral sobre Ucrania, sin confirmar."
+   "que": "Cumbre del G20 en Miami (según lo informado el 25 de noviembre)."
   },
   {
    "cuando": "16 de diciembre",
-   "que": "Fin de las sesiones ordinarias del Congreso de Colombia; plazo de la Ley de Rescate."
+   "que": "Fin de las sesiones ordinarias del Congreso de Colombia."
+  },
+  {
+   "cuando": "18 de diciembre",
+   "que": "Decisión de tasas del Banco de la República, fecha de una sola fuente (sin confirmar)."
   },
   {
    "cuando": "En curso",
-   "que": "Canje de prisioneros Rusia–Ucrania; mediación de Catar entre Irán y EE. UU.; Trump advierte de ataques tras fin de año."
+   "que": "Mediación de Catar entre Irán y EE. UU.; canje de prisioneros Rusia–Ucrania pendiente; coalición de gobierno en Israel."
   },
   {
-   "cuando": "Enero de 2027",
-   "que": "Open Doors publica su Lista Mundial de la Persecución 2027."
+   "cuando": "Después de Año Nuevo",
+   "que": "Trump advierte de posibles nuevos ataques contra Irán."
   }
  ]
 }
